@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_section_app_drawer">Cajón de aplicaciones</string>
+    <string name="category_all">Todo</string>
+    <string name="category_social">Social</string>
+    <string name="category_media">Medios de comunicación</string>
+    <string name="category_games">Juegos</string>
+    <string name="category_productivity">Productividad</string>
+    <string name="category_finance">Finanzas</string>
+    <string name="category_utilities">Utilidades</string>
+    <string name="category_system">Sistema</string>
+    <string name="drawer_overflow_hidden_apps">Aplicaciones ocultas</string>
+    <string name="drawer_overflow_create_folder">Crear carpeta</string>
+    <string name="drawer_overflow_settings">Configuración del cajón</string>
+    <string name="drawer_overflow_style_label">Estilo</string>
+    <string name="drawer_overflow_style_one_col">Una columna</string>
+    <string name="drawer_overflow_style_two_col">Dos columnas</string>
+    <string name="drawer_overflow_mode_label">Disposición</string>
+    <string name="drawer_overflow_mode_grid">Red</string>
+    <string name="drawer_overflow_mode_list">Lista</string>
+    <string name="drawer_overflow_columns_label">Columnas</string>
+    <string name="drawer_overflow_search_position_label">Barra de búsqueda</string>
+    <string name="drawer_overflow_category_position_label">Barra de categorías</string>
+    <string name="drawer_search_bar_position_top">Arriba</string>
+    <string name="drawer_search_bar_position_bottom">Abajo</string>
+    <string name="toast_no_web_browser_found">No se encontró ningún navegador web</string>
+    <string name="toast_no_maps_app_found">No se encontró ninguna aplicación de mapas</string>
+</resources>

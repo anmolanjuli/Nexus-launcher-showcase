@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer Settings & Subtitles -->
+    <string name="drawer_settings_layout_title">Layout</string>
+    <string name="drawer_settings_layout_subtitle">Mode, grid columns, icon size, labels &amp; sort order</string>
+    <string name="drawer_settings_transitions_title">Transitions</string>
+    <string name="drawer_settings_search_navigation_title">Search &amp; Navigation</string>
+    <string name="drawer_settings_hidden_apps_title">Hidden Apps</string>
+    <string name="drawer_settings_hidden_apps_subtitle">Manage hidden app visibility</string>
+
+    <string name="drawer_sort_recently_installed">Recently Installed</string>
+    <string name="drawer_sort_az">A–Z</string>
+    <string name="drawer_sort_za">Z–A</string>
+    <string name="drawer_search_pos_top">Top</string>
+    <string name="drawer_search_pos_bottom">Bottom</string>
+    <string name="drawer_cat_style_in_pill">In Pill</string>
+    <string name="drawer_cat_style_dropdown">Dropdown</string>
+    <string name="drawer_cat_style_strip">Strip</string>
+    <string name="drawer_layout_list">List</string>
+    <string name="drawer_layout_grid">Grid</string>
+    <string name="drawer_layout_categories">Categories</string>
+    <string name="drawer_col_abbrev">%1$d Col</string>
+    <string name="drawer_list_mode_abbrev">List Mode</string>
+    <string name="drawer_size_percent">%1$d%% Size</string>
+    <string name="drawer_labels_on">Labels On</string>
+    <string name="drawer_labels_off">Labels Off</string>
+    <string name="drawer_pill_off">Pill Off</string>
+    <string name="drawer_pill_top">Pill Top</string>
+    <string name="drawer_pill_bottom">Pill Bottom</string>
+    <string name="drawer_cats_on">Categories On</string>
+    <string name="drawer_cats_off">Categories Off</string>
+    <string name="drawer_rail_on">Rail On</string>
+    <string name="drawer_rail_off">Rail Off</string>
+    <string name="drawer_sort_order_label">Sort Order</string>
+    <string name="drawer_search_pill_subtitle">Search field and overflow menu in the app drawer</string>
+    <string name="drawer_search_pos_subtitle">Dock the search pill to the top or bottom of the drawer</string>
+    <string name="drawer_categories_label">Categories</string>
+    <string name="drawer_categories_subtitle">Filter the drawer by app category</string>
+    <string name="drawer_category_style_subtitle">Inside the search pill, a dropdown chip, or a scrollable strip</string>
+    <string name="drawer_category_pos_subtitle">The category bar docks independently of the search pill</string>
+    <string name="drawer_side_rail_label">Side Rail</string>
+    <string name="drawer_side_rail_subtitle">Quick A–Z alphabet jump rail on screen edge</string>
+    <string name="drawer_category_untagged_folders">Folders</string>
+    <string name="drawer_category_expand">Show more apps</string>
+    <string name="drawer_category_collapse">Show fewer apps</string>
+    <string name="theme_mode_label">Mode</string>
+</resources>

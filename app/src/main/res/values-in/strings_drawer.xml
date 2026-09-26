@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_section_app_drawer">Laci Aplikasi</string>
+    <string name="category_all">Semua</string>
+    <string name="category_social">Sosial</string>
+    <string name="category_media">Media</string>
+    <string name="category_games">Permainan</string>
+    <string name="category_productivity">Produktivitas</string>
+    <string name="category_finance">Keuangan</string>
+    <string name="category_utilities">Utilitas</string>
+    <string name="category_system">Sistem</string>
+    <string name="drawer_overflow_hidden_apps">Aplikasi Tersembunyi</string>
+    <string name="drawer_overflow_create_folder">Buat Folder</string>
+    <string name="drawer_overflow_settings">Pengaturan Laci</string>
+    <string name="drawer_overflow_style_label">Gaya</string>
+    <string name="drawer_overflow_style_one_col">Satu kolom</string>
+    <string name="drawer_overflow_style_two_col">Dua kolom</string>
+    <string name="drawer_overflow_mode_label">Tata Letak</string>
+    <string name="drawer_overflow_mode_grid">Jaringan</string>
+    <string name="drawer_overflow_mode_list">Daftar</string>
+    <string name="drawer_overflow_columns_label">Kolom</string>
+    <string name="drawer_overflow_search_position_label">Bilah Pencarian</string>
+    <string name="drawer_overflow_category_position_label">Bilah Kategori</string>
+    <string name="drawer_search_bar_position_top">Atas</string>
+    <string name="drawer_search_bar_position_bottom">Bawah</string>
+    <string name="toast_no_web_browser_found">Tidak ada peramban web yang ditemukan</string>
+    <string name="toast_no_maps_app_found">Tidak ada aplikasi peta yang ditemukan</string>
+</resources>

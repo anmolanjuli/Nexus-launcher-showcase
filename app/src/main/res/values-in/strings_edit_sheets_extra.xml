@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Aktifkan Lencana Pemberitahuan</string>
+    <string name="notif_perm_body">Izinkan Peluncur Nexus membaca notifikasi untuk menampilkan jumlah lencana pada ikon aplikasi Anda.\n\nAnda dapat mengubahnya kapan saja di Setelan → Aplikasi → Akses aplikasi khusus → Akses notifikasi.</string>
+    <string name="notif_perm_not_now">Tidak Sekarang</string>
+    <string name="folder_default_name">Folder</string>
+    <string name="folder_numbered_name">Folder %1$d</string>
+    <string name="folder_remove_body_count">Ini akan menghapus folder dan semua aplikasi %1$d di dalamnya.</string>
+    <string name="folder_discard_title">Hapus perubahan?</string>
+    <string name="folder_discard_body">Perubahan Anda tidak akan disimpan.</string>
+    <string name="folder_keep_editing">Terus Mengedit</string>
+    <string name="folder_discard">Buang</string>
+    <string name="folder_background_style">Gaya Latar Belakang</string>
+    <string name="gesture_group_navigation">Navigasi</string>
+    <string name="gesture_group_system">Sistem</string>
+    <string name="gesture_group_launcher">Peluncur</string>
+    <string name="gesture_group_shortcuts">Jalan pintas</string>
+    <string name="icon_edit_unsaved_title">Perubahan yang Belum Disimpan</string>
+    <string name="icon_edit_unsaved_message">Anda memiliki perubahan yang belum disimpan. Apakah Anda yakin ingin keluar?</string>
+    <string name="icon_edit_continue">Lanjutkan Mengedit</string>
+    <string name="icon_edit_reset_title">Atur Ulang ke Default</string>
+    <string name="icon_edit_reset_message">Apakah Anda yakin ingin menyetel ulang semua pengeditan khusus untuk aplikasi ini kembali ke nilai defaultnya?</string>
+    <string name="icon_edit_title">Sunting Aplikasi</string>
+    <string name="menu_move">Pindah</string>
+    <string name="menu_elevation">Ketinggian</string>
+    <string name="menu_replace">Ganti</string>
+    <string name="menu_padding">Padding</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="mosaic_add_widget">Tambahkan Widget</string>
+    <string name="mosaic_add_widget_full">Tambahkan Widget (penuh)</string>
+    <string name="mosaic_remove_widget_title">Hapus widget</string>
+    <string name="mosaic_remove_restore_desc">Kembalikan widget ini ke layar Utama, atau hapus secara permanen.</string>
+    <string name="mosaic_remove_no_space_desc">Tidak ada ruang Beranda gratis yang tersedia untuk memulihkan widget ini. Anda dapat menghapusnya secara permanen.</string>
+    <string name="mosaic_remove_restore_action">Pulihkan ke layar Utama</string>
+    <string name="progress_preset_label">Prasetel</string>
+    <string name="progress_track_name_hint">Nama Lagu</string>
+    <string name="progress_badge_mode">Mode Lencana</string>
+    <string name="progress_track_default">Lacak</string>
+</resources>

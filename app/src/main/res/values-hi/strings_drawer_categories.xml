@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">हाल ही के</string>
+    <string name="drawer_category_quick_actions">क्विक ऐक्शन</string>
+    <string name="drawer_category_search_hint">ऐप्लिकेशन खोजें</string>
+    <string name="drawer_category_see_all">सभी देखें</string>
+    <string name="drawer_category_see_less">कम देखें</string>
+    <string name="drawer_category_color_title">कैटेगरी का रंग</string>
+    <string name="drawer_category_color_change">कैटेगरी का रंग बदलें</string>
+    <string name="drawer_category_layout_label">कैटेगरी लेआउट</string>
+    <string name="drawer_category_layout_subtitle">ऐप्लिकेशन ड्रॉअर में कैटेगरी कैसे दिखेंगी</string>
+    <string name="drawer_category_layout_spatial">कार्ड</string>
+    <string name="drawer_category_layout_strip">स्ट्रिप</string>
+    <string name="drawer_category_layout_list">सूची</string>
+    <string name="drawer_category_untagged_folders">फ़ोल्डर</string>
+    <string name="drawer_grid_or_list_categories">कैटेगरी</string>
+    <string name="drawer_layout_categories">कैटेगरी</string>
+    <string name="drawer_overflow_mode_categories">कैटेगरी</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d ऐप्लिकेशन</item>
+        <item quantity="other">%1$d ऐप्लिकेशन</item>
+    </plurals>
+    <string name="category_shopping">शॉपिंग</string>
+    <string name="category_travel">यात्रा</string>
+    <string name="category_health">सेहत</string>
+    <string name="category_news">खबरें</string>
+    <string name="category_education">शिक्षा</string>
+    <string name="category_photography">फ़ोटोग्राफ़ी</string>
+    <string name="category_music">संगीत</string>
+    <string name="category_video">वीडियो</string>
+    <string name="category_food">खाना</string>
+    <string name="category_weather">मौसम</string>
+    <string name="category_add_title">कैटेगरी जोड़ें</string>
+    <string name="category_add_subtitle">ऐप्लिकेशन तुरंत उसमें चले जाएंगे.</string>
+    <string name="category_create_your_own">अपनी कैटेगरी बनाएं</string>
+    <string name="premium_feature_immersive">इमर्सिव होम स्क्रीन</string>
+    <string name="premium_feature_immersive_desc">सिस्टम बार छिपाएँ, अपनी स्टेटस लाइन दिखाएँ, और डॉक बंद करें.</string>
+    <string name="category_sort_title">ऐप्लिकेशन छाँटें</string>
+    <string name="category_sort_move">ले जाने के लिए ऐप्लिकेशन चुनें</string>
+    <string name="category_sort_move_count">%1$d ऐप्लिकेशन ले जाएं</string>
+    <string name="category_sort_pick">इसमें ले जाएं</string>
+    <string name="category_uncategorised">बिना कैटेगरी</string>
+    <string name="category_personalization">पर्सनलाइज़ेशन</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Drawer category Finance: a wallet. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M5.2,4.5h11.3a1.7,1.7 0,0 1,1.7 1.7V7.8H5.6a0.9,0.9 0,0 0,0 1.8h13.7a2.2,2.2 0,0 1,2.2 2.2v5.5a2.2,2.2 0,0 1,-2.2 2.2H5.2a2.7,2.7 0,0 1,-2.7 -2.7V7.2A2.7,2.7 0,0 1,5.2 4.5zM16.8,14.5m-1.4,0a1.4,1.4 0,1 1,2.8 0a1.4,1.4 0,1 1,-2.8 0" />
+</vector>

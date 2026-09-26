@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">पेज प्रबंधित करें</string>
+    <string name="manage_pages_subtitle_one">1 पेज · होम %1$d है</string>
+    <string name="hidden_apps_empty">कोई छिपा हुआ ऐप्स नहीं</string>
+    <string name="hidden_apps_unhide">दिखाएँ</string>
+    <string name="folder_cover_icon_title">कवर आइकन चुनें</string>
+    <string name="folder_menu_remove_from_folder">फ़ोल्डर से हटाएँ</string>
+    <string name="folder_sort_custom">कस्टम</string>
+    <string name="folder_picker_add_remove">%1$d जोड़ें, %2$d हटाएं</string>
+    <string name="folder_picker_no_changes">कोई परिवर्तन नहीं</string>
+    <string name="toast_app_already_exists">ऐप पहले से मौजूद है</string>
+    <string name="picker_add_apps_to_folder">फ़ोल्डर में ऐप्स जोड़ें</string>
+    <string name="picker_add_apps_to_home">होम में ऐप्स जोड़ें</string>
+    <string name="picker_show_other_folder_apps">अन्य फ़ोल्डरों में ऐप्स दिखाएं</string>
+    <string name="picker_no_apps_found">कोई ऐप्स नहीं मिला</string>
+    <string name="picker_no_apps_match">कोई भी ऐप \" %1$s \" से मेल नहीं खाता</string>
+    <string name="picker_save_changes_counts">परिवर्तन सहेजें (+ %1$d , - %2$d )</string>
+    <string name="picker_remove_all_apps">सभी ऐप्स हटाएँ</string>
+    <string name="action_done">हो गया</string>
+    <string name="picker_select_shortcut">शॉर्टकट चुनें</string>
+    <string name="picker_search_shortcuts">शॉर्टकट खोजें…</string>
+    <string name="picker_no_shortcuts_title">कोई शॉर्टकट उपलब्ध नहीं है</string>
+    <string name="picker_no_shortcuts_desc">शॉर्टकट तक पहुंचने के लिए इसे डिफ़ॉल्ट लॉन्चर के रूप में सेट किया जाना चाहिए।</string>
+    <string name="picker_no_results">कोई परिणाम नहीं मिला</string>
+    <string name="picker_no_shortcuts_match">कोई भी शॉर्टकट \" %1$s \" से मेल नहीं खाता</string>
+    <string name="gesture_pick_folder_title">फ़ोल्डर चुनें</string>
+    <string name="gesture_no_folders">कोई फ़ोल्डर उपलब्ध नहीं</string>
+    <string name="gesture_pick_page_title">पेज चुनें</string>
+    <string name="wallpaper_set_title">वॉलपेपर सेट करें</string>
+    <string name="wallpaper_select_tint">टिंट रंग चुनें</string>
+    <string name="wallpaper_more">अधिक</string>
+    <string name="wallpaper_no_other_apps">कोई अन्य वॉलपेपर ऐप्स नहीं मिला</string>
+    <string name="wallpaper_type_system">सिस्टम</string>
+    <string name="wallpaper_type_gradient">ढाल</string>
+    <string name="wallpaper_type_others">अन्य</string>
+    <string name="wallpaper_dim">मंद</string>
+    <string name="wallpaper_tint_strength">ताकत</string>
+    <string name="frost_capture_channel">वॉलपेपर कैप्चर</string>
+    <string name="frost_capture_notification">ठंढ के लिए वॉलपेपर कैप्चर करना</string>
+    <string name="frost_tab_explainer">आपका वर्तमान वॉलपेपर Nexus के बाहर प्रबंधित किया जाता है, इसलिए फ्रॉस्टेड ग्लास को विजेट और फ़ोल्डर्स के पीछे धुंधला करने के लिए इसे एक बार कैप्चर करने की आवश्यकता होती है। एंड्रॉइड आपसे एक संक्षिप्त स्क्रीन कैप्चर की पुष्टि करने के लिए कहेगा - यह ऐप पहले अपने स्वयं के आइकन/विजेट छुपाता है, एक फ्रेम पकड़ता है, और तुरंत बंद हो जाता है, इसलिए केवल वॉलपेपर ही सहेजा जाता है।</string>
+    <string name="frost_tab_theme_color_warning">थीम सेटिंग्स में बैकग्राउंड लेयर को \"थीम कलर\" पर सेट किया गया है, जो वॉलपेपर को हर जगह एक सपाट रंग से बदल देता है - जिसमें फ्रॉस्ट भी शामिल है। जब तक इसे \"वॉलपेपर\" पर स्विच नहीं किया जाता तब तक फ्रॉस्ट आपका कैप्चर किया गया वॉलपेपर नहीं दिखाएगा।</string>
+    <string name="frost_tab_switch_layer">बैकग्राउंड लेयर को वॉलपेपर पर स्विच करें</string>
+    <string name="frost_tab_disabled_warning">फ्रॉस्टेड ग्लास को Nexus सेटिंग्स &gt; उपस्थिति में बंद कर दिया गया है - जब तक इसे पुनः सक्षम नहीं किया जाता है, तब तक यहां सहित, फ्रॉस्टेड ग्लास कहीं भी दिखाई नहीं देगा।</string>
+    <string name="frost_capture_status_set">फ्रॉस्ट कैप्चर: सेट</string>
+    <string name="frost_capture_status_unset">फ़्रॉस्ट कैप्चर: सेट नहीं - फ़्रॉस्ट वाली सतहें तब तक सपाट दिखेंगी जब तक आप किसी एक को कैप्चर नहीं कर लेते</string>
+    <string name="frost_capturing">कैप्चरिंग...</string>
+    <string name="frost_capture_failed">कैप्चर विफल - पुनः प्रयास करें</string>
+    <string name="frost_capture_clear">कैप्चर किया गया वॉलपेपर साफ़ करें</string>
+    <string name="widget_picker_search">विजेट खोजें…</string>
+    <string name="widget_picker_system_only">केवल सिस्टम विजेट - इस मोज़ेक के लिए एक प्रदाता चुनें</string>
+    <string name="widget_picker_empty">कोई विजेट नहीं मिला</string>
+    <string name="mosaic_empty_swipe_or_add">स्वाइप करें या विजेट जोड़ें</string>
+    <string name="mosaic_empty_long_press">विजेट जोड़ने के लिए देर तक दबाएँ</string>
+    <string name="mosaic_focus_title">विजेट फोकस</string>
+    <string name="mosaic_open_app">ऐप खोलें</string>
+    <string name="mosaic_manager_hint">पुन: व्यवस्थित करने के लिए हैंडल को खींचें. तारा हीरो विजेट को चिह्नित करता है।</string>
+    <string name="mosaic_empty_slot">खाली स्लॉट</string>
+    <string name="mosaic_widget_number">विजेट # %1$d</string>
+    <string name="calendar_event_no_title">(कोई शीर्षक नहीं)</string>
+    <string name="widget_preview_note_title">विचार और विचार</string>
+    <string name="widget_preview_note_body">आइजनहावर मैट्रिक्स की समीक्षा करें, विजेट थीम अपडेट करें और नए लेआउट ग्रिड का पता लगाएं।</string>
+    <string name="reader_empty_file">खाली फ़ाइल।</string>
+    <string name="reader_chapter_fallback">अध्याय %1$d</string>
+    <string name="feed_empty_search">\" %1$s \" से मेल खाता कोई लेख नहीं मिला</string>
+    <string name="feed_empty_saved">अभी तक कोई सहेजा गया लेख नहीं. किसी भी कार्ड को सहेजने के लिए उसे देर तक दबाएँ।</string>
+    <string name="feed_empty_category">इस श्रेणी में कोई स्रोत नहीं - सेटिंग्स में एक जोड़ें।</string>
+    <string name="feed_empty_recent">पिछले 24 घंटों से कोई खबर नहीं. ताज़ा करने या एक्सप्लोर जांचने के लिए नीचे खींचें।</string>
+    <string name="feed_empty_default">अभी तक कोई लेख नहीं. स्रोतों की जाँच करें या ताज़ा करने के लिए नीचे खींचें।</string>
+    <string name="feed_load_failed">फ़ीड लोड करने में विफल</string>
+    <string name="feed_fetching">लाया जा रहा है...</string>
+    <string name="feed_time_just_now">अभी अभी</string>
+    <string name="feed_time_minutes">%1$d मी पहले</string>
+    <string name="feed_time_hours">%1$d घंटे पहले</string>
+    <string name="feed_time_days">%1$d दिन पहले</string>
+    <string name="feed_time_weeks">%1$d w पहले</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">फ़ोल्डर में %d ऐप जोड़ें</item>
+        <item quantity="other">फ़ोल्डर में %d ऐप जोड़ें</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">फ़ोल्डर से %d ऐप हटाएं</item>
+        <item quantity="other">फ़ोल्डर से %d ऐप हटाएं</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d ऐप</item>
+        <item quantity="other">%d ऐप</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">%d ऐप जोड़ें</item>
+        <item quantity="other">%d ऐप जोड़ें</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">%d ऐप हटाएं</item>
+        <item quantity="other">%d ऐप हटाएं</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">होम स्क्रीन में %d ऐप जोड़ें</item>
+        <item quantity="other">होम स्क्रीन में %d ऐप जोड़ें</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d लेख</item>
+        <item quantity="other">%d लेख</item>
+    </plurals>
+    <string name="category_new">नई श्रेणी</string>
+    <string name="category_name_hint">श्रेणी का नाम</string>
+    <string name="category_edit">श्रेणियां संपादित करें</string>
+    <string name="category_delete_title">\"%1$s\" हटाएं?</string>
+    <string name="category_delete_body">इसके ऐप्स ड्रॉअर में रहते हैं और फिर भी सभी के अंतर्गत दिखाई देते हैं।</string>
+    <string name="category_restore_defaults">डिफ़ॉल्ट श्रेणियां पुनर्स्थापित करें</string>
+    <string name="category_icon_title">एक आइकन चुनें</string>
+    <string name="category_icon_default">डिफ़ॉल्ट का प्रयोग करें</string>
+    <string name="category_rename_title">श्रेणी का नाम बदलें</string>
+    <string name="category_edit_hint">किसी आइकन या नाम को बदलने के लिए उस पर टैप करें</string>
+</resources>

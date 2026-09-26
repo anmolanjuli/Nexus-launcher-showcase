@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dock Settings Sheet -->
+    <string name="dock_settings_title">הגדרות מעגן</string>
+    <string name="dock_settings_section_layout">פריסה וגודל</string>
+    <string name="dock_settings_section_background">רקע</string>
+    <string name="dock_settings_section_labels">תוויות וחיפוש</string>
+    <string name="dock_settings_max_icons">מספר סמלים מרבי</string>
+    <string name="dock_settings_icon_size">גודל סמל</string>
+    <string name="dock_settings_height">גובה</string>
+    <string name="dock_settings_corner_radius">רדיוס פינה</string>
+    <string name="dock_settings_show_labels">הצג תוויות</string>
+    <string name="dock_settings_font_size">גודל גופן</string>
+    <string name="dock_settings_show_search">הצג חיפוש</string>
+    <string name="dock_settings_opacity">שקיפות</string>
+    <string name="dock_settings_zigzag_layout">פריסת זיגזג</string>
+    <string name="dock_settings_background">רקע</string>
+    <string name="dock_settings_color">צבע</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Icon Edit Sheet (Nepali) -->
+    <string name="edit_sheet_tap_to_rename">नाम बदल्न ट्याप गर्नुहोस्</string>
+    <string name="edit_sheet_app_name_hint">एपको नाम</string>
+    <string name="edit_sheet_section_appearance">रुपरेखा</string>
+    <string name="edit_sheet_icon_source">आइकन स्रोत</string>
+    <string name="edit_sheet_section_gestures">इशाराहरू (GESTURES)</string>
+    <string name="edit_sheet_gestures">इशाराहरू</string>
+    <string name="edit_sheet_gallery">ग्यालरी</string>
+    <string name="edit_sheet_swipe_up">माथि स्वाइप</string>
+    <string name="edit_sheet_swipe_down">तल स्वाइप</string>
+    <string name="edit_sheet_double_tap">डबल ट्याप</string>
+    <string name="edit_sheet_app_uninstalled">(एप अब उपलब्ध छैन)</string>
+    <string name="edit_sheet_unnamed_folder">बेनामी फोल्डर</string>
+    <string name="edit_sheet_invalid_folder">(अमान्य फोल्डर)</string>
+    <string name="edit_sheet_shortcut_unavailable">(सर्टकट अब उपलब्ध छैन)</string>
+    <string name="edit_sheet_invalid_shortcut">(अमान्य सर्टकट)</string>
+
+    <!-- Folder Edit Sheet -->
+    <string name="folder_edit_window">विन्डो</string>
+    <string name="folder_edit_window_opacity">विन्डो अस्पष्टता</string>
+    <string name="folder_edit_icon">आइकन</string>
+    <string name="folder_edit_icon_opacity">आइकन अस्पष्टता</string>
+    <string name="folder_edit_name_hint">फोल्डरको नाम</string>
+    <string name="folder_edit_section_appearance">स्वरूप</string>
+    <string name="folder_edit_section_layout">लेआउट</string>
+    <string name="folder_edit_section_gestures">इशाराहरू</string>
+    <string name="folder_edit_glass_refraction">ग्लास रिफ्र्याक्सन</string>
+    <string name="folder_edit_preview_style">पूर्वावलोकन शैली</string>
+    <string name="folder_edit_columns">स्तम्भहरू</string>
+    <string name="folder_edit_show_labels">एपको नाम देखाउनुहोस्</string>
+    <string name="folder_edit_expressive_gradient">एक्सप्रेसिभ ग्रेडियन्ट</string>
+
+    <!-- Folder Preview Styles -->
+    <string name="folder_preview_style_grid">ग्रिड</string>
+    <string name="folder_preview_style_fan">फ्यान अफ ३</string>
+    <string name="folder_preview_style_hero_orbit">हिरो + अर्बिट</string>
+    <string name="folder_preview_style_custom_icon">कस्टम आइकन</string>
+    <string name="folder_preview_style_bento">बेन्टो</string>
+    <string name="folder_new_title">नयाँ फोल्डर</string>
+</resources>

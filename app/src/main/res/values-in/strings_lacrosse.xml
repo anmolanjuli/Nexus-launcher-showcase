@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">Mode Tema</string>
+    <string name="widget_lacrosse_theme_classic">LCD Klasik</string>
+    <string name="widget_lacrosse_theme_themed">LCD Bertema</string>
+    <string name="widget_lacrosse_theme_ice">LCD Es</string>
+    <string name="widget_lacrosse_time_format">Format Waktu</string>
+    <string name="widget_lacrosse_time_format_system">Sistem</string>
+    <string name="widget_lacrosse_time_format_12h">12 Jam</string>
+    <string name="widget_lacrosse_time_format_24h">24 Jam</string>
+    <string name="widget_lacrosse_month_format">Format Bulan</string>
+    <string name="widget_lacrosse_month_format_abbrev">Teks (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">Angka (1-12)</string>
+    <string name="widget_lacrosse_field_time">Tampilkan Waktu</string>
+    <string name="widget_lacrosse_field_ampm">Tampilkan AM/PM</string>
+    <string name="widget_lacrosse_field_month">Tampilkan Bulan</string>
+    <string name="widget_lacrosse_field_date">Tampilkan Tanggal</string>
+    <string name="widget_lacrosse_field_day">Tampilkan Hari</string>
+    <string name="widget_lacrosse_field_temp">Tampilkan Suhu</string>
+    <string name="widget_lacrosse_ghost_segments">Segmen Ghost</string>
+    <string name="widget_lacrosse_divider_lines">Garis Pemisah</string>
+</resources>

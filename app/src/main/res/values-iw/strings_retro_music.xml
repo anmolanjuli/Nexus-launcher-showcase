@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style_modern">מודרני</string>
+    <string name="music_style_winamp">Winamp</string>
+    <string name="music_style_amplifier">מגבר</string>
+    <string name="music_style_terminal">מסוף</string>
+    <string name="music_style_cassette">קסטה</string>
+
+    <string name="widget_retro_music_section_title">אפשרויות מוזיקת רטרו</string>
+    <string name="widget_retro_music_show_art">הצג עטיפת אלבום</string>
+    <string name="widget_retro_music_show_progress">הצג סרגל התקדמות</string>
+    <string name="widget_retro_music_show_shuffle_repeat">הצג ערבוב וחזרה</string>
+    <string name="widget_retro_music_theme_aware">מצב רטרו מותאם לערכת נושא</string>
+    <string name="widget_retro_music_theme_aware_desc">גוון סגנונות רטרו בצבעי ערכת הנושא הפעילה</string>
+
+    <string name="widget_retro_match_system_ui">התאם לממשק המערכת</string>
+    <string name="widget_retro_match_system_ui_desc">ממשק נוכחי בשימוש: %1$s</string>
+    <string name="widget_retro_surface_title">משטח</string>
+    <string name="widget_retro_surface_default">ברירת מחדל</string>
+    <string name="widget_retro_surface_frosted">חלבי</string>
+    <string name="widget_retro_surface_neumorphic">נאומורפיזם</string>
+</resources>

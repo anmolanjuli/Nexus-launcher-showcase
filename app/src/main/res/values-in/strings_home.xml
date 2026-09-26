@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallpaper">Kertas dinding</string>
+    <string name="settings_section_home_screen">Layar Beranda</string>
+    <string name="dialog_delete_page_title">Hapus Halaman %1$d ?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="other">Halaman ini memiliki %1$d ikon. Menghapusnya akan menghapus semua ikon di halaman ini.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">Tidak dapat menghapus halaman terakhir</string>
+    <string name="manage_pages_subtitle">%1$d halaman · Beranda adalah %2$d</string>
+    <string name="manage_pages_home_badge">Rumah</string>
+    <string name="backup_subtitle">Simpan layar beranda dan widget ke file zip</string>
+    <string name="import_nova_title">Impor dari Nova Launcher</string>
+    <string name="import_nova_subtitle">Pulihkan dari .novabackup (menggantikan tata letak saat ini)</string>
+    <string name="import_nova_dialog_title">Impor Cadangan Nova</string>
+    <string name="import_nova_dialog_message">Ini akan mengimpor tata letak layar beranda Nova Launcher Anda dan MENGGANTI layar beranda Nexus Anda saat ini. Catatan: hanya posisi aplikasi/folder/widget yang ditransfer — wallpaper, tema, paket ikon, dan pengaturan gerakan TIDAK akan diimpor.</string>
+    <string name="toast_backup_imported">Cadangan berhasil diimpor</string>
+    <string name="toast_import_failed">Impor gagal: %1$s</string>
+    <string name="toast_nova_backup_imported">Nova Backup berhasil diimpor</string>
+    <string name="toast_nova_import_failed">Impor Nova gagal: %1$s</string>
+</resources>

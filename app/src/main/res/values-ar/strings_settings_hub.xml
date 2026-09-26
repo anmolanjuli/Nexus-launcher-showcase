@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_search_hint">البحث في الإعدادات…</string>
+    <string name="settings_search_pages">الصفحات</string>
+    <string name="settings_search_controls">الإعدادات</string>
+    <string name="settings_search_empty">لا توجد إعدادات تطابق “%1$s”</string>
+    <string name="settings_jump_title">الانتقال السريع</string>
+    <string name="settings_jump_results">النتائج</string>
+    <string name="settings_search_no_results">لم يتم العثور على إعدادات مطابقة</string>
+    <string name="settings_jump_content_description">الانتقال إلى صفحة إعدادات أخرى</string>
+
+    <string name="settings_group_layout">التخطيط</string>
+    <string name="settings_group_appearance">المظهر</string>
+    <string name="settings_group_behaviour">السلوك</string>
+    <string name="settings_group_system">النظام</string>
+
+    <string name="settings_hub_home_subtitle">الشبكة، المسافات، التسميات والانتقالات</string>
+    <string name="settings_hub_drawer_subtitle">التخطيط، البحث والفئات</string>
+    <string name="settings_hub_theme_title">السمة</string>
+    <string name="settings_hub_theme_subtitle">الوضع، الألوان ونمط الواجهة</string>
+    <string name="settings_hub_icons_subtitle">حزم الأيقونات، الحجم والسمة</string>
+    <string name="settings_hub_typography_title">الخط واللغة</string>
+    <string name="settings_hub_typography_subtitle">الخط واللغة والتوطين</string>
+    <string name="settings_hub_dock_title">شريط الإرساء</string>
+    <string name="settings_hub_dock_subtitle">الخلفية، الحجم، الأيقونات والتخطيط</string>
+    <string name="settings_hub_immersive_title">الوضع الغامر</string>
+    <string name="settings_hub_immersive_subtitle">صف الحالة، الكبسولات، الساعة، البطارية والإشارة</string>
+    <string name="settings_hub_gestures_subtitle">إجراءات السحب، النقر المزدوج</string>
+    <string name="settings_page_gestures">الإيماءات</string>
+    <string name="settings_page_search">البحث</string>
+    <string name="settings_hub_search_subtitle">شريط البحث، الموفرين والويب</string>
+    <string name="settings_hub_notifications_title">الإشعارات والأذونات</string>
+    <string name="settings_hub_notifications_subtitle">الشارات وأذونات النظام</string>
+    <string name="settings_hub_backup_title">النسخ الاحتياطي والاستعادة</string>
+    <string name="settings_hub_backup_subtitle">تصدير أو استيراد التخطيط</string>
+    <string name="settings_applying_language">جاري تطبيق اللغة…</string>
+
+    <!-- Licenses -->
+    <string name="licenses_page_title">التراخيص</string>
+    <string name="licenses_page_subtitle">المصادر المفتوحة وتراخيص الخطوط</string>
+    <string name="licenses_section_fonts">الخطوط</string>
+    <string name="licenses_section_libraries">المكتبات</string>
+</resources>

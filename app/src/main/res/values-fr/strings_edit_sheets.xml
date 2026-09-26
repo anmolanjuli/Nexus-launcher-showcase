@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">Appuyez pour renommer</string>
+    <string name="edit_sheet_app_name_hint">Nom de l\'application</string>
+    <string name="edit_sheet_section_appearance">APPARENCE</string>
+    <string name="edit_sheet_icon_source">SOURCE DE L\'ICÔNE</string>
+    <string name="edit_sheet_section_gestures">GESTES</string>
+    <string name="edit_sheet_gestures">Gestes</string>
+    <string name="edit_sheet_gallery">Galerie</string>
+    <string name="edit_sheet_swipe_up">Glissez vers le haut</string>
+    <string name="edit_sheet_swipe_down">Faites glisser vers le bas</string>
+    <string name="edit_sheet_double_tap">Appuyez deux fois</string>
+    <string name="edit_sheet_app_uninstalled">(L\'application n\'est plus installée)</string>
+    <string name="edit_sheet_unnamed_folder">Dossier sans nom</string>
+    <string name="edit_sheet_invalid_folder">(Dossier invalide)</string>
+    <string name="edit_sheet_shortcut_unavailable">(Le raccourci n\'est plus disponible)</string>
+    <string name="edit_sheet_invalid_shortcut">(Raccourci invalide)</string>
+    <string name="folder_edit_window">Fenêtre</string>
+    <string name="folder_edit_window_opacity">Opacité de la fenêtre</string>
+    <string name="folder_edit_icon">Icône</string>
+    <string name="folder_edit_icon_opacity">Opacité des icônes</string>
+    <string name="folder_edit_name_hint">Nom du dossier</string>
+    <string name="folder_edit_section_appearance">Apparence</string>
+    <string name="folder_edit_section_layout">Disposition</string>
+    <string name="folder_edit_section_gestures">Gestes</string>
+    <string name="folder_edit_glass_refraction">Réfraction du verre</string>
+    <string name="folder_edit_preview_style">Style d\'aperçu</string>
+    <string name="folder_edit_columns">Colonnes</string>
+    <string name="folder_edit_show_labels">Afficher les étiquettes des applications</string>
+    <string name="folder_edit_expressive_gradient">Dégradé expressif</string>
+    <string name="folder_preview_style_grid">Grille</string>
+    <string name="folder_preview_style_fan">Fan de 3</string>
+    <string name="folder_preview_style_hero_orbit">Héros + Orbite</string>
+    <string name="folder_preview_style_custom_icon">Icône personnalisée</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">Nouveau dossier</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Drawer -->
+    <string name="settings_section_app_drawer">एप ड्रअर</string>
+
+    <!-- Categories -->
+    <string name="category_all">सबै</string>
+    <string name="category_social">सामाजिक</string>
+    <string name="category_media">मिडिया</string>
+    <string name="category_games">खेलहरू</string>
+    <string name="category_productivity">उत्पादकता</string>
+    <string name="category_finance">वित्त</string>
+    <string name="category_utilities">उपयोगिता</string>
+    <string name="category_system">प्रणाली</string>
+
+    <!-- Drawer Overflow Menu -->
+    <string name="drawer_overflow_hidden_apps">लुकाइएका एपहरू</string>
+    <string name="drawer_overflow_create_folder">फोल्डर बनाउनुहोस्</string>
+    <string name="drawer_overflow_settings">ड्रअर सेटिङ्स</string>
+    <string name="drawer_overflow_style_label">शैली</string>
+    <string name="drawer_overflow_style_one_col">एक स्तम्भ</string>
+    <string name="drawer_overflow_style_two_col">दुई स्तम्भ</string>
+    <string name="drawer_overflow_mode_label">लेआउट</string>
+    <string name="drawer_overflow_mode_grid">ग्रिड</string>
+    <string name="drawer_overflow_mode_list">सूची</string>
+    <string name="drawer_overflow_columns_label">स्तम्भहरू</string>
+    <string name="drawer_overflow_search_position_label">खोज बार</string>
+    <string name="drawer_overflow_category_position_label">विधा बार</string>
+    <string name="drawer_search_bar_position_top">माथि</string>
+    <string name="drawer_search_bar_position_bottom">तल</string>
+
+    <!-- Browser & Search Toasts -->
+    <string name="toast_no_web_browser_found">कुनै वेब ब्राउजर भेटिएन</string>
+    <string name="toast_no_maps_app_found">कुनै नक्सा एप भेटिएन</string>
+</resources>

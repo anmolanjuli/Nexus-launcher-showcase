@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">نمط السمة</string>
+    <string name="widget_lacrosse_theme_classic">LCD كلاسيكي</string>
+    <string name="widget_lacrosse_theme_themed">LCD متوافق مع السمة</string>
+    <string name="widget_lacrosse_theme_ice">LCD جليدي</string>
+    <string name="widget_lacrosse_time_format">تنسيق الوقت</string>
+    <string name="widget_lacrosse_time_format_system">النظام</string>
+    <string name="widget_lacrosse_time_format_12h">12 ساعة</string>
+    <string name="widget_lacrosse_time_format_24h">24 ساعة</string>
+    <string name="widget_lacrosse_month_format">تنسيق الشهر</string>
+    <string name="widget_lacrosse_month_format_abbrev">نص (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">أرقام (1-12)</string>
+    <string name="widget_lacrosse_field_time">إظهار الوقت</string>
+    <string name="widget_lacrosse_field_ampm">إظهار ص/م</string>
+    <string name="widget_lacrosse_field_month">إظهار الشهر</string>
+    <string name="widget_lacrosse_field_date">إظهار التاريخ</string>
+    <string name="widget_lacrosse_field_day">إظهار اليوم</string>
+    <string name="widget_lacrosse_field_temp">إظهار درجة الحرارة</string>
+    <string name="widget_lacrosse_ghost_segments">شرائح باهتة (Ghost)</string>
+    <string name="widget_lacrosse_divider_lines">خطوط التقسيم</string>
+</resources>

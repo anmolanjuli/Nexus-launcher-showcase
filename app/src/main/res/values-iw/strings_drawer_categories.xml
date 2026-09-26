@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">אחרונים</string>
+    <string name="drawer_category_quick_actions">פעולות מהירות</string>
+    <string name="drawer_category_search_hint">חיפוש אפליקציות</string>
+    <string name="drawer_category_see_all">הצגת הכול</string>
+    <string name="drawer_category_see_less">הצגה מצומצמת</string>
+    <string name="drawer_category_color_title">צבע הקטגוריה</string>
+    <string name="drawer_category_color_change">שינוי צבע הקטגוריה</string>
+    <string name="drawer_category_layout_label">פריסת הקטגוריות</string>
+    <string name="drawer_category_layout_subtitle">איך הקטגוריות מסודרות במגירת האפליקציות</string>
+    <string name="drawer_category_layout_spatial">כרטיסים</string>
+    <string name="drawer_category_layout_strip">רצועות</string>
+    <string name="drawer_category_layout_list">רשימה</string>
+    <string name="drawer_category_untagged_folders">תיקיות</string>
+    <string name="drawer_grid_or_list_categories">קטגוריות</string>
+    <string name="drawer_layout_categories">קטגוריות</string>
+    <string name="drawer_overflow_mode_categories">קטגוריות</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">%1$d אפליקציות</item>
+        <item quantity="other">%1$d אפליקציות</item>
+    </plurals>
+    <string name="category_shopping">קניות</string>
+    <string name="category_travel">נסיעות</string>
+    <string name="category_health">בריאות</string>
+    <string name="category_news">חדשות</string>
+    <string name="category_education">לימודים</string>
+    <string name="category_photography">צילום</string>
+    <string name="category_music">מוזיקה</string>
+    <string name="category_video">וידאו</string>
+    <string name="category_food">אוכל</string>
+    <string name="category_weather">מזג אוויר</string>
+    <string name="category_add_title">הוספת קטגוריה</string>
+    <string name="category_add_subtitle">האפליקציות עוברות אליה מיד.</string>
+    <string name="category_create_your_own">יצירת קטגוריה משלך</string>
+    <string name="premium_feature_immersive">מסך בית סוחף</string>
+    <string name="premium_feature_immersive_desc">הסתרת סרגלי המערכת, הצגת שורת סטטוס משלך וכיבוי המעגן.</string>
+    <string name="category_sort_title">מיון אפליקציות</string>
+    <string name="category_sort_move">בוחרים אילו אפליקציות להעביר</string>
+    <string name="category_sort_move_count">העברה של %1$d אפליקציות</string>
+    <string name="category_sort_pick">העברה אל</string>
+    <string name="category_uncategorised">לא ממוין</string>
+    <string name="category_personalization">התאמה אישית</string>
+</resources>

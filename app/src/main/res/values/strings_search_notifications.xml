@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notifications & Permissions -->
+    <string name="notification_access_title">Notification Access</string>
+    <string name="notification_access_desc">Required for badge counts and Music widget</string>
+    <string name="storage_access_title">Storage &amp; Media Access</string>
+    <string name="storage_access_desc">Required for blur on 3rd party wallpapers</string>
+    <string name="accessibility_service_title">Accessibility Service</string>
+    <string name="accessibility_service_desc">Required for global gesture actions</string>
+    <string name="app_usage_title">App Usage Access</string>
+    <string name="app_usage_desc">Required for Recents gesture and star glow</string>
+    <string name="location_access_title">Location Access</string>
+    <string name="location_access_desc">Required for Weather widget</string>
+    <string name="system_permissions_title">System &amp; Permissions</string>
+    <string name="permissions_granted_format">%1$d of %2$d permissions granted</string>
+    <string name="permission_status_granted">Granted</string>
+    <string name="permission_status_tap_to_enable">Tap to enable</string>
+    <string name="permission_status_enabled">Enabled</string>
+
+    <string name="badge_header_title">Notification Badges</string>
+    <string name="badge_app_icon_title">App Icon Badges</string>
+    <string name="badge_app_icon_subtitle">Numeric count or notification dot on app icon</string>
+    <string name="badge_folder_title">Folder Badges</string>
+    <string name="badge_folder_subtitle">Total count from all apps inside the folder</string>
+    <string name="badge_opt_off">Off</string>
+    <string name="badge_opt_dot">Dot</string>
+    <string name="badge_opt_count">Count</string>
+    <string name="badge_color_custom_hint">%1$s • Tap circle for custom</string>
+    <string name="badge_color_red">Red</string>
+    <string name="badge_color_green">Green</string>
+    <string name="badge_color_blue">Blue</string>
+    <string name="badge_color_red_default">Red (Default)</string>
+    <string name="badge_summary_format">App: %1$s • Folder: %2$s</string>
+
+    <!-- Search Settings -->
+    <string name="search_micro_actions_title">Micro Actions</string>
+    <string name="search_micro_actions_desc">Instant calculations and unit conversions directly in search</string>
+    <string name="search_sources_title">Search Sources</string>
+    <string name="search_sources_desc">Device items and external search providers</string>
+    <string name="search_calc_title">Calculator</string>
+    <string name="search_calc_desc">Solve mathematical equations directly in search</string>
+    <string name="search_conv_title">Unit Conversion</string>
+    <string name="search_conv_desc">Convert currency, metrics, and units of measurement</string>
+    <string name="search_contacts_title">Contacts</string>
+    <string name="search_contacts_desc">Show matching device contacts in search results</string>
+    <string name="search_web_title">Web Search</string>
+    <string name="search_web_desc">Show web suggestions and default search engine shortcut</string>
+    <string name="search_maps_title">Maps Search</string>
+    <string name="search_maps_desc">Show Maps option when query has no app or contact match</string>
+</resources>

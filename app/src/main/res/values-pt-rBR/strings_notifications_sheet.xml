@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Notificações</string>
+    <string name="notification_sheet_clear">Limpar</string>
+    <string name="notification_sheet_dismiss">Dispensar</string>
+    <string name="notification_sheet_empty">Nenhuma notificação</string>
+    <string name="notification_history_title">Guardar as notificações</string>
+    <string name="notification_history_subtitle">Leia na folha do launcher, mesmo depois de limpar. O texto fica salvo neste telefone.</string>
+    <string name="notification_retention_title">Guardar por</string>
+    <string name="notification_retention_1h">1 hora</string>
+    <string name="notification_retention_6h">6 horas</string>
+    <string name="notification_retention_1d">1 dia</string>
+    <string name="notification_retention_3d">3 dias</string>
+    <string name="notification_retention_7d">7 dias</string>
+</resources>

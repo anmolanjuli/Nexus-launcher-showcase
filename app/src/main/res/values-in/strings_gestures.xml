@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">Sapuan satu jari</string>
+    <string name="gestures_one_finger_desc">Tindakan menggesek satu jari pada ruang rumah yang kosong</string>
+    <string name="gestures_two_finger_title">Gesek dua jari</string>
+    <string name="gestures_two_finger_desc">Tindakan menggesek dengan dua jari di ruang rumah yang kosong</string>
+    <string name="gesture_swipe_up">Geser ke Atas</string>
+    <string name="gesture_swipe_down">Geser ke Bawah</string>
+    <string name="gesture_two_finger_swipe_up">Gesek ke Atas dengan Dua Jari</string>
+    <string name="gesture_two_finger_swipe_down">Gesek ke Bawah dengan Dua Jari</string>
+    <string name="gesture_action_none">Tidak ada</string>
+    <string name="gesture_action_open_app_info">Buka Info Aplikasi</string>
+    <string name="gesture_action_lock_screen">Layar Kunci</string>
+    <string name="gesture_action_toggle_flashlight">Alihkan Senter</string>
+    <string name="gesture_action_open_app_drawer">Buka Laci Aplikasi</string>
+    <string name="gesture_action_open_specific_app">Buka Aplikasi Tertentu</string>
+    <string name="gesture_action_open_specific_page">Buka Halaman Tertentu</string>
+    <string name="gesture_action_open_specific_folder">Buka Folder Tertentu</string>
+    <string name="gesture_action_open_specific_shortcut">Buka Pintasan Tertentu</string>
+    <string name="gesture_action_expand_notifications">Perluas Notifikasi</string>
+    <string name="gesture_action_open_quick_settings">Buka Pengaturan Cepat</string>
+    <string name="gesture_action_show_recents">Tampilkan Terbaru</string>
+    <string name="gesture_action_take_screenshot">Ambil Tangkapan Layar</string>
+    <string name="gesture_action_show_power_menu">Tampilkan Menu Daya</string>
+    <string name="gesture_action_open_search">Buka Pencarian</string>
+    <string name="gesture_action_next_page">Halaman Berikutnya</string>
+    <string name="gesture_action_prev_page">Halaman Sebelumnya</string>
+    <string name="gesture_action_toggle_labels">Alihkan Label</string>
+    <string name="gesture_action_open_home_edit">Mode Pengeditan Rumah</string>
+    <string name="gesture_action_split_screen">Layar Terpisah</string>
+    <string name="gesture_requires_accessibility">Membutuhkan aksesibilitas</string>
+</resources>

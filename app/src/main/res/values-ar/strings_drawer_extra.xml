@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer Settings & Subtitles (Arabic) -->
+    <string name="drawer_settings_layout_title">التخطيط</string>
+    <string name="drawer_settings_layout_subtitle">الوضع، أعمدة الشبكة، حجم الأيقونة، التسميات والترتيب</string>
+    <string name="drawer_settings_search_navigation_title">البحث والتنقل</string>
+    <string name="drawer_settings_hidden_apps_title">التطبيقات المخفية</string>
+    <string name="drawer_settings_hidden_apps_subtitle">إدارة ظهور التطبيقات المخفية</string>
+
+    <string name="drawer_sort_recently_installed">المثبتة حديثاً</string>
+    <string name="drawer_sort_az">أ–ي</string>
+    <string name="drawer_sort_za">ي–أ</string>
+    <string name="drawer_search_pos_top">أعلى</string>
+    <string name="drawer_search_pos_bottom">أسفل</string>
+    <string name="drawer_cat_style_in_pill">داخل الكبسولة</string>
+    <string name="drawer_cat_style_dropdown">قائمة منسدلة</string>
+    <string name="drawer_cat_style_strip">شريط</string>
+    <string name="drawer_layout_list">قائمة</string>
+    <string name="drawer_layout_grid">شبكة</string>
+    <string name="drawer_col_abbrev">%1$d أعمدة</string>
+    <string name="drawer_list_mode_abbrev">وضع القائمة</string>
+    <string name="drawer_size_percent">%1$d%% الحجم</string>
+    <string name="drawer_labels_on">التسميات مفعلة</string>
+    <string name="drawer_labels_off">التسميات معطلة</string>
+    <string name="drawer_pill_off">الكبسولة معطلة</string>
+    <string name="drawer_pill_top">الكبسولة في الأعلى</string>
+    <string name="drawer_pill_bottom">الكبسولة في الأسفل</string>
+    <string name="drawer_cats_on">الفئات مفعلة</string>
+    <string name="drawer_cats_off">الفئات معطلة</string>
+    <string name="drawer_rail_on">الشريط مفعل</string>
+    <string name="drawer_rail_off">الشريط معطل</string>
+    <string name="drawer_sort_order_label">ترتيب الفرز</string>
+    <string name="drawer_search_pill_subtitle">حقل البحث وقائمة الخيارات في درج التطبيقات</string>
+    <string name="drawer_search_pos_subtitle">تثبيت كبسولة البحث في أعلى أو أسفل الدرج</string>
+    <string name="drawer_categories_label">الفئات</string>
+    <string name="drawer_categories_subtitle">تصفية الدرج حسب فئة التطبيق</string>
+    <string name="drawer_category_style_subtitle">داخل كبسولة البحث، أو شريحة منسدلة، أو شريط قابل للتمرير</string>
+    <string name="drawer_category_pos_subtitle">شريط الفئات يستقر بشكل مستقل عن كبسولة البحث</string>
+    <string name="drawer_side_rail_label">الشريط الجانبي</string>
+    <string name="drawer_side_rail_subtitle">شريط الانتقال السريع بالأبجدية على حافة الشاشة</string>
+    <string name="theme_mode_label">الوضع</string>
+    <string name="drawer_transition_label">الانتقال</string>
+    <string name="drawer_settings_transitions_title">الانتقالات</string>
+    <string name="drawer_transition_default">تلقائي</string>
+    <string name="drawer_transition_cube">مكعب ثلاثي الأبعاد</string>
+    <string name="drawer_transition_zoom">تكبير</string>
+    <string name="drawer_transition_tilt">إمالة</string>
+    <string name="drawer_transition_stack">كومة بطاقات</string>
+    <string name="drawer_transition_default_desc">تتلاشى الشاشة الرئيسية بنعومة ويظهر درج التطبيقات</string>
+    <string name="drawer_transition_cube_desc">تدور الشاشة الرئيسية ودرج التطبيقات كوجهَي مكعب</string>
+    <string name="drawer_transition_zoom_desc">تبتعد الشاشة الرئيسية ويقترب درج التطبيقات</string>
+    <string name="drawer_transition_tilt_desc">تميل الشاشة الرئيسية إلى الخلف</string>
+    <string name="drawer_transition_stack_desc">ينزلق درج التطبيقات فوق الشاشة الرئيسية كبطاقة</string>
+</resources>

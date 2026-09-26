@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">Benachrichtigungszugriff</string>
+    <string name="notification_access_desc">Erforderlich für Abzeichenzählungen und Musik-Widget</string>
+    <string name="storage_access_title">Speicher und Medienzugriff</string>
+    <string name="storage_access_desc">Erforderlich für Unschärfe auf Hintergrundbildern von Drittanbietern</string>
+    <string name="accessibility_service_title">Barrierefreiheitsdienst</string>
+    <string name="accessibility_service_desc">Erforderlich für globale Gestenaktionen</string>
+    <string name="app_usage_title">Zugriff auf die App-Nutzung</string>
+    <string name="app_usage_desc">Erforderlich für die Geste „Letzte“ und das Leuchten von Sternen</string>
+    <string name="location_access_title">Standortzugriff</string>
+    <string name="location_access_desc">Erforderlich für das Wetter-Widget</string>
+    <string name="system_permissions_title">System und Berechtigungen</string>
+    <string name="permissions_granted_format">%1$d von %2$d Berechtigungen erteilt</string>
+    <string name="permission_status_granted">Zugegeben</string>
+    <string name="permission_status_tap_to_enable">Zum Aktivieren antippen</string>
+    <string name="permission_status_enabled">Aktiviert</string>
+    <string name="badge_header_title">Benachrichtigungsabzeichen</string>
+    <string name="badge_app_icon_title">App-Symbol-Abzeichen</string>
+    <string name="badge_app_icon_subtitle">Numerischer Zähler oder Benachrichtigungspunkt auf dem App-Symbol</string>
+    <string name="badge_folder_title">Ordnerabzeichen</string>
+    <string name="badge_folder_subtitle">Gesamtzahl aller Apps im Ordner</string>
+    <string name="badge_opt_off">Aus</string>
+    <string name="badge_opt_dot">Punkt</string>
+    <string name="badge_opt_count">Zählen</string>
+    <string name="badge_color_custom_hint">%1$s • Kreis antippen für eigene Farbe</string>
+    <string name="badge_color_red">Rot</string>
+    <string name="badge_color_green">Grün</string>
+    <string name="badge_color_blue">Blau</string>
+    <string name="badge_color_red_default">Rot (Standard)</string>
+    <string name="badge_summary_format">App: %1$s • Ordner: %2$s</string>
+    <string name="search_micro_actions_title">Mikroaktionen</string>
+    <string name="search_micro_actions_desc">Sofortige Berechnungen und Einheitenumrechnungen direkt in der Suche</string>
+    <string name="search_sources_title">Quellen durchsuchen</string>
+    <string name="search_sources_desc">Geräteelemente und externe Suchanbieter</string>
+    <string name="search_calc_title">Rechner</string>
+    <string name="search_calc_desc">Rechenaufgaben direkt in der Suche lösen</string>
+    <string name="search_conv_title">Einheitenumrechnung</string>
+    <string name="search_conv_desc">Währungen, Maße und Einheiten umrechnen</string>
+    <string name="search_contacts_title">Kontakte</string>
+    <string name="search_contacts_desc">Passende Gerätekontakte in den Suchergebnissen anzeigen</string>
+    <string name="search_web_title">Websuche</string>
+    <string name="search_web_desc">Webvorschläge und Standard-Suchmaschinenverknüpfung anzeigen</string>
+    <string name="search_maps_title">Kartensuche</string>
+    <string name="search_maps_desc">Option „Karten anzeigen“, wenn bei der Abfrage keine App- oder Kontaktübereinstimmung vorliegt</string>
+</resources>

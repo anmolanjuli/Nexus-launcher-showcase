@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">Zum Umbenennen antippen</string>
+    <string name="edit_sheet_app_name_hint">App-Name</string>
+    <string name="edit_sheet_section_appearance">AUSSEHEN</string>
+    <string name="edit_sheet_icon_source">ICON-QUELLE</string>
+    <string name="edit_sheet_section_gestures">GESTEN</string>
+    <string name="edit_sheet_gestures">Gesten</string>
+    <string name="edit_sheet_gallery">Galerie</string>
+    <string name="edit_sheet_swipe_up">Nach oben wischen</string>
+    <string name="edit_sheet_swipe_down">Nach unten wischen</string>
+    <string name="edit_sheet_double_tap">Doppeltippen</string>
+    <string name="edit_sheet_app_uninstalled">(App nicht mehr installiert)</string>
+    <string name="edit_sheet_unnamed_folder">Unbenannter Ordner</string>
+    <string name="edit_sheet_invalid_folder">(Ungültiger Ordner)</string>
+    <string name="edit_sheet_shortcut_unavailable">(Verknüpfung nicht mehr verfügbar)</string>
+    <string name="edit_sheet_invalid_shortcut">(Ungültige Verknüpfung)</string>
+    <string name="folder_edit_window">Fenster</string>
+    <string name="folder_edit_window_opacity">Fensteropazität</string>
+    <string name="folder_edit_icon">Symbol</string>
+    <string name="folder_edit_icon_opacity">Deckkraft des Symbols</string>
+    <string name="folder_edit_name_hint">Ordnername</string>
+    <string name="folder_edit_section_appearance">Aussehen</string>
+    <string name="folder_edit_section_layout">Layout</string>
+    <string name="folder_edit_section_gestures">Gesten</string>
+    <string name="folder_edit_glass_refraction">Glasbrechung</string>
+    <string name="folder_edit_preview_style">Vorschaustil</string>
+    <string name="folder_edit_columns">Spalten</string>
+    <string name="folder_edit_show_labels">App-Labels anzeigen</string>
+    <string name="folder_edit_expressive_gradient">Ausdrucksstarker Farbverlauf</string>
+    <string name="folder_preview_style_grid">Gitter</string>
+    <string name="folder_preview_style_fan">Fan von 3</string>
+    <string name="folder_preview_style_hero_orbit">Held + Orbit</string>
+    <string name="folder_preview_style_custom_icon">Benutzerdefiniertes Symbol</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">Neuer Ordner</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Notifications</string>
+    <string name="notification_sheet_clear">Effacer</string>
+    <string name="notification_sheet_dismiss">Ignorer</string>
+    <string name="notification_sheet_empty">Aucune notification</string>
+    <string name="notification_history_title">Conserver les notifications</string>
+    <string name="notification_history_subtitle">Consultez-les dans la fiche du lanceur, même après leur effacement. Leur texte est enregistré sur ce téléphone.</string>
+    <string name="notification_retention_title">Conserver pendant</string>
+    <string name="notification_retention_1h">1 heure</string>
+    <string name="notification_retention_6h">6 heures</string>
+    <string name="notification_retention_1d">1 jour</string>
+    <string name="notification_retention_3d">3 jours</string>
+    <string name="notification_retention_7d">7 jours</string>
+</resources>

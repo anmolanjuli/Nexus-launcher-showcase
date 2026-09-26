@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">Accès aux notifications</string>
+    <string name="notification_access_desc">Requis pour le nombre de badges et le widget Musique</string>
+    <string name="storage_access_title">Accès au stockage et aux médias</string>
+    <string name="storage_access_desc">Requis pour le flou sur les fonds d\'écran tiers</string>
+    <string name="accessibility_service_title">Service d\'accessibilité</string>
+    <string name="accessibility_service_desc">Requis pour les actions gestuelles globales</string>
+    <string name="app_usage_title">Accès à l\'utilisation de l\'application</string>
+    <string name="app_usage_desc">Requis pour le geste récent et la lueur des étoiles</string>
+    <string name="location_access_title">Accès à la localisation</string>
+    <string name="location_access_desc">Requis pour le widget Météo</string>
+    <string name="system_permissions_title">Système et autorisations</string>
+    <string name="permissions_granted_format">%1$d autorisations sur %2$d accordées</string>
+    <string name="permission_status_granted">Accordé</string>
+    <string name="permission_status_tap_to_enable">Appuyez pour activer</string>
+    <string name="permission_status_enabled">Activé</string>
+    <string name="badge_header_title">Insignes de notification</string>
+    <string name="badge_app_icon_title">Insignes d’icône d’application</string>
+    <string name="badge_app_icon_subtitle">Nombre numérique ou point de notification sur l\'icône de l\'application</string>
+    <string name="badge_folder_title">Insignes de dossier</string>
+    <string name="badge_folder_subtitle">Nombre total de toutes les applications contenues dans le dossier</string>
+    <string name="badge_opt_off">Désactivé</string>
+    <string name="badge_opt_dot">Point</string>
+    <string name="badge_opt_count">Compter</string>
+    <string name="badge_color_custom_hint">%1$s • Appuyez sur le cercle pour personnaliser</string>
+    <string name="badge_color_red">Rouge</string>
+    <string name="badge_color_green">Vert</string>
+    <string name="badge_color_blue">Bleu</string>
+    <string name="badge_color_red_default">Rouge (par défaut)</string>
+    <string name="badge_summary_format">Application : %1$s • Dossier : %2$s</string>
+    <string name="search_micro_actions_title">Micro-actions</string>
+    <string name="search_micro_actions_desc">Calculs instantanés et conversions d\'unités directement dans la recherche</string>
+    <string name="search_sources_title">Sources de recherche</string>
+    <string name="search_sources_desc">Éléments d\'appareil et fournisseurs de recherche externes</string>
+    <string name="search_calc_title">Calculatrice</string>
+    <string name="search_calc_desc">Résolvez des équations mathématiques directement dans la recherche</string>
+    <string name="search_conv_title">Conversion d\'unités</string>
+    <string name="search_conv_desc">Convertir des devises, des mesures et des unités de mesure</string>
+    <string name="search_contacts_title">Contacts</string>
+    <string name="search_contacts_desc">Afficher les contacts de l\'appareil correspondant dans les résultats de recherche</string>
+    <string name="search_web_title">Recherche sur le Web</string>
+    <string name="search_web_desc">Afficher les suggestions Web et le raccourci du moteur de recherche par défaut</string>
+    <string name="search_maps_title">Recherche de cartes</string>
+    <string name="search_maps_desc">Afficher l\'option Cartes lorsque la requête ne correspond à aucune application ou contact</string>
+</resources>

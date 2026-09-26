@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">Acceso a notificaciones</string>
+    <string name="notification_access_desc">Requerido para el recuento de insignias y el widget de música</string>
+    <string name="storage_access_title">Almacenamiento y acceso a medios</string>
+    <string name="storage_access_desc">Requerido para desenfocar fondos de pantalla de terceros</string>
+    <string name="accessibility_service_title">Servicio de Accesibilidad</string>
+    <string name="accessibility_service_desc">Requerido para acciones de gestos globales</string>
+    <string name="app_usage_title">Acceso al uso de la aplicación</string>
+    <string name="app_usage_desc">Requerido para el gesto Recientes y el brillo de las estrellas</string>
+    <string name="location_access_title">Acceso a la ubicación</string>
+    <string name="location_access_desc">Requerido para el widget del tiempo</string>
+    <string name="system_permissions_title">Sistema y permisos</string>
+    <string name="permissions_granted_format">Permisos %1$d de %2$d concedidos</string>
+    <string name="permission_status_granted">Otorgada</string>
+    <string name="permission_status_tap_to_enable">Toca para habilitar</string>
+    <string name="permission_status_enabled">Activado</string>
+    <string name="badge_header_title">Insignias de notificación</string>
+    <string name="badge_app_icon_title">Insignias de iconos de aplicaciones</string>
+    <string name="badge_app_icon_subtitle">Recuento numérico o punto de notificación en el ícono de la aplicación</string>
+    <string name="badge_folder_title">Insignias de carpeta</string>
+    <string name="badge_folder_subtitle">Recuento total de todas las aplicaciones dentro de la carpeta</string>
+    <string name="badge_opt_off">Apagado</string>
+    <string name="badge_opt_dot">Punto</string>
+    <string name="badge_opt_count">Contar</string>
+    <string name="badge_color_custom_hint">%1$s • Toque el círculo para personalizar</string>
+    <string name="badge_color_red">Rojo</string>
+    <string name="badge_color_green">Verde</string>
+    <string name="badge_color_blue">Azul</string>
+    <string name="badge_color_red_default">Rojo (predeterminado)</string>
+    <string name="badge_summary_format">Aplicación: %1$s • Carpeta: %2$s</string>
+    <string name="search_micro_actions_title">Microacciones</string>
+    <string name="search_micro_actions_desc">Cálculos instantáneos y conversiones de unidades directamente en la búsqueda</string>
+    <string name="search_sources_title">Fuentes de búsqueda</string>
+    <string name="search_sources_desc">Elementos del dispositivo y proveedores de búsqueda externos</string>
+    <string name="search_calc_title">Calculadora</string>
+    <string name="search_calc_desc">Resuelve ecuaciones matemáticas directamente en la búsqueda</string>
+    <string name="search_conv_title">Conversión de unidades</string>
+    <string name="search_conv_desc">Convertir moneda, métricas y unidades de medida</string>
+    <string name="search_contacts_title">Contactos</string>
+    <string name="search_contacts_desc">Mostrar contactos del dispositivo coincidentes en los resultados de búsqueda</string>
+    <string name="search_web_title">Búsqueda web</string>
+    <string name="search_web_desc">Mostrar sugerencias web y acceso directo al motor de búsqueda predeterminado</string>
+    <string name="search_maps_title">Búsqueda de mapas</string>
+    <string name="search_maps_desc">Mostrar la opción de Mapas cuando la consulta no coincide con ninguna aplicación o contacto</string>
+</resources>

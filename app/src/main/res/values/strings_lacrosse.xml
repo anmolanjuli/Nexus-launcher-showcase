@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">Theme Mode</string>
+    <string name="widget_lacrosse_theme_classic">Classic LCD</string>
+    <string name="widget_lacrosse_theme_themed">Themed LCD</string>
+    <string name="widget_lacrosse_theme_ice">Ice LCD</string>
+    <string name="widget_lacrosse_time_format">Time Format</string>
+    <string name="widget_lacrosse_time_format_system">System</string>
+    <string name="widget_lacrosse_time_format_12h">12-Hour</string>
+    <string name="widget_lacrosse_time_format_24h">24-Hour</string>
+    <string name="widget_lacrosse_month_format">Month Format</string>
+    <string name="widget_lacrosse_month_format_abbrev">Text (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">Number (1-12)</string>
+    <string name="widget_lacrosse_field_time">Show Time</string>
+    <string name="widget_lacrosse_field_ampm">Show AM/PM</string>
+    <string name="widget_lacrosse_field_month">Show Month</string>
+    <string name="widget_lacrosse_field_date">Show Date</string>
+    <string name="widget_lacrosse_field_day">Show Day</string>
+    <string name="widget_lacrosse_field_temp">Show Temperature</string>
+    <string name="widget_lacrosse_ghost_segments">Ghost Segments</string>
+    <string name="widget_lacrosse_divider_lines">Divider Lines</string>
+
+    <string name="lacrosse_label_month" translatable="false">MONTH</string>
+    <string name="lacrosse_label_date" translatable="false">DATE</string>
+    <string name="lacrosse_label_day" translatable="false">DAY</string>
+    <string name="lacrosse_label_temp" translatable="false">TEMP</string>
+    <string name="lacrosse_label_am" translatable="false">AM</string>
+    <string name="lacrosse_label_pm" translatable="false">PM</string>
+</resources>

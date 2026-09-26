@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_settings_title">Dock-Einstellungen</string>
+    <string name="dock_settings_section_layout">LAYOUT &amp; GRÖSSE</string>
+    <string name="dock_settings_section_background">HINTERGRUND</string>
+    <string name="dock_settings_section_labels">ETIKETTEN &amp; SUCHE</string>
+    <string name="dock_settings_max_icons">Max-Symbole</string>
+    <string name="dock_settings_icon_size">Symbolgröße</string>
+    <string name="dock_settings_height">Höhe</string>
+    <string name="dock_settings_corner_radius">Eckenradius</string>
+    <string name="dock_settings_show_labels">Beschriftungen anzeigen</string>
+    <string name="dock_settings_font_size">Schriftgröße</string>
+    <string name="dock_settings_show_search">Suche anzeigen</string>
+    <string name="dock_settings_opacity">Opazität</string>
+    <string name="dock_settings_zigzag_layout">Zickzack-Layout</string>
+    <string name="dock_settings_background">Hintergrund</string>
+    <string name="dock_settings_color">Farbe</string>
+</resources>

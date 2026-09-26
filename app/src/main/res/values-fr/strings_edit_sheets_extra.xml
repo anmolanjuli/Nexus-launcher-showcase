@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Activer les badges de notification</string>
+    <string name="notif_perm_body">Autorisez Nexus Launcher à lire les notifications pour afficher le nombre de badges sur les icônes de vos applications.\n\nVous pouvez modifier cela à tout moment dans Paramètres → Applications → Accès spécial aux applications → Accès aux notifications.</string>
+    <string name="notif_perm_not_now">Pas maintenant</string>
+    <string name="folder_default_name">Dossier</string>
+    <string name="folder_numbered_name">Dossier %1$d</string>
+    <string name="folder_remove_body_count">Cela supprimera le dossier et toutes les applications %1$d qu\'il contient.</string>
+    <string name="folder_discard_title">Supprimer les modifications ?</string>
+    <string name="folder_discard_body">Vos modifications ne seront pas enregistrées.</string>
+    <string name="folder_keep_editing">Continuer à modifier</string>
+    <string name="folder_discard">Jeter</string>
+    <string name="folder_background_style">Style d\'arrière-plan</string>
+    <string name="gesture_group_navigation">Navigation</string>
+    <string name="gesture_group_system">Système</string>
+    <string name="gesture_group_launcher">Lanceur</string>
+    <string name="gesture_group_shortcuts">Raccourcis</string>
+    <string name="icon_edit_unsaved_title">Modifications non enregistrées</string>
+    <string name="icon_edit_unsaved_message">Vous avez des modifications non enregistrées. Êtes-vous sûr de vouloir quitter ?</string>
+    <string name="icon_edit_continue">Continuer la modification</string>
+    <string name="icon_edit_reset_title">Réinitialiser aux valeurs par défaut</string>
+    <string name="icon_edit_reset_message">Êtes-vous sûr de vouloir réinitialiser toutes les modifications personnalisées de cette application à leurs valeurs par défaut ?</string>
+    <string name="icon_edit_title">Modifier l\'application</string>
+    <string name="menu_move">Déplacer</string>
+    <string name="menu_elevation">Élévation</string>
+    <string name="menu_replace">Remplacer</string>
+    <string name="menu_padding">Marge intérieure</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="mosaic_add_widget">Ajouter un widget</string>
+    <string name="mosaic_add_widget_full">Ajouter un widget (complet)</string>
+    <string name="mosaic_remove_widget_title">Supprimer le widget</string>
+    <string name="mosaic_remove_restore_desc">Restaurez ce widget sur l\'écran d\'accueil ou supprimez-le définitivement.</string>
+    <string name="mosaic_remove_no_space_desc">Aucun espace d\'accueil gratuit n\'est disponible pour restaurer ce widget. Vous pouvez le supprimer définitivement.</string>
+    <string name="mosaic_remove_restore_action">Restaurer dans l\'écran d\'accueil</string>
+    <string name="progress_preset_label">Préréglage</string>
+    <string name="progress_track_name_hint">Nom de la piste</string>
+    <string name="progress_badge_mode">Mode badge</string>
+    <string name="progress_track_default">Suivre</string>
+</resources>

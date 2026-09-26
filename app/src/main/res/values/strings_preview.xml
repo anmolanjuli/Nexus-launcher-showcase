@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Live Preview Strings -->
+    <string name="preview_section_label">Preview</string>
+    <string name="preview_locale_sample_system">System Default • Follows device language</string>
+    <string name="preview_locale_sample_english" translatable="false">English • Welcome to Nexus Launcher</string>
+    <string name="preview_locale_sample_spanish" translatable="false">Español • Bienvenido a Nexus Launcher</string>
+    <string name="preview_locale_sample_portuguese_br" translatable="false">Português (Brasil) • Bem-vindo ao Nexus Launcher</string>
+    <string name="preview_locale_sample_hindi" translatable="false">हिन्दी • नेक्सस लॉन्चर में आपका स्वागत है</string>
+    <string name="preview_locale_sample_indonesian" translatable="false">Bahasa Indonesia • Selamat datang di Nexus Launcher</string>
+    <string name="preview_locale_sample_german" translatable="false">Deutsch • Willkommen bei Nexus Launcher</string>
+    <string name="preview_locale_sample_french" translatable="false">Français • Bienvenue sur Nexus Launcher</string>
+    <string name="preview_locale_sample_nepali" translatable="false">नेपाली • नेक्सस लन्चरमा स्वागत छ</string>
+    <string name="preview_locale_sample_arabic" translatable="false">العربية • أهلاً بك في مشغل نكسس</string>
+    <string name="preview_locale_sample_hebrew" translatable="false">עברית • ברוכים הבאים ל-Nexus</string>
+    <string name="preview_direction_badge_ltr" translatable="false">LTR</string>
+    <string name="preview_direction_badge_rtl" translatable="false">RTL</string>
+    <string name="settings_section_typography_language">Font &amp; Language</string>
+
+    <!-- Bundled Font Names -->
+    <string name="font_family_roboto" translatable="false">Roboto</string>
+    <string name="font_family_inter" translatable="false">Inter</string>
+    <string name="font_family_manrope" translatable="false">Manrope</string>
+    <string name="font_family_ibm_plex_sans" translatable="false">IBM Plex Sans</string>
+    <string name="font_family_lora" translatable="false">Lora</string>
+    <string name="font_family_playpen_sans" translatable="false">Playpen</string>
+    <string name="font_family_elms_sans" translatable="false">Elms Sans</string>
+    <string name="font_family_bitcount_single" translatable="false">Bitcount</string>
+
+    <!-- Custom Font Strings -->
+    <string name="font_custom_section">Custom Fonts (Upload .ttf format of file)</string>
+    <string name="font_action_add_custom">+ Add Font</string>
+    <string name="dialog_delete_font_title">Delete custom font?</string>
+    <string name="dialog_delete_font_message">Delete \"%1$s\" from your custom fonts?</string>
+    <string name="toast_font_added">Custom font \'%1$s\' added</string>
+    <string name="toast_font_invalid">Selected file is not a valid font</string>
+    <string name="toast_font_deleted">Custom font removed</string>
+</resources>

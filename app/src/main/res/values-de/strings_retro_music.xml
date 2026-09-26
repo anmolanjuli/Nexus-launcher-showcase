@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style_modern">Modern</string>
+    <string name="music_style_winamp">Winamp</string>
+    <string name="music_style_amplifier">Verstärker</string>
+    <string name="music_style_terminal">Terminal</string>
+    <string name="music_style_cassette">Kassette</string>
+
+    <string name="widget_retro_music_section_title">Retro-Musikoptionen</string>
+    <string name="widget_retro_music_show_art">Albumcover anzeigen</string>
+    <string name="widget_retro_music_show_progress">Fortschrittsleiste anzeigen</string>
+    <string name="widget_retro_music_show_shuffle_repeat">Shuffle &amp; Wiederholen anzeigen</string>
+    <string name="widget_retro_music_theme_aware">Designbewusster Retro-Modus</string>
+    <string name="widget_retro_music_theme_aware_desc">Retro-Stile an aktive Designfarben anpassen</string>
+
+    <string name="widget_retro_match_system_ui">An System-UI anpassen</string>
+    <string name="widget_retro_match_system_ui_desc">Aktuell verwendete UI: %1$s</string>
+    <string name="widget_retro_surface_title">Oberfläche</string>
+    <string name="widget_retro_surface_default">Standard</string>
+    <string name="widget_retro_surface_frosted">Mattiert</string>
+    <string name="widget_retro_surface_neumorphic">Neumorphismus</string>
+</resources>

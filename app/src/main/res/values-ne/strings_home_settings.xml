@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen Settings Page (Nepali) -->
+    <string name="home_settings_grid_layout_title">ग्रिड लेआउट</string>
+    <string name="home_settings_grid_layout_subtitle">स्तम्भ, पङ्क्ति, आइकन आकार, नाम र सूचक</string>
+    <string name="home_settings_columns">स्तम्भहरू</string>
+    <string name="home_settings_columns_subtitle">स्तम्भ सङ्ख्या परिवर्तन गर्दछ</string>
+    <string name="home_settings_rows">पङ्क्तिहरू</string>
+    <string name="home_settings_rows_subtitle">पङ्क्ति सङ्ख्या परिवर्तन गर्दछ</string>
+    <string name="home_settings_icon_size">आइकन आकार</string>
+    <string name="home_settings_icon_size_subtitle">एप आइकनको नाप मिलाउँछ</string>
+    <string name="home_settings_app_label">एपको नाम</string>
+    <string name="home_settings_app_label_subtitle">आइकन मुनि एपको नाम देखाउनुहोस्</string>
+    <string name="home_settings_page_indicator">पृष्ठ सूचक</string>
+    <string name="home_settings_page_indicator_subtitle">हालको पृष्ठ देखाउने थोप्लाहरू</string>
+
+    <string name="home_settings_screen_spacing_title">स्क्रिन स्पेसिङ</string>
+    <string name="home_settings_screen_spacing_subtitle">एपहरू बीचको मार्जिन र खाली ठाउँ</string>
+    <string name="home_settings_padding_horizontal">तेर्सो प्याडिङ</string>
+    <string name="home_settings_padding_horizontal_subtitle">दायाँ र बायाँ स्क्रिन मार्जिन</string>
+    <string name="home_settings_padding_vertical">ठाडो प्याडिङ</string>
+    <string name="home_settings_padding_vertical_subtitle">माथि र तल स्क्रिन मार्जिन</string>
+    <string name="home_settings_gap_horizontal">तेर्सो खाली ठाउँ</string>
+    <string name="home_settings_gap_horizontal_subtitle">आइकनहरू बीचको तेर्सो दूरी</string>
+    <string name="home_settings_gap_vertical">ठाडो खाली ठाउँ</string>
+    <string name="home_settings_gap_vertical_subtitle">आइकनहरू बीचको ठाडो दूरी</string>
+
+    <string name="home_settings_transitions_title">ट्रान्जिसनहरू</string>
+    <string name="home_settings_page_transition">पृष्ठ ट्रान्जिसन</string>
+    <string name="home_settings_transition_none">कुनै पनि होइन</string>
+    <string name="home_settings_transition_slide">स्लाइड</string>
+    <string name="home_settings_transition_fade">फेड</string>
+    <string name="home_settings_transition_cube">क्युब</string>
+    <string name="home_settings_transition_zoom">जुम</string>
+    <string name="home_settings_transition_flip">फ्लिप</string>
+    <string name="home_settings_transition_gravity_fold">ग्र्याभिटी फोल्ड</string>
+    <string name="home_settings_reduce_motion">गति घटाउनुहोस्</string>
+    <string name="home_settings_reduce_motion_subtitle">एनिमेसन कम गर्नुहोस्</string>
+    <string name="home_settings_transition_speed">ट्रान्जिसन गति</string>
+    <string name="home_settings_transition_speed_subtitle">पृष्ठ स्वाइप गर्ने गति</string>
+
+    <string name="home_settings_news_feed_title">समाचार फिड</string>
+    <string name="home_settings_news_feed_subtitle">RSS फिडहरू</string>
+    <string name="home_settings_show_feed">RSS फिड हेर्न दायाँ स्वाइप गर्नुहोस्</string>
+    <string name="home_settings_show_feed_subtitle">सबैभन्दा बायाँ स्क्रिनमा समाचार फिड देखाउनुहोस्</string>
+    <string name="home_settings_immersive">इमर्सिभ मोड</string>
+    <string name="home_settings_immersive_subtitle">स्टाटस बार र नेभिगेसन बार लुकाउनुहोस्। देखाउन किनाराबाट स्वाइप गर्नुहोस्।</string>
+    <string name="home_settings_status_info">इमर्सिभ स्टाटस बार</string>
+    <string name="home_settings_status_info_subtitle">इमर्सिभ मोडमा क्यामेराको छेउमा देखिन्छ</string>
+    <string name="status_item_clock">घडी</string>
+    <string name="status_item_notifications">सूचनाहरू</string>
+    <string name="status_item_wifi">Wi-Fi</string>
+    <string name="status_item_signal">मोबाइल सिग्नल</string>
+    <string name="status_item_battery">ब्याट्री</string>
+    <string name="home_settings_show_dock">डक देखाउनुहोस्</string>
+    <string name="home_settings_show_dock_subtitle">बन्द हुँदा ग्रिडले डकको ठाउँ प्रयोग गर्छ।</string>
+</resources>

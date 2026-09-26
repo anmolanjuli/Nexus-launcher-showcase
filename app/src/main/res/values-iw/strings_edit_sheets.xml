@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Icon Edit Sheet (Hebrew) -->
+    <string name="edit_sheet_tap_to_rename">הקש לשינוי שם</string>
+    <string name="edit_sheet_app_name_hint">שם אפליקציה</string>
+    <string name="edit_sheet_section_appearance">מראה</string>
+    <string name="edit_sheet_icon_source">מקור סמל</string>
+    <string name="edit_sheet_section_gestures">מחוות (GESTURES)</string>
+    <string name="edit_sheet_gestures">מחוות</string>
+    <string name="edit_sheet_gallery">גלריה</string>
+    <string name="edit_sheet_swipe_up">החלקה למעלה</string>
+    <string name="edit_sheet_swipe_down">החלקה למטה</string>
+    <string name="edit_sheet_double_tap">הקשה כפולה</string>
+    <string name="edit_sheet_app_uninstalled">(האפליקציה אינה מותקנת עוד)</string>
+    <string name="edit_sheet_unnamed_folder">תיקייה ללא שם</string>
+    <string name="edit_sheet_invalid_folder">(תיקייה לא תקינה)</string>
+    <string name="edit_sheet_shortcut_unavailable">(קיצור הדרך אינו זמין עוד)</string>
+    <string name="edit_sheet_invalid_shortcut">(קיצור דרך לא תקין)</string>
+
+    <!-- Folder Edit Sheet -->
+    <string name="folder_edit_window">חלון</string>
+    <string name="folder_edit_window_opacity">אטימות חלון</string>
+    <string name="folder_edit_icon">סמל</string>
+    <string name="folder_edit_icon_opacity">אטימות סמל</string>
+    <string name="folder_edit_name_hint">שם תיקייה</string>
+    <string name="folder_edit_section_appearance">מראה</string>
+    <string name="folder_edit_section_layout">פריסה</string>
+    <string name="folder_edit_section_gestures">מחוות</string>
+    <string name="folder_edit_glass_refraction">שבירת זכוכית</string>
+    <string name="folder_edit_preview_style">סגנון תצוגה מקדימה</string>
+    <string name="folder_edit_columns">עמודות</string>
+    <string name="folder_edit_show_labels">הצג תוויות אפליקציות</string>
+    <string name="folder_edit_expressive_gradient">מדרג הבעתי</string>
+
+    <!-- Folder Preview Styles -->
+    <string name="folder_preview_style_grid">רשת</string>
+    <string name="folder_preview_style_fan">מניפה של 3</string>
+    <string name="folder_preview_style_hero_orbit">ראשי + מסלול</string>
+    <string name="folder_preview_style_custom_icon">סמל מותאם</string>
+    <string name="folder_preview_style_bento">בנטו</string>
+    <string name="folder_new_title">תיקייה חדשה</string>
+</resources>

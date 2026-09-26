@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_enable_location">Aktifkan Lokasi</string>
+    <string name="weather_no_data">Tidak ada data cuaca</string>
+    <string name="weather_high_label">H</string>
+    <string name="weather_low_label">L</string>
+    <string name="weather_today">Hari ini</string>
+    <string name="weather_local_area">Daerah Lokal</string>
+    <string name="calendar_enable_access">Aktifkan Akses Kalender</string>
+    <string name="calendar_no_upcoming_events">Tidak ada acara mendatang</string>
+    <string name="calendar_all_day">Sepanjang hari</string>
+    <plurals name="calendar_events_label">
+        <item quantity="other">acara</item>
+    </plurals>
+    <string name="content_desc_widget_preview">Pratinjau widget</string>
+    <string name="content_desc_switch_mosaic_mode">Ganti mode tampilan Mosaik</string>
+    <string name="content_desc_current_hero_widget">Widget Pahlawan saat ini</string>
+    <string name="content_desc_make_hero_widget">Buat widget Pahlawan</string>
+    <string name="widget_settings_title">Pengaturan Widget</string>
+    <string name="toast_mosaic_page_is_full">Halaman mosaik penuh</string>
+    <string name="toast_at_least_one_page_required">Setidaknya diperlukan satu halaman</string>
+</resources>

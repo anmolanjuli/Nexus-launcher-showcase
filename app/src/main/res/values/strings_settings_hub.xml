@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search_hint">Search settings…</string>
+    <string name="settings_search_pages">Pages</string>
+    <string name="settings_search_controls">Settings</string>
+    <string name="settings_search_empty">No settings match “%1$s”</string>
+    <string name="settings_jump_title">Jump to</string>
+    <string name="settings_jump_results">Results</string>
+    <string name="settings_search_no_results">No settings match that</string>
+    <string name="settings_jump_content_description">Jump to another settings page</string>
+    <string name="settings_hub_footer" translatable="false">%1$s · %2$s · %3$s</string>
+    <string name="settings_release_year_placeholder" translatable="false">2026</string>
+
+    <string name="settings_group_layout">Layout</string>
+    <string name="settings_group_appearance">Appearance</string>
+    <string name="settings_group_behaviour">Behavior</string>
+    <string name="settings_group_system">System</string>
+    <string name="settings_icon_pack_system_default">System Default</string>
+    <string name="settings_icons_pack_label">Icon Pack</string>
+    <string name="settings_global_appearance">Global Appearance</string>
+    <string name="settings_adaptive_styling">Adaptive Styling</string>
+    <string name="settings_adaptive_styling_subtitle">Monochrome themed icons</string>
+    <string name="premium_locked_toast">%1$s is a Premium feature</string>
+    <string name="premium_badge">Premium</string>
+    <!-- Pricing copy. All of the sandwich wording is here so the joke can be swapped for a
+         generic one without touching PremiumPlan: "McChicken" is a McDonald's trademark. -->
+
+    <string name="premium_plan_monthly">Monthly</string>
+    <string name="premium_plan_monthly_price" translatable="false">$0.50</string>
+    <string name="premium_plan_period_monthly">/ month</string>
+
+    <string name="premium_plan_yearly">Annually</string>
+    <string name="premium_plan_yearly_price" translatable="false">$3.99</string>
+    <string name="premium_plan_period_yearly">/ year</string>
+
+    <string name="premium_plan_lifetime">Forever</string>
+    <string name="premium_plan_lifetime_price" translatable="false">$4.99</string>
+    <string name="premium_plan_period_once">one time</string>
+
+    <!--
+        Paywall voice: a friend being straight with you, never a company being clever at your
+        expense. The joke is always aimed at us taking the money, never at the user not having it.
+    -->
+    <string name="premium_paywall_choice_title">So… how do you want to do this?</string>
+    <string name="premium_paywall_choice_subtitle">Pick your poison. No hard feelings either way.</string>
+    <string name="premium_paywall_choice_broke">I’m Broke Like You</string>
+    <string name="premium_paywall_choice_rich">I’m Crazy or Rich</string>
+
+    <string name="premium_paywall_broke_headline">Respect. Here’s the deal.</string>
+    <string name="premium_paywall_broke_body">Pay once. Use forever. We’re not monsters.</string>
+    <string name="premium_paywall_broke_cta">Unlock for %1$s (Lifetime)</string>
+    <string name="premium_paywall_broke_dismiss">Actually, I’ll stick with the free tier</string>
+
+    <string name="premium_paywall_rich_headline">You absolute legend.</string>
+    <string name="premium_paywall_rich_body">Fine, we’ll take your recurring money. But only because you insisted.</string>
+    <string name="premium_paywall_rich_cta">Subscribe Anyway</string>
+    <string name="premium_paywall_rich_back">Never mind, I’m actually broke</string>
+    <string name="premium_paywall_offer">%1$s — %2$s %3$s</string>
+
+    <string name="premium_paywall_confirm_headline">You’re actually doing this?</string>
+    <string name="premium_paywall_confirm_body">Okay, legend. Here we go.</string>
+    <string name="premium_paywall_confirm_cta">Here we go</string>
+    <string name="premium_paywall_confirm_back">Give me a second</string>
+
+    <string name="premium_paywall_close">Close</string>
+
+    <string name="premium_billing_unavailable">Billing is not set up yet — use the developer unlock below</string>
+    <string name="premium_page_title">Premium</string>
+    <string name="premium_page_subtitle">Your plan and what it unlocks</string>
+    <string name="premium_section_developer_subtitle">Local override until billing is wired up</string>
+    <string name="premium_section_developer">Developer</string>
+    <string name="premium_dev_unlock">Unlock Premium locally</string>
+    <string name="premium_dev_unlock_desc">Placeholder until Play Billing is wired up</string>
+    <string name="premium_feature_widgets">Nexus widgets</string>
+    <string name="premium_feature_widgets_desc">Clock, weather, calendar, agenda, notes, music, progress and performance. Mosaic stays free.</string>
+    <string name="premium_feature_frosted">Frosted Glass UI</string>
+    <string name="premium_feature_frosted_desc">Blurred, translucent surfaces across the launcher</string>
+    <string name="premium_feature_drawer_modes">Drawer customization</string>
+    <string name="premium_feature_drawer_modes_desc">Drawer layouts beyond the grid, search pill and category bar at the bottom, dropdown and strip categories, and turning off the A–Z rail</string>
+    <string name="premium_feature_calm">Extra themes</string>
+    <string name="premium_feature_calm_desc">Calm, a low-stimulus mode with eleven palettes, and pure-black AMOLED</string>
+    <string name="premium_feature_color_access">Color accessibility</string>
+    <string name="premium_feature_color_access_desc">Accent adjustments for color vision deficiencies</string>
+    <string name="premium_feature_library">Document library</string>
+    <string name="premium_feature_library_desc">Keep as many PDF and EPUB documents as you like. Up to 5 are free, and text files are always free.</string>
+    <string name="premium_feature_badges">Notification badges</string>
+    <string name="premium_feature_badges_desc">Choose the badge color and show badges on folders</string>
+    <string name="premium_feature_gestures">Advanced gestures</string>
+    <string name="premium_feature_gestures_desc">Swipe actions on single apps and folders, and two-finger swipes. Home screen swipes stay free.</string>
+    <string name="premium_feature_fonts">Custom fonts</string>
+    <string name="premium_feature_fonts_desc">Import your own font files. Built-in fonts stay free.</string>
+    <string name="premium_feature_wallpaper">Wallpaper effects</string>
+    <string name="premium_feature_wallpaper_desc">Dim and tint any wallpaper. Gradients and photos stay free.</string>
+    <string name="premium_feature_transitions">Page transitions</string>
+    <string name="nexus_doc_limit_title">Free limit reached</string>
+    <string name="nexus_doc_limit_desc">Free tier limit of %1$d documents reached. Remove any document to add a new one, or get Premium for unlimited PDF and EPUB files.</string>
+    <string name="nexus_doc_limit_not_now">Not now</string>
+    <string name="nexus_doc_limit_get_premium">Get Premium</string>
+    <string name="premium_feature_smart_search">Smart search</string>
+    <string name="premium_feature_smart_search_desc">Unit conversions right in search. The calculator stays free.</string>
+    <string name="premium_feature_hidden_apps">Hidden apps</string>
+    <string name="premium_feature_hidden_apps_desc">Hide apps from the drawer and search. Unhiding is always free.</string>
+    <string name="premium_feature_transitions_desc">Fade, cube, zoom, flip and gravity fold between home pages</string>
+    <string name="premium_cta_unlock">Unlock Premium</string>
+    <string name="premium_action_preview">Preview</string>
+    <!-- Sample copy drawn inside the Premium page's pictures. -->
+    <string name="premium_art_headline">Light on the harbour</string>
+    <string name="premium_art_body">The tide turned before dawn. By the time the boats came back the whole bay had gone silver, and the town woke to the sound of them.</string>
+    <string name="premium_art_label_original">Original</string>
+    <string name="premium_art_label_eink">E-Ink</string>
+    <string name="premium_art_library_title">Library</string>
+    <string name="premium_art_library_search">Search library…</string>
+    <string name="premium_art_library_continue">CONTINUE READING</string>
+    <string name="premium_art_gesture_up">Swipe up</string>
+    <string name="premium_art_gesture_down">Swipe down</string>
+    <string name="premium_art_gesture_double">Double tap</string>
+    <string name="premium_art_action_search">Search</string>
+    <string name="premium_art_action_notifications">Notifications</string>
+    <string name="premium_art_action_app_info">App info</string>
+    <string name="premium_showcase_title">Unlock the full Nexus experience</string>
+    <string name="premium_showcase_subtitle">Glass that follows your wallpaper, living widgets, calm themes and a reader that feels like paper.</string>
+    <string name="premium_showcase_more">See %1$d more premium features →</string>
+    <string name="premium_showcase_less">Show fewer</string>
+    <string name="premium_showcase_footer_title">All of Nexus, yours</string>
+    <string name="premium_showcase_footer_count">%1$d premium features, all included</string>
+    <string name="premium_showcase_footer_active">Premium is active. Enjoy every one of them.</string>
+    <string name="premium_showcase_cancel">Monthly and yearly plans cancel anytime</string>
+    <string name="premium_showcase_preview_cta">Unlock Premium to use this feature →</string>
+    <string name="premium_showcase_preview_active">Included with your Premium</string>
+    <string name="settings_search_kw_premium">premium subscribe upgrade plan pro paid</string>
+    <string name="settings_applying_language">Applying language…</string>
+    <string name="licenses_page_title">Licenses</string>
+    <string name="licenses_page_subtitle">Open-source and font licenses</string>
+    <string name="licenses_section_fonts">Fonts</string>
+    <string name="licenses_section_fonts_subtitle">Bundled typefaces and their license text</string>
+    <string name="licenses_section_libraries_subtitle">Third-party libraries Nexus is built on</string>
+    <string name="licenses_section_libraries">Libraries</string>
+    <string name="licenses_ofl" translatable="false">SIL Open Font License 1.1</string>
+    <string name="licenses_unavailable">License text unavailable.</string>
+    <string name="settings_search_kw_licenses">license licenses open source oss attribution legal font</string>
+    <string name="settings_hub_theme_title">Theme</string>
+    <string name="settings_hub_icons_subtitle">Icon pack, shape &amp; themed icons</string>
+    <string name="settings_hub_typography_title">Typography</string>
+    <string name="settings_hub_typography_subtitle">Font family &amp; language</string>
+    <string name="settings_hub_dock_title">Dock</string>
+    <string name="settings_hub_dock_subtitle">Background, size, icons &amp; layout</string>
+    <string name="settings_hub_immersive_title">Immersive Mode</string>
+    <string name="settings_hub_immersive_subtitle">Status row, pills, clock, battery and signal</string>
+    <string name="settings_search_kw_immersive">immersive status bar pills clock battery wifi signal frosted cutout</string>
+    <string name="settings_search_kw_dock">dock tray bottom bar shortcuts</string>
+
+    <string name="settings_hub_home_subtitle">Grid, spacing, labels, transitions</string>
+    <string name="settings_hub_drawer_subtitle">Layout, search, categories</string>
+    <string name="settings_hub_theme_subtitle">Mode, palette, accent &amp; UI style</string>
+    <string name="settings_hub_gestures_subtitle">Swipe actions, double tap</string>
+    <string name="settings_hub_search_subtitle">Search bar, providers &amp; web</string>
+    <string name="settings_hub_notifications_title">Notifications &amp; Permissions</string>
+    <string name="settings_hub_notifications_subtitle">Badges and permissions</string>
+    <string name="settings_hub_backup_title">Backup &amp; Restore</string>
+    <string name="settings_hub_backup_subtitle">Export or import layout</string>
+    <string name="settings_page_gestures">Gestures</string>
+    <string name="settings_page_search">Search</string>
+
+    <string name="settings_search_kw_home">grid columns rows icon size labels indicator spacing padding gap transitions feed page</string>
+    <string name="settings_search_kw_drawer">grid list columns icon size labels sort hidden apps categories rail</string>
+    <string name="settings_search_kw_theme">dark light amoled accent color icons pack shape font language typography</string>
+    <string name="settings_search_kw_gestures">swipe up down two finger double tap</string>
+    <string name="settings_search_kw_search">contacts web calculator conversion micro actions sources</string>
+    <string name="settings_search_kw_notifications">badge dot count folder notification access storage location permission</string>
+    <string name="settings_search_kw_backup">backup restore export import nova</string>
+
+    <string name="settings_search_kw_icon_size">icon size multiplier</string>
+    <string name="settings_search_kw_columns">columns rows grid</string>
+    <string name="settings_search_kw_two_line">two line labels wrap</string>
+    <string name="settings_search_kw_spacing">padding gap spacing</string>
+    <string name="settings_search_kw_transitions">slide fade cube gravity fold</string>
+    <string name="settings_search_kw_hidden">hidden apps visibility</string>
+    <string name="settings_search_kw_accent">accent mist blue color</string>
+    <string name="settings_search_kw_icons">icon pack shape squircle hex</string>
+    <string name="settings_search_kw_type">font inter roboto language nepali</string>
+    <string name="settings_search_kw_badges">badge dot count</string>
+    <string name="settings_search_kw_nova">nova import backup</string>
+</resources>

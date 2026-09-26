@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dock Settings Sheet -->
+    <string name="dock_settings_title">डक सेटिङ्स</string>
+    <string name="dock_settings_section_layout">लेआउट र आकार</string>
+    <string name="dock_settings_section_background">पृष्ठभूमि</string>
+    <string name="dock_settings_section_labels">लेबल र खोज</string>
+    <string name="dock_settings_max_icons">अधिकतम आइकनहरू</string>
+    <string name="dock_settings_icon_size">आइकनको आकार</string>
+    <string name="dock_settings_height">उचाइ</string>
+    <string name="dock_settings_corner_radius">कुनाको गोलाइ</string>
+    <string name="dock_settings_show_labels">लेबलहरू देखाउनुहोस्</string>
+    <string name="dock_settings_font_size">फन्ट आकार</string>
+    <string name="dock_settings_show_search">खोज देखाउनुहोस्</string>
+    <string name="dock_settings_opacity">अस्पष्टता</string>
+    <string name="dock_settings_zigzag_layout">जिगज्याग लेआउट</string>
+    <string name="dock_settings_background">पृष्ठभूमि</string>
+    <string name="dock_settings_color">रंग</string>
+</resources>

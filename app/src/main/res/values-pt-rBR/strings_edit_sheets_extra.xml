@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Ativar emblemas de notificação</string>
+    <string name="notif_perm_body">Permita que o Nexus Launcher leia notificações para mostrar a contagem de selos nos ícones dos seus apps.\n\nVocê pode alterar isso a qualquer momento em Configurações → Apps → Acesso especial a apps → Acesso a notificações.</string>
+    <string name="notif_perm_not_now">Agora não</string>
+    <string name="folder_default_name">Pasta</string>
+    <string name="folder_numbered_name">Pasta %1$d</string>
+    <string name="folder_remove_body_count">Isso removerá a pasta e todos os aplicativos %1$d dentro dela.</string>
+    <string name="folder_discard_title">Descartar alterações?</string>
+    <string name="folder_discard_body">Suas alterações não serão salvas.</string>
+    <string name="folder_keep_editing">Continue editando</string>
+    <string name="folder_discard">Descartar</string>
+    <string name="folder_background_style">Estilo de fundo</string>
+    <string name="gesture_group_navigation">Navegação</string>
+    <string name="gesture_group_system">Sistema</string>
+    <string name="gesture_group_launcher">Lançador</string>
+    <string name="gesture_group_shortcuts">Atalhos</string>
+    <string name="icon_edit_unsaved_title">Alterações não salvas</string>
+    <string name="icon_edit_unsaved_message">Você tem alterações não salvas. Tem certeza de que deseja sair?</string>
+    <string name="icon_edit_continue">Continuar editando</string>
+    <string name="icon_edit_reset_title">Redefinir para o padrão</string>
+    <string name="icon_edit_reset_message">Tem certeza de que deseja redefinir todas as edições personalizadas deste aplicativo para os valores padrão?</string>
+    <string name="icon_edit_title">Editar aplicativo</string>
+    <string name="menu_move">Mover</string>
+    <string name="menu_elevation">Elevação</string>
+    <string name="menu_replace">Substituir</string>
+    <string name="menu_padding">Espaçamento interno</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="mosaic_add_widget">Adicionar widget</string>
+    <string name="mosaic_add_widget_full">Adicionar widget (completo)</string>
+    <string name="mosaic_remove_widget_title">Remover widget</string>
+    <string name="mosaic_remove_restore_desc">Restaure este widget na tela inicial ou exclua-o permanentemente.</string>
+    <string name="mosaic_remove_no_space_desc">Nenhum espaço inicial livre está disponível para restaurar este widget. Você pode excluí-lo permanentemente.</string>
+    <string name="mosaic_remove_restore_action">Restaurar na tela inicial</string>
+    <string name="progress_preset_label">Predefinido</string>
+    <string name="progress_track_name_hint">Nome da faixa</string>
+    <string name="progress_badge_mode">Modo de crachá</string>
+    <string name="progress_track_default">Rastrear</string>
+</resources>

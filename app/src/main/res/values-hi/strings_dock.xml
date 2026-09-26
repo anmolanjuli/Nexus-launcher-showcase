@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_settings_title">डॉक सेटिंग्स</string>
+    <string name="dock_settings_section_layout">लेआउट और साइज़िंग</string>
+    <string name="dock_settings_section_background">पृष्ठभूमि</string>
+    <string name="dock_settings_section_labels">लेबल और खोज</string>
+    <string name="dock_settings_max_icons">अधिकतम प्रतीक</string>
+    <string name="dock_settings_icon_size">चिह्न का आकार</string>
+    <string name="dock_settings_height">ऊंचाई</string>
+    <string name="dock_settings_corner_radius">कोने की त्रिज्या</string>
+    <string name="dock_settings_show_labels">लेबल दिखाएँ</string>
+    <string name="dock_settings_font_size">फ़ॉन्ट आकार</string>
+    <string name="dock_settings_show_search">खोज दिखाएँ</string>
+    <string name="dock_settings_opacity">अपारदर्शिता</string>
+    <string name="dock_settings_zigzag_layout">ज़िगज़ैग लेआउट</string>
+    <string name="dock_settings_background">पृष्ठभूमि</string>
+    <string name="dock_settings_color">रंग</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style_modern">आधुनिक</string>
+    <string name="music_style_winamp">Winamp</string>
+    <string name="music_style_amplifier">एम्पलीफायर</string>
+    <string name="music_style_terminal">टर्मिनल</string>
+    <string name="music_style_cassette">क्यासेट</string>
+
+    <string name="widget_retro_music_section_title">रेट्रो संगीत विकल्पहरू</string>
+    <string name="widget_retro_music_show_art">एल्बम कला देखाउनुहोस्</string>
+    <string name="widget_retro_music_show_progress">प्रगति पट्टी देखाउनुहोस्</string>
+    <string name="widget_retro_music_show_shuffle_repeat">शफल र दोहोर्याउनुहोस् देखाउनुहोस्</string>
+    <string name="widget_retro_music_theme_aware">विषयवस्तु-सचेत रेट्रो मोड</string>
+    <string name="widget_retro_music_theme_aware_desc">सक्रिय विषयवस्तु रंगहरूमा रेट्रो शैलीहरू रंगाउनुहोस्</string>
+
+    <string name="widget_retro_match_system_ui">प्रणाली UI सँग मिलाउनुहोस्</string>
+    <string name="widget_retro_match_system_ui_desc">हाल प्रयोग भइरहेको UI: %1$s</string>
+    <string name="widget_retro_surface_title">सतह</string>
+    <string name="widget_retro_surface_default">पूर्वनिर्धारित</string>
+    <string name="widget_retro_surface_frosted">फ्रस्टेट</string>
+    <string name="widget_retro_surface_neumorphic">न्युमोर्फिक</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">Deslizar com um dedo</string>
+    <string name="gestures_one_finger_desc">Ações de deslizar com um dedo no espaço inicial vazio</string>
+    <string name="gestures_two_finger_title">Deslizar com dois dedos</string>
+    <string name="gestures_two_finger_desc">Ações de deslizar com dois dedos no espaço inicial vazio</string>
+    <string name="gesture_swipe_up">Deslize para cima</string>
+    <string name="gesture_swipe_down">Deslize para baixo</string>
+    <string name="gesture_two_finger_swipe_up">Deslizar com dois dedos para cima</string>
+    <string name="gesture_two_finger_swipe_down">Deslizar com dois dedos para baixo</string>
+    <string name="gesture_action_none">Nenhum</string>
+    <string name="gesture_action_open_app_info">Abra as informações do aplicativo</string>
+    <string name="gesture_action_lock_screen">Tela de bloqueio</string>
+    <string name="gesture_action_toggle_flashlight">Alternar lanterna</string>
+    <string name="gesture_action_open_app_drawer">Abra a gaveta de aplicativos</string>
+    <string name="gesture_action_open_specific_app">Abra um aplicativo específico</string>
+    <string name="gesture_action_open_specific_page">Abrir página específica</string>
+    <string name="gesture_action_open_specific_folder">Abrir pasta específica</string>
+    <string name="gesture_action_open_specific_shortcut">Abrir atalho específico</string>
+    <string name="gesture_action_expand_notifications">Expandir notificações</string>
+    <string name="gesture_action_open_quick_settings">Abra as configurações rápidas</string>
+    <string name="gesture_action_show_recents">Mostrar recentes</string>
+    <string name="gesture_action_take_screenshot">Tirar captura de tela</string>
+    <string name="gesture_action_show_power_menu">Mostrar menu de energia</string>
+    <string name="gesture_action_open_search">Abrir pesquisa</string>
+    <string name="gesture_action_next_page">Próxima página</string>
+    <string name="gesture_action_prev_page">Página anterior</string>
+    <string name="gesture_action_toggle_labels">Alternar rótulos</string>
+    <string name="gesture_action_open_home_edit">Modo de edição inicial</string>
+    <string name="gesture_action_split_screen">Tela dividida</string>
+    <string name="gesture_requires_accessibility">Requer acessibilidade</string>
+</resources>

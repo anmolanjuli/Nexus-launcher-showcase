@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folder Defaults & Sheet -->
+    <string name="folder_default_title">مجلد</string>
+    <string name="folder_edit_title">تعديل المجلد</string>
+    <string name="folder_edit_name_label">اسم المجلد</string>
+    <string name="folder_edit_section_preview_style">نمط المعاينة</string>
+    <string name="folder_edit_preview_style_desc">كيف تظهر أيقونة المجلد المغلق على الشاشة الرئيسية</string>
+    <string name="folder_edit_section_background">الخلفية</string>
+    <string name="folder_edit_opacity_icon">شفافية الأيقونة</string>
+    <string name="folder_edit_opacity_open_window">شفافية النافذة المفتوحة</string>
+
+    <!-- Folder Context Menu & Dialogs -->
+    <string name="folder_context_resize">تغيير حجم المجلد</string>
+    <string name="folder_context_flip">قلب المجلد</string>
+    <string name="folder_dialog_rename_title">إعادة تسمية المجلد</string>
+    <string name="folder_dialog_remove_title">إزالة المجلد؟</string>
+
+    <!-- App Picker in Folder -->
+    <string name="folder_app_picker_title">اختيار التطبيقات</string>
+    <string name="folder_app_picker_search_hint">البحث في التطبيقات…</string>
+    <string name="folder_app_picker_include_other_folders">تضمين تطبيقات المجلدات الأخرى</string>
+    <string name="folder_app_picker_save_to_folder">حفظ في المجلد</string>
+
+    <!-- Folder Shapes -->
+    <string name="folder_shape_row_title">الشكل</string>
+    <string name="icon_shape_row_title">الشكل</string>
+    <string name="folder_shape_category_basic">كلاسيكي</string>
+    <string name="folder_shape_category_special">متميز</string>
+    <string name="toast_app_already_in_folder">هذا التطبيق موجود بالفعل في المجلد</string>
+</resources>

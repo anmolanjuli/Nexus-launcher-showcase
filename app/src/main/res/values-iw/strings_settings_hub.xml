@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">הגדרות</string>
+    <string name="settings_search_hint">חיפוש בהגדרות…</string>
+    <string name="settings_search_pages">דפים</string>
+    <string name="settings_search_controls">הגדרות</string>
+    <string name="settings_search_empty">אין הגדרות התואמות ל-“%1$s”</string>
+    <string name="settings_jump_title">קפיצה מהירה</string>
+    <string name="settings_jump_results">תוצאות</string>
+    <string name="settings_search_no_results">לא נמצאו הגדרות תואמות</string>
+    <string name="settings_jump_content_description">עבור לדף הגדרות אחר</string>
+
+    <string name="settings_group_layout">פריסה</string>
+    <string name="settings_group_appearance">מראה</string>
+    <string name="settings_group_behaviour">התנהגות</string>
+    <string name="settings_group_system">מערכת</string>
+
+    <string name="settings_hub_home_subtitle">רשת, ריווח, תוויות ומעברים</string>
+    <string name="settings_hub_drawer_subtitle">פריסה, חיפוש וקטגוריות</string>
+    <string name="settings_hub_theme_title">ערכת נושא</string>
+    <string name="settings_hub_theme_subtitle">מצב, צבעים וסגנון ממשק</string>
+    <string name="settings_hub_icons_subtitle">חבילות סמלים, גודל וערכת נושא</string>
+    <string name="settings_hub_typography_title">גופן ושפה</string>
+    <string name="settings_hub_typography_subtitle">גופן, שפה ולוקליזציה</string>
+    <string name="settings_hub_dock_title">מעגן</string>
+    <string name="settings_hub_dock_subtitle">רקע, גודל, סמלים ופריסה</string>
+    <string name="settings_hub_immersive_title">מצב סוחף</string>
+    <string name="settings_hub_immersive_subtitle">שורת סטטוס, כמוסות, שעון, סוללה ואות</string>
+    <string name="settings_hub_gestures_subtitle">פעולות החלקה, הקשה כפולה</string>
+    <string name="settings_page_gestures">מחוות</string>
+    <string name="settings_page_search">חיפוש</string>
+    <string name="settings_hub_search_subtitle">שורת חיפוש, ספקים ואינטרנט</string>
+    <string name="settings_hub_notifications_title">התראות והרשאות</string>
+    <string name="settings_hub_notifications_subtitle">תגים והרשאות מערכת</string>
+    <string name="settings_hub_backup_title">גיבוי ושחזור</string>
+    <string name="settings_hub_backup_subtitle">ייצוא או ייבוא פריסה</string>
+    <string name="settings_applying_language">מחיל שפה…</string>
+
+    <!-- Licenses -->
+    <string name="licenses_page_title">רישיונות</string>
+    <string name="licenses_page_subtitle">קוד פתוח ורישיונות גופנים</string>
+    <string name="licenses_section_fonts">גופנים</string>
+    <string name="licenses_section_libraries">ספריות</string>
+</resources>

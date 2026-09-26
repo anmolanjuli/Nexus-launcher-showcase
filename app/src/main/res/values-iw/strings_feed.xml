@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RSS Feed (Hebrew) -->
+    <string name="nexus_feed_title">הזנת Nexus</string>
+    <string name="nexus_feed_search_hint">חפש חדשות…</string>
+    <string name="nexus_feed_tab_feed">פיד</string>
+    <string name="nexus_feed_tab_explore">גלה</string>
+    <string name="nexus_feed_tab_saved">שמורים</string>
+    <string name="nexus_feed_tab_library">ספרייה</string>
+    <string name="nexus_feed_tab_settings">הגדרות</string>
+    <string name="nexus_feed_section_label">פיד</string>
+    <string name="nexus_feed_curated_for_you">נבחר במיוחד עבורך</string>
+    <string name="nexus_feed_all_curated_added">כל המקורות הנבחרים בקטגוריה זו נוספו</string>
+    <string name="nexus_feed_settings_title">הגדרות פיד</string>
+    <string name="nexus_feed_refresh_interval_label">מרווח רענון אוטומטי</string>
+    <string name="nexus_feed_manage_sources">נהל מקורות</string>
+    <string name="nexus_feed_add_new_source">הוסף מקור חדש</string>
+    <string name="nexus_feed_add_source_hint">הדבק כתובת RSS, אתר או r/sub</string>
+    <string name="nexus_feed_source_added">נוסף \"%1$s\"</string>
+    <string name="nexus_feed_source_add_failed">טעינת המקור נכשלה</string>
+    <string name="nexus_feed_active_sources">מקורות פעילים</string>
+    <string name="nexus_feed_no_sources_yet">טרם נוספו מקורות</string>
+    <string name="nexus_feed_remove_from_saved">הסר משמורים</string>
+    <string name="nexus_feed_save_story">שמור כתבה</string>
+    <string name="nexus_feed_share_story">שתף כתבה</string>
+    <string name="nexus_feed_hide_story">הסתר כתבה זו</string>
+    <string name="nexus_feed_share_via">שתף באמצעות</string>
+    <string name="nexus_feed_options_title">אפשרויות פיד</string>
+    <string name="nexus_feed_headline_only">כותרות בלבד</string>
+    <string name="nexus_feed_headline_only_desc">הצג כותרות בלבד והסתר תמונות ותקצירים</string>
+    <string name="nexus_feed_manage_sources_desc">מקורות, רענון וקטגוריות</string>
+    <string name="nexus_feed_eink_title">מצב דיו אלקטרוני</string>
+    <string name="nexus_feed_eink_desc">קריאה בגווני אפור כמו בנייר פיזי</string>
+    <string name="nexus_feed_eink_dark_title">נייר כהה</string>
+    <string name="nexus_feed_eink_dark_desc">רקע כהה עם גופן רך וקריא</string>
+    <string name="nexus_feed_refreshing_text">מרענן…</string>
+    <string name="nexus_feed_eink_reading_section">חוויית קריאה</string>
+
+    <!-- Categories & Headers -->
+    <string name="nexus_feed_category_all">הכל</string>
+    <string name="nexus_feed_category_world">חדשות עולם</string>
+    <string name="nexus_feed_category_tech">טכנולוגיה</string>
+    <string name="nexus_feed_category_finance">כלכלה</string>
+    <string name="nexus_feed_category_sports">ספורט</string>
+    <string name="nexus_feed_category_entertainment">בידור</string>
+    <string name="nexus_feed_category_science">מדע</string>
+    <string name="nexus_feed_add_custom_source">הוסף מקור מותאם</string>
+    <string name="nexus_feed_your_sources">המקורות שלך</string>
+    <string name="nexus_feed_discover_sources">גלה מקורות</string>
+    <string name="nexus_feed_refresh_off">כבוי</string>
+</resources>

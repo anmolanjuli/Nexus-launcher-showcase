@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">Un coup de doigt</string>
+    <string name="gestures_one_finger_desc">Actions de balayage avec un seul doigt sur un espace vide de la maison</string>
+    <string name="gestures_two_finger_title">Glissement à deux doigts</string>
+    <string name="gestures_two_finger_desc">Actions de balayage à deux doigts sur un espace vide de la maison</string>
+    <string name="gesture_swipe_up">Glissez vers le haut</string>
+    <string name="gesture_swipe_down">Faites glisser vers le bas</string>
+    <string name="gesture_two_finger_swipe_up">Glisser vers le haut à deux doigts</string>
+    <string name="gesture_two_finger_swipe_down">Glisser vers le bas avec deux doigts</string>
+    <string name="gesture_action_none">Aucun</string>
+    <string name="gesture_action_open_app_info">Ouvrir les informations sur l\'application</string>
+    <string name="gesture_action_lock_screen">Écran de verrouillage</string>
+    <string name="gesture_action_toggle_flashlight">Basculer la lampe de poche</string>
+    <string name="gesture_action_open_app_drawer">Ouvrir le tiroir d\'applications</string>
+    <string name="gesture_action_open_specific_app">Ouvrir une application spécifique</string>
+    <string name="gesture_action_open_specific_page">Ouvrir une page spécifique</string>
+    <string name="gesture_action_open_specific_folder">Ouvrir un dossier spécifique</string>
+    <string name="gesture_action_open_specific_shortcut">Ouvrir un raccourci spécifique</string>
+    <string name="gesture_action_expand_notifications">Développer les notifications</string>
+    <string name="gesture_action_open_quick_settings">Ouvrir les paramètres rapides</string>
+    <string name="gesture_action_show_recents">Afficher les récents</string>
+    <string name="gesture_action_take_screenshot">Prendre une capture d\'écran</string>
+    <string name="gesture_action_show_power_menu">Afficher le menu d\'alimentation</string>
+    <string name="gesture_action_open_search">Ouvrir la recherche</string>
+    <string name="gesture_action_next_page">Page suivante</string>
+    <string name="gesture_action_prev_page">Page précédente</string>
+    <string name="gesture_action_toggle_labels">Basculer les étiquettes</string>
+    <string name="gesture_action_open_home_edit">Mode d\'édition d\'accueil</string>
+    <string name="gesture_action_split_screen">Écran partagé</string>
+    <string name="gesture_requires_accessibility">Nécessite une accessibilité</string>
+</resources>

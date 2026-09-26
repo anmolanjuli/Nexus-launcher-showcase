@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folder Defaults & Sheet -->
+    <string name="folder_default_title">फोल्डर</string>
+    <string name="folder_edit_title">फोल्डर सम्पादन</string>
+    <string name="folder_edit_name_label">फोल्डरको नाम</string>
+    <string name="folder_edit_section_preview_style">पूर्वावलोकन शैली</string>
+    <string name="folder_edit_preview_style_desc">गृह स्क्रिनमा बन्द आइकन कस्तो देखिन्छ</string>
+    <string name="folder_edit_section_background">पृष्ठभूमि</string>
+    <string name="folder_edit_opacity_icon">आइकन अस्पष्टता</string>
+    <string name="folder_edit_opacity_open_window">खुला विन्डो अस्पष्टता</string>
+
+    <!-- Folder Context Menu & Dialogs -->
+    <string name="folder_context_resize">फोल्डरको आकार</string>
+    <string name="folder_context_flip">फोल्डर उल्टाउनुहोस्</string>
+    <string name="folder_dialog_rename_title">फोल्डरको नाम बदल्नुहोस्</string>
+    <string name="folder_dialog_remove_title">फोल्डर हटाउने?</string>
+
+    <!-- App Picker in Folder -->
+    <string name="folder_app_picker_title">एपहरू छान्नुहोस्</string>
+    <string name="folder_app_picker_search_hint">एपहरू खोज्नुहोस्…</string>
+    <string name="folder_app_picker_include_other_folders">अन्य फोल्डरका एपहरू समावेश गर्नुहोस्</string>
+    <string name="folder_app_picker_save_to_folder">फोल्डरमा बचत गर्नुहोस्</string>
+
+    <!-- Folder Shapes -->
+    <string name="folder_shape_row_title">आकार</string>
+    <string name="icon_shape_row_title">आकार</string>
+    <string name="folder_shape_category_basic">क्लासिक</string>
+    <string name="folder_shape_category_special">स्टाइलिश</string>
+    <string name="toast_app_already_in_folder">यो एप पहिले नै फोल्डरमा छ</string>
+</resources>

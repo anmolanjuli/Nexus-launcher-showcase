@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Primary Gateway Shape: Pure #FFFFFF silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,31h11v8l6.5,7.5l-6.5,6.5V77H35V31z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,77H62v-8l-6.5,-7.5l6.5,-6.5V31h11V77z" />
+
+    <!-- Nexus Node: Solid #FFFFFF silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51.5,47.95l3.07,1.77v3.56l-3.07,1.77l-3.07,-1.77v-3.56z" />
+</vector>

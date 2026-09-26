@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gesture Settings (Nepali) -->
+    <string name="gestures_one_finger_title">एक औंलाको स्वाइप</string>
+    <string name="gestures_one_finger_desc">गृह स्क्रिनमा एक औंलाले स्वाइप गर्दा हुने कार्य</string>
+    <string name="gestures_two_finger_title">दुई औंलाको स्वाइप</string>
+    <string name="gestures_two_finger_desc">गृह स्क्रिनमा दुई औंलाले स्वाइप गर्दा हुने कार्य</string>
+    <string name="gesture_swipe_up">माथि स्वाइप</string>
+    <string name="gesture_swipe_down">तल स्वाइप</string>
+    <string name="gesture_two_finger_swipe_up">दुई औंलाले माथि स्वाइप</string>
+    <string name="gesture_two_finger_swipe_down">दुई औंलाले तल स्वाइप</string>
+
+    <!-- Gesture Actions -->
+    <string name="gesture_action_none">कुनै पनि होइन</string>
+    <string name="gesture_action_open_app_info">एप जानकारी खोल्नुहोस्</string>
+    <string name="gesture_action_lock_screen">स्क्रिन लक गर्नुहोस्</string>
+    <string name="gesture_action_toggle_flashlight">टर्च खोल्नुहोस्/बन्द गर्नुहोस्</string>
+    <string name="gesture_action_open_app_drawer">एप ड्रअर खोल्नुहोस्</string>
+    <string name="gesture_action_open_specific_app">विशेष एप खोल्नुहोस्</string>
+    <string name="gesture_action_open_specific_page">विशेष पृष्ठ खोल्नुहोस्</string>
+    <string name="gesture_action_open_specific_folder">विशेष फोल्डर खोल्नुहोस्</string>
+    <string name="gesture_action_open_specific_shortcut">विशेष सर्टकट खोल्नुहोस्</string>
+    <string name="gesture_action_expand_notifications">सूचनाहरू विस्तार गर्नुहोस्</string>
+    <string name="gesture_action_open_quick_settings">द्रुत सेटिङ्स खोल्नुहोस्</string>
+    <string name="gesture_action_show_recents">हालसालैका एपहरू देखाउनुहोस्</string>
+    <string name="gesture_action_take_screenshot">स्क्रिनसट लिनुहोस्</string>
+    <string name="gesture_action_show_power_menu">पावर मेनु देखाउनुहोस्</string>
+    <string name="gesture_action_open_search">खोज खोल्नुहोस्</string>
+    <string name="gesture_action_next_page">अर्को पृष्ठ</string>
+    <string name="gesture_action_prev_page">अघिल्लो पृष्ठ</string>
+    <string name="gesture_action_toggle_labels">नामहरू देखाउनुहोस्/लुकाउनुहोस्</string>
+    <string name="gesture_action_open_home_edit">गृह सम्पादन मोड</string>
+    <string name="gesture_action_split_screen">स्प्लिट स्क्रिन</string>
+    <string name="gesture_requires_accessibility">पहुँचयोग्यता आवश्यक</string>
+</resources>

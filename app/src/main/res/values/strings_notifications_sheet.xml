@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Notifications</string>
+    <string name="notification_sheet_clear">Clear</string>
+    <string name="notification_sheet_dismiss">Dismiss</string>
+    <string name="notification_sheet_empty">No notifications</string>
+    <string name="notification_history_title">Keep notifications</string>
+    <string name="notification_history_subtitle">Read them in the launcher\'s own sheet, even after they are cleared. Their text is saved on this phone.</string>
+    <string name="notification_retention_title">Keep for</string>
+    <string name="notification_retention_1h">1 hour</string>
+    <string name="notification_retention_6h">6 hours</string>
+    <string name="notification_retention_1d">1 day</string>
+    <string name="notification_retention_3d">3 days</string>
+    <string name="notification_retention_7d">7 days</string>
+</resources>

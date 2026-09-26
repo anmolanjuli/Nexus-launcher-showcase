@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Enable Notification Badges</string>
+    <string name="notif_perm_body">Allow Nexus Launcher to read notifications to show badge counts on your app icons.\n\nYou can change this anytime in Settings → Apps → Special app access → Notification access.</string>
+    <string name="notif_perm_not_now">Not Now</string>
+    <string name="folder_default_name">Folder</string>
+    <string name="folder_numbered_name">Folder %1$d</string>
+    <string name="folder_remove_body_count">This will remove the folder and all %1$d apps inside.</string>
+    <string name="folder_discard_title">Discard changes?</string>
+    <string name="folder_discard_body">Your changes won\'t be saved.</string>
+    <string name="folder_keep_editing">Keep Editing</string>
+    <string name="folder_discard">Discard</string>
+    <string name="folder_background_style">Background Style</string>
+    <string name="gesture_group_navigation">Navigation</string>
+    <string name="gesture_group_system">System</string>
+    <string name="gesture_group_launcher">Launcher</string>
+    <string name="gesture_group_shortcuts">Shortcuts</string>
+    <string name="icon_edit_unsaved_title">Unsaved Changes</string>
+    <string name="icon_edit_unsaved_message">You have unsaved changes. Are you sure you want to exit?</string>
+    <string name="icon_edit_continue">Continue Editing</string>
+    <string name="icon_edit_reset_title">Reset to Default</string>
+    <string name="icon_edit_reset_message">Are you sure you want to reset all custom edits for this app back to their default values?</string>
+    <string name="icon_edit_title">Edit App</string>
+    <string name="menu_move">Move</string>
+    <string name="menu_elevation">Elevation</string>
+    <string name="menu_replace">Replace</string>
+    <string name="menu_padding">Padding</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mosaic_add_widget">Add Widget</string>
+    <string name="mosaic_add_widget_full">Add Widget (full)</string>
+    <string name="mosaic_remove_widget_title">Remove widget</string>
+    <string name="mosaic_remove_restore_desc">Restore this widget into the Home screen, or delete it permanently.</string>
+    <string name="mosaic_remove_no_space_desc">No free Home space is available to restore this widget. You can delete it permanently.</string>
+    <string name="mosaic_remove_restore_action">Restore into the Home screen</string>
+    <string name="progress_preset_label">Preset</string>
+    <string name="progress_track_name_hint">Track Name</string>
+    <string name="progress_badge_mode">Badge Mode</string>
+    <string name="progress_track_default">Track</string>
+</resources>

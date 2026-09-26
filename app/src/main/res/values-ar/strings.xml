@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Actions -->
+    <string name="action_save">حفظ</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_reset">إعادة ضبط</string>
+    <string name="action_apply">تطبيق</string>
+    <string name="action_remove">إزالة</string>
+    <string name="action_edit">تعديل</string>
+    <string name="action_select">تحديد</string>
+    <string name="action_close">إغلاق</string>
+    <string name="action_search">بحث</string>
+    <string name="action_new">جديد</string>
+    <string name="action_recent">الأحدث</string>
+    <string name="action_sort">ترتيب</string>
+    <string name="action_sort_apps">ترتيب التطبيقات</string>
+    <string name="action_exit">خروج</string>
+    <string name="action_add_apps">إضافة تطبيقات</string>
+    <string name="action_add_to_home">إضافة إلى الرئيسية</string>
+    <string name="action_ok">حسناً</string>
+    <string name="action_back">رجوع</string>
+    <string name="action_proceed">متابعة</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_create_folder">إنشاء مجلد</string>
+    <string name="action_uninstall">إلغاء التثبيت</string>
+    <string name="action_pin">تثبيت</string>
+    <string name="action_open_settings">فتح الإعدادات</string>
+    <string name="action_resize">تغيير الحجم</string>
+    <string name="action_set_category">تعيين الفئة</string>
+
+    <!-- Context Menus -->
+    <string name="menu_dock_settings">إعدادات شريط الإرساء</string>
+    <string name="menu_hide_app">إخفاء التطبيق</string>
+    <string name="menu_unhide_app">إظهار التطبيق</string>
+    <string name="menu_widgets">الأدوات</string>
+    <string name="menu_change_category">تغيير الفئة</string>
+
+    <!-- Radial Menu / Home Edit Mode -->
+    <string name="home_edit_apps">التطبيقات</string>
+    <string name="home_edit_widgets">الأدوات</string>
+    <string name="home_edit_wallpaper">الخلفية</string>
+    <string name="home_edit_pages">الصفحات</string>
+    <string name="home_edit_folder">مجلد</string>
+    <string name="home_edit_shortcut">اختصار</string>
+    <string name="home_edit_settings">الإعدادات</string>
+    <string name="home_edit_lock_layout">قفل التخطيط</string>
+    <string name="home_edit_locked">🔒 مقفل</string>
+
+    <!-- Selection -->
+    <plurals name="selection_count">
+        <item quantity="zero">تم تحديد 0 عنصر</item>
+        <item quantity="one">تم تحديد عنصر واحد</item>
+        <item quantity="two">تم تحديد عنصرين</item>
+        <item quantity="few">تم تحديد %1$d عناصر</item>
+        <item quantity="many">تم تحديد %1$d عنصراً</item>
+        <item quantity="other">تم تحديد %1$d عنصر</item>
+    </plurals>
+
+    <!-- Common Dialogs & Toasts -->
+    <string name="dialog_discard_title">تجاهل التغييرات؟</string>
+    <string name="dialog_discard_message">ستفقد أي تغييرات غير مطبقة.</string>
+    <string name="toast_cannot_launch_shortcut">تعذر تشغيل الاختصار</string>
+    <string name="app_not_found">التطبيق غير موجود</string>
+    <string name="app_launch_failed">تعذر تشغيل التطبيق</string>
+    <string name="toast_drop_not_allowed">لا يمكن الإفلات هنا</string>
+</resources>

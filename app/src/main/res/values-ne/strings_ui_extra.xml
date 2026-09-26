@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">पृष्ठहरू व्यवस्थापन</string>
+    <string name="manage_pages_subtitle_one">१ पृष्ठ • गृह पृष्ठ %1$d हो</string>
+    <string name="hidden_apps_empty">कुनै लुकाइएको एप छैन</string>
+    <string name="hidden_apps_unhide">देखाउनुहोस्</string>
+    <string name="folder_cover_icon_title">कभर आइकन छान्नुहोस्</string>
+    <string name="folder_menu_remove_from_folder">फोल्डरबाट हटाउनुहोस्</string>
+    <string name="folder_sort_custom">अनुकूल</string>
+    <string name="folder_picker_add_remove">%1$d थप्नुहोस्, %2$d हटाउनुहोस्</string>
+    <string name="folder_picker_no_changes">कुनै परिवर्तन छैन</string>
+    <string name="toast_app_already_exists">एप पहिले नै छ</string>
+    <string name="picker_add_apps_to_folder">फोल्डरमा एप थप्नुहोस्</string>
+    <string name="picker_add_apps_to_home">गृह स्क्रिनमा एप थप्नुहोस्</string>
+    <string name="picker_show_other_folder_apps">अन्य फोल्डरका एप देखाउनुहोस्</string>
+    <string name="picker_no_apps_found">कुनै एप भेटिएन</string>
+    <string name="picker_no_apps_match">“%1$s” सँग मिल्ने कुनै एप छैन</string>
+    <string name="picker_save_changes_counts">परिवर्तन सेभ गर्नुहोस् (+%1$d, −%2$d)</string>
+    <string name="picker_remove_all_apps">सबै एप हटाउनुहोस्</string>
+    <string name="action_done">सम्पन्न</string>
+    <string name="picker_select_shortcut">सर्टकट छान्नुहोस्</string>
+    <string name="picker_search_shortcuts">सर्टकट खोज्नुहोस्…</string>
+    <string name="picker_no_shortcuts_title">कुनै सर्टकट उपलब्ध छैन</string>
+    <string name="picker_no_shortcuts_desc">सर्टकट प्रयोग गर्न पूर्वनिर्धारित लन्चर बनाउनुपर्छ।</string>
+    <string name="picker_no_results">कुनै नतिजा भेटिएन</string>
+    <string name="picker_no_shortcuts_match">“%1$s” सँग मिल्ने कुनै सर्टकट छैन</string>
+    <string name="gesture_pick_folder_title">फोल्डर छान्नुहोस्</string>
+    <string name="gesture_no_folders">कुनै फोल्डर उपलब्ध छैन</string>
+    <string name="gesture_pick_page_title">पृष्ठ छान्नुहोस्</string>
+    <string name="wallpaper_set_title">वालपेपर सेट गर्नुहोस्</string>
+    <string name="wallpaper_select_tint">टिन्ट रङ छान्नुहोस्</string>
+    <string name="wallpaper_more">थप</string>
+    <string name="wallpaper_no_other_apps">अन्य वालपेपर एप भेटिएन</string>
+    <string name="wallpaper_type_system">प्रणाली</string>
+    <string name="wallpaper_type_gradient">ग्रेडियन्ट</string>
+    <string name="wallpaper_type_others">अन्य</string>
+    <string name="wallpaper_dim">मधुरो</string>
+    <string name="wallpaper_tint_strength">तीव्रता</string>
+    <string name="frost_capture_channel">वालपेपर क्याप्चर</string>
+    <string name="frost_capture_notification">फ्रस्टका लागि वालपेपर क्याप्चर गर्दै</string>
+    <string name="frost_tab_explainer">तपाईंको हालको वालपेपर Nexus बाहिरबाट व्यवस्थापन हुन्छ, त्यसैले विजेट र फोल्डरपछाडि ब्लर गर्न फ्रस्टेड ग्लासलाई यसको एक पटकको क्याप्चर चाहिन्छ। Android ले छोटो स्क्रिन क्याप्चर पुष्टि गर्न सोध्नेछ — यो एपले पहिले आफ्नै आइकन/विजेट लुकाउँछ, एक फ्रेम लिन्छ, अनि तुरुन्तै रोकिन्छ, त्यसैले वालपेपर मात्र सेभ हुन्छ।</string>
+    <string name="frost_tab_theme_color_warning">थिम सेटिङमा पृष्ठभूमि तह “थिम रङ” मा सेट छ, जसले फ्रस्टसहित सबैतिर वालपेपरलाई सादा रङले बदल्छ। यसलाई “वालपेपर” मा नबदलेसम्म फ्रस्टले तपाईंको क्याप्चर गरिएको वालपेपर देखाउँदैन।</string>
+    <string name="frost_tab_switch_layer">पृष्ठभूमि तह वालपेपरमा बदल्नुहोस्</string>
+    <string name="frost_tab_disabled_warning">Nexus सेटिङ्स &gt; स्वरूपमा फ्रस्टेड ग्लास बन्द छ — फेरि सक्षम नगरेसम्म यहाँसहित कतै पनि फ्रस्ट देखिँदैन।</string>
+    <string name="frost_capture_status_set">फ्रस्ट क्याप्चर: सेट भएको</string>
+    <string name="frost_capture_status_unset">फ्रस्ट क्याप्चर: सेट भएको छैन — क्याप्चर नगरेसम्म फ्रस्टेड सतह सादा देखिनेछन्</string>
+    <string name="frost_capturing">क्याप्चर गर्दै…</string>
+    <string name="frost_capture_failed">क्याप्चर असफल — फेरि प्रयास गर्नुहोस्</string>
+    <string name="frost_capture_clear">क्याप्चर गरिएको वालपेपर हटाउनुहोस्</string>
+    <string name="widget_picker_search">विजेट खोज्नुहोस्…</string>
+    <string name="widget_picker_system_only">प्रणाली विजेट मात्र — यो मोज़ेकका लागि प्रदायक छान्नुहोस्</string>
+    <string name="widget_picker_empty">कुनै विजेट भेटिएन</string>
+    <string name="mosaic_empty_swipe_or_add">स्वाइप गर्नुहोस् वा विजेट थप्नुहोस्</string>
+    <string name="mosaic_empty_long_press">विजेट थप्न लामो थिच्नुहोस्</string>
+    <string name="mosaic_focus_title">विजेट फोकस</string>
+    <string name="mosaic_open_app">एप खोल्नुहोस्</string>
+    <string name="mosaic_manager_hint">क्रम मिलाउन ह्यान्डल तान्नुहोस्। तारा चिन्हले मुख्य विजेट जनाउँछ।</string>
+    <string name="mosaic_empty_slot">खाली स्थान</string>
+    <string name="mosaic_widget_number">विजेट #%1$d</string>
+    <string name="calendar_event_no_title">(शीर्षक छैन)</string>
+    <string name="widget_preview_note_title">विचार र सोचाइ</string>
+    <string name="widget_preview_note_body">आइजनहावर म्याट्रिक्स हेर्ने, विजेट थिम अद्यावधिक गर्ने, र नयाँ लेआउट ग्रिड खोज्ने।</string>
+    <string name="reader_empty_file">खाली फाइल।</string>
+    <string name="reader_chapter_fallback">अध्याय %1$d</string>
+    <string name="feed_empty_search">“%1$s” सँग मिल्ने कुनै लेख भेटिएन</string>
+    <string name="feed_empty_saved">अहिलेसम्म कुनै लेख सेभ गरिएको छैन। सेभ गर्न कुनै पनि कार्ड लामो थिच्नुहोस्।</string>
+    <string name="feed_empty_category">यो वर्गमा कुनै स्रोत छैन — सेटिङमा थप्नुहोस्।</string>
+    <string name="feed_empty_recent">पछिल्लो २४ घण्टामा कुनै समाचार छैन। रिफ्रेस गर्न तल तान्नुहोस् वा अन्वेषण हेर्नुहोस्।</string>
+    <string name="feed_empty_default">अहिलेसम्म कुनै लेख छैन। स्रोत जाँच्नुहोस् वा रिफ्रेस गर्न तल तान्नुहोस्।</string>
+    <string name="feed_load_failed">फिड लोड गर्न सकिएन</string>
+    <string name="feed_fetching">ल्याउँदै…</string>
+    <string name="feed_time_just_now">भर्खरै</string>
+    <string name="feed_time_minutes">%1$d मिनेट अघि</string>
+    <string name="feed_time_hours">%1$d घण्टा अघि</string>
+    <string name="feed_time_days">%1$d दिन अघि</string>
+    <string name="feed_time_weeks">%1$d हप्ता अघि</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">फोल्डरमा %d एप थप्नुहोस्</item>
+        <item quantity="other">फोल्डरमा %d एप थप्नुहोस्</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">फोल्डरबाट %d एप हटाउनुहोस्</item>
+        <item quantity="other">फोल्डरबाट %d एप हटाउनुहोस्</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d एप</item>
+        <item quantity="other">%d एप</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">%d एप थप्नुहोस्</item>
+        <item quantity="other">%d एप थप्नुहोस्</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">%d एप हटाउनुहोस्</item>
+        <item quantity="other">%d एप हटाउनुहोस्</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">गृह स्क्रिनमा %d एप थप्नुहोस्</item>
+        <item quantity="other">गृह स्क्रिनमा %d एप थप्नुहोस्</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d लेख</item>
+        <item quantity="other">%d लेख</item>
+    </plurals>
+    <string name="category_new">नयाँ वर्ग</string>
+    <string name="category_name_hint">वर्गको नाम</string>
+    <string name="category_edit">वर्गहरू सम्पादन</string>
+    <string name="category_delete_title">“%1$s” मेटाउने?</string>
+    <string name="category_delete_body">यसका एपहरू ड्रअरमै रहन्छन् र सबैमा देखिइरहन्छन्।</string>
+    <string name="category_restore_defaults">पूर्वनिर्धारित वर्गहरू फर्काउनुहोस्</string>
+    <string name="category_icon_title">आइकन छान्नुहोस्</string>
+    <string name="category_icon_default">पूर्वनिर्धारित प्रयोग गर्नुहोस्</string>
+    <string name="category_rename_title">वर्गको नाम बदल्नुहोस्</string>
+    <string name="category_edit_hint">बदल्न आइकन वा नाममा थिच्नुहोस्</string>
+</resources>

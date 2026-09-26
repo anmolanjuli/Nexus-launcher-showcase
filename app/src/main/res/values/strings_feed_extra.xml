@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Feed Categories -->
+    <string name="nexus_feed_category_all">All</string>
+    <string name="nexus_feed_category_world">World</string>
+    <string name="nexus_feed_category_tech">Tech</string>
+    <string name="nexus_feed_category_finance">Finance</string>
+    <string name="nexus_feed_category_sports">Sports</string>
+    <string name="nexus_feed_category_entertainment">Entertainment</string>
+    <string name="nexus_feed_category_science">Science</string>
+
+    <!-- Feed Settings View Headers -->
+    <string name="nexus_feed_add_custom_source">Add Custom Source</string>
+    <string name="nexus_feed_your_sources">Your Sources</string>
+    <string name="nexus_feed_discover_sources">Discover Sources</string>
+    <string name="nexus_feed_refresh_off">Off</string>
+</resources>

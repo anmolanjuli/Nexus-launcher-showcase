@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_settings_title">Pengaturan Dock</string>
+    <string name="dock_settings_section_layout">TATA LETAK &amp; UKURAN</string>
+    <string name="dock_settings_section_background">LATAR BELAKANG</string>
+    <string name="dock_settings_section_labels">LABEL &amp; PENCARIAN</string>
+    <string name="dock_settings_max_icons">Ikon Maks</string>
+    <string name="dock_settings_icon_size">Ukuran Ikon</string>
+    <string name="dock_settings_height">Tinggi</string>
+    <string name="dock_settings_corner_radius">Radius Sudut</string>
+    <string name="dock_settings_show_labels">Tampilkan Label</string>
+    <string name="dock_settings_font_size">Ukuran Huruf</string>
+    <string name="dock_settings_show_search">Tampilkan Pencarian</string>
+    <string name="dock_settings_opacity">Opasitas</string>
+    <string name="dock_settings_zigzag_layout">Tata Letak Zigzag</string>
+    <string name="dock_settings_background">Latar Belakang</string>
+    <string name="dock_settings_color">Warna</string>
+</resources>

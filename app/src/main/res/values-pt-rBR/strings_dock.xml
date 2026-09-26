@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_settings_title">Configurações do Dock</string>
+    <string name="dock_settings_section_layout">LAYOUT E DIMENSIONAMENTO</string>
+    <string name="dock_settings_section_background">FUNDO</string>
+    <string name="dock_settings_section_labels">ETIQUETAS E PESQUISA</string>
+    <string name="dock_settings_max_icons">Máximo de ícones</string>
+    <string name="dock_settings_icon_size">Tamanho do ícone</string>
+    <string name="dock_settings_height">Altura</string>
+    <string name="dock_settings_corner_radius">Raio de canto</string>
+    <string name="dock_settings_show_labels">Mostrar rótulos</string>
+    <string name="dock_settings_font_size">Tamanho da fonte</string>
+    <string name="dock_settings_show_search">Mostrar pesquisa</string>
+    <string name="dock_settings_opacity">Opacidade</string>
+    <string name="dock_settings_zigzag_layout">Layout em ziguezague</string>
+    <string name="dock_settings_background">Fundo</string>
+    <string name="dock_settings_color">Cor</string>
+</resources>

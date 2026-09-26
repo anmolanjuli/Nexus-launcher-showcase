@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folder Defaults & Sheet -->
+    <string name="folder_default_title">תיקייה</string>
+    <string name="folder_edit_title">ערוך תיקייה</string>
+    <string name="folder_edit_name_label">שם התיקייה</string>
+    <string name="folder_edit_section_preview_style">סגנון תצוגה מקדימה</string>
+    <string name="folder_edit_preview_style_desc">כיצד מוצג סמל התיקייה הסגורה במסך הבית</string>
+    <string name="folder_edit_section_background">רקע</string>
+    <string name="folder_edit_opacity_icon">שקיפות סמל</string>
+    <string name="folder_edit_opacity_open_window">שקיפות חלון פתוח</string>
+
+    <!-- Folder Context Menu & Dialogs -->
+    <string name="folder_context_resize">שנה גודל תיקייה</string>
+    <string name="folder_context_flip">הפוך תיקייה</string>
+    <string name="folder_dialog_rename_title">שנה שם תיקייה</string>
+    <string name="folder_dialog_remove_title">להסיר תיקייה?</string>
+
+    <!-- App Picker in Folder -->
+    <string name="folder_app_picker_title">בחר אפליקציות</string>
+    <string name="folder_app_picker_search_hint">חיפוש אפליקציות…</string>
+    <string name="folder_app_picker_include_other_folders">כלול אפליקציות מתיקיות אחרות</string>
+    <string name="folder_app_picker_save_to_folder">שמור בתיקייה</string>
+
+    <!-- Folder Shapes -->
+    <string name="folder_shape_row_title">צורה</string>
+    <string name="icon_shape_row_title">צורה</string>
+    <string name="folder_shape_category_basic">קלאסי</string>
+    <string name="folder_shape_category_special">מיוחד</string>
+    <string name="toast_app_already_in_folder">אפליקציה זו כבר קיימת בתיקייה</string>
+</resources>

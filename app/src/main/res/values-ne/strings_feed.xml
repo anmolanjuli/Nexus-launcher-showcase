@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RSS Feed -->
+    <string name="nexus_feed_title">नेक्सस फिड</string>
+    <string name="nexus_feed_search_hint">समाचार खोज्नुहोस्…</string>
+    <string name="nexus_feed_tab_feed">फिड</string>
+    <string name="nexus_feed_tab_explore">अन्वेषण</string>
+    <string name="nexus_feed_tab_saved">सुरक्षित</string>
+    <string name="nexus_feed_tab_library">पुस्तकालय</string>
+    <string name="nexus_feed_tab_settings">सेटिङ्स</string>
+    <string name="nexus_feed_section_label">फिड</string>
+    <string name="nexus_feed_curated_for_you">तपाईंको लागि छानिएका</string>
+    <string name="nexus_feed_all_curated_added">यस विधाका सबै स्रोतहरू थपिएका छन्</string>
+    <string name="nexus_feed_settings_title">फिड सेटिङ्स</string>
+    <string name="nexus_feed_refresh_interval_label">स्वतः ताजा गर्ने अन्तराल</string>
+    <string name="nexus_feed_manage_sources">स्रोतहरू व्यवस्थापन गर्नुहोस्</string>
+    <string name="nexus_feed_add_new_source">नयाँ स्रोत थप्नुहोस्</string>
+    <string name="nexus_feed_add_source_hint">RSS, वेबसाइट वा r/sub पेस्ट गर्नुहोस्</string>
+    <string name="nexus_feed_source_added">\"%1$s\" थपियो</string>
+    <string name="nexus_feed_source_add_failed">फिड लोड गर्न असफल भयो</string>
+    <string name="nexus_feed_active_sources">सक्रिय स्रोतहरू</string>
+    <string name="nexus_feed_no_sources_yet">अहिलेसम्म कुनै स्रोत थपिएको छैन</string>
+    <string name="nexus_feed_remove_from_saved">सुरक्षितबाट हटाउनुहोस्</string>
+    <string name="nexus_feed_save_story">सुरक्षित गर्नुहोस्</string>
+    <string name="nexus_feed_share_story">साझा गर्नुहोस्</string>
+    <string name="nexus_feed_hide_story">यो समाचार लुकाउनुहोस्</string>
+    <string name="nexus_feed_share_via">मार्फत साझा गर्नुहोस्</string>
+    <string name="nexus_feed_options_title">फिड विकल्पहरू</string>
+    <string name="nexus_feed_headline_only">हेडलाइन मात्र</string>
+    <string name="nexus_feed_headline_only_desc">तस्बिरहरू लुकाएर शीर्षक मात्र देखाउनुहोस्</string>
+    <string name="nexus_feed_manage_sources_desc">स्रोतहरू, ताजा गर्ने समय र विधाहरू</string>
+    <string name="nexus_feed_eink_title">ई-इंक पेपर मोड</string>
+    <string name="nexus_feed_eink_desc">कागज जस्तै शान्त पठन अनुभव</string>
+    <string name="nexus_feed_eink_dark_title">गाढा पेपर</string>
+    <string name="nexus_feed_eink_dark_desc">गाढा पृष्ठभूमिसहित नरम अक्षरहरू</string>
+    <string name="nexus_feed_refreshing_text">ताजा गरिँदै…</string>
+    <string name="nexus_feed_eink_reading_section">पठन अनुभव</string>
+
+    <!-- Categories & Headers -->
+    <string name="nexus_feed_category_all">सबै</string>
+    <string name="nexus_feed_category_world">विश्व</string>
+    <string name="nexus_feed_category_tech">प्रविधि</string>
+    <string name="nexus_feed_category_finance">वित्त</string>
+    <string name="nexus_feed_category_sports">खेलकुद</string>
+    <string name="nexus_feed_category_entertainment">मनोरञ्जन</string>
+    <string name="nexus_feed_category_science">विज्ञान</string>
+    <string name="nexus_feed_add_custom_source">कस्टम स्रोत थप्नुहोस्</string>
+    <string name="nexus_feed_your_sources">तपाईंका स्रोतहरू</string>
+    <string name="nexus_feed_discover_sources">स्रोतहरू खोज्नुहोस्</string>
+    <string name="nexus_feed_refresh_off">बन्द</string>
+</resources>

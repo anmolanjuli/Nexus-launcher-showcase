@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Drawer layout: list, one column. Generated to match the Material Symbols icons used elsewhere (960 viewport, filled). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="960"
+    android:viewportHeight="960">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M160,160h80a40,40 0 0 1 40,40v80a40,40 0 0 1 -40,40h-80a40,40 0 0 1 -40,-40v-80a40,40 0 0 1 40,-40zM400,200h400a40,40 0 0 1 40,40v0a40,40 0 0 1 -40,40h-400a40,40 0 0 1 -40,-40v-0a40,40 0 0 1 40,-40zM160,400h80a40,40 0 0 1 40,40v80a40,40 0 0 1 -40,40h-80a40,40 0 0 1 -40,-40v-80a40,40 0 0 1 40,-40zM400,440h240a40,40 0 0 1 40,40v0a40,40 0 0 1 -40,40h-240a40,40 0 0 1 -40,-40v-0a40,40 0 0 1 40,-40zM160,640h80a40,40 0 0 1 40,40v80a40,40 0 0 1 -40,40h-80a40,40 0 0 1 -40,-40v-80a40,40 0 0 1 40,-40zM400,680h320a40,40 0 0 1 40,40v0a40,40 0 0 1 -40,40h-320a40,40 0 0 1 -40,-40v-0a40,40 0 0 1 40,-40z" />
+</vector>

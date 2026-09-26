@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">Recentes</string>
+    <string name="drawer_category_quick_actions">Ações rápidas</string>
+    <string name="drawer_category_search_hint">Pesquisar apps</string>
+    <string name="drawer_category_see_all">Ver tudo</string>
+    <string name="drawer_category_see_less">Ver menos</string>
+    <string name="drawer_category_color_title">Cor da categoria</string>
+    <string name="drawer_category_color_change">Alterar a cor da categoria</string>
+    <string name="drawer_category_layout_label">Layout das categorias</string>
+    <string name="drawer_category_layout_subtitle">Como as categorias ficam organizadas na gaveta de apps</string>
+    <string name="drawer_category_layout_spatial">Cartões</string>
+    <string name="drawer_category_layout_strip">Faixas</string>
+    <string name="drawer_category_layout_list">Lista</string>
+    <string name="drawer_category_untagged_folders">Pastas</string>
+    <string name="drawer_grid_or_list_categories">Categorias</string>
+    <string name="drawer_layout_categories">Categorias</string>
+    <string name="drawer_overflow_mode_categories">Categorias</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d app</item>
+        <item quantity="other">%1$d apps</item>
+    </plurals>
+    <string name="category_shopping">Compras</string>
+    <string name="category_travel">Viagens</string>
+    <string name="category_health">Saúde</string>
+    <string name="category_news">Notícias</string>
+    <string name="category_education">Educação</string>
+    <string name="category_photography">Fotografia</string>
+    <string name="category_music">Música</string>
+    <string name="category_video">Vídeo</string>
+    <string name="category_food">Comida</string>
+    <string name="category_weather">Clima</string>
+    <string name="category_add_title">Adicionar uma categoria</string>
+    <string name="category_add_subtitle">Os apps vão para ela na hora.</string>
+    <string name="category_create_your_own">Criar a sua</string>
+    <string name="premium_feature_immersive">Tela inicial imersiva</string>
+    <string name="premium_feature_immersive_desc">Oculte as barras do sistema, mostre sua própria linha de status e desligue o dock.</string>
+    <string name="category_sort_title">Organizar apps</string>
+    <string name="category_sort_move">Escolha os apps para mover</string>
+    <string name="category_sort_move_count">Mover %1$d apps</string>
+    <string name="category_sort_pick">Mover para</string>
+    <string name="category_uncategorised">Sem categoria</string>
+    <string name="category_personalization">Personalização</string>
+</resources>

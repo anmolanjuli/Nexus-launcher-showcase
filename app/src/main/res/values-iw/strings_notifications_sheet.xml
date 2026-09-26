@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">התראות</string>
+    <string name="notification_sheet_clear">ניקוי</string>
+    <string name="notification_sheet_dismiss">סגירה</string>
+    <string name="notification_sheet_empty">אין התראות</string>
+    <string name="notification_history_title">שמירת התראות</string>
+    <string name="notification_history_subtitle">אפשר לקרוא אותן בחלונית של המרכז, גם אחרי שהן נמחקות. הטקסט נשמר בטלפון הזה.</string>
+    <string name="notification_retention_title">משך השמירה</string>
+    <string name="notification_retention_1h">שעה</string>
+    <string name="notification_retention_6h">6 שעות</string>
+    <string name="notification_retention_1d">יום</string>
+    <string name="notification_retention_3d">3 ימים</string>
+    <string name="notification_retention_7d">7 ימים</string>
+</resources>

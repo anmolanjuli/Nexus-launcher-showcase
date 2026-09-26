@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_save">Speichern</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_reset">Zurücksetzen</string>
+    <string name="action_apply">Übernehmen</string>
+    <string name="action_remove">Entfernen</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_select">Auswählen</string>
+    <string name="action_close">Schließen</string>
+    <string name="action_search">Suchen</string>
+    <string name="action_new">Neu</string>
+    <string name="action_recent">Zuletzt verwendet</string>
+    <string name="action_sort">Sortieren</string>
+    <string name="action_sort_apps">Apps sortieren</string>
+    <string name="action_exit">Beenden</string>
+    <string name="action_add_apps">Apps hinzufügen</string>
+    <string name="action_add_to_home">Zur Startseite hinzufügen</string>
+    <string name="action_ok">Okay</string>
+    <string name="action_back">Zurück</string>
+    <string name="action_proceed">Fortfahren</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_create_folder">Ordner erstellen</string>
+    <string name="action_uninstall">Deinstallieren</string>
+    <string name="action_pin">Anheften</string>
+    <string name="action_open_settings">Einstellungen öffnen</string>
+    <string name="action_resize">Größe ändern</string>
+    <string name="action_set_category">Kategorie festlegen</string>
+    <string name="menu_dock_settings">Dock-Einstellungen</string>
+    <string name="menu_hide_app">App ausblenden</string>
+    <string name="menu_unhide_app">App einblenden</string>
+    <string name="menu_widgets">Widgets</string>
+    <string name="menu_change_category">Kategorie ändern</string>
+    <string name="home_edit_apps">Apps</string>
+    <string name="home_edit_widgets">Widgets</string>
+    <string name="home_edit_wallpaper">Tapete</string>
+    <string name="home_edit_pages">Seiten</string>
+    <string name="home_edit_folder">Ordner</string>
+    <string name="home_edit_shortcut">Abkürzung</string>
+    <string name="home_edit_settings">Einstellungen</string>
+    <string name="home_edit_lock_layout">Layout sperren</string>
+    <string name="home_edit_locked">🔒 Gesperrt</string>
+    <plurals name="selection_count">
+        <item quantity="one">%1$d ausgewählt</item>
+        <item quantity="other">%1$d ausgewählt</item>
+    </plurals>
+    <string name="dialog_discard_title">Änderungen verwerfen?</string>
+    <string name="dialog_discard_message">Deine Änderungen werden nicht gespeichert.</string>
+    <string name="toast_cannot_launch_shortcut">Verknüpfung kann nicht gestartet werden</string>
+    <string name="app_not_found">App nicht gefunden</string>
+    <string name="app_launch_failed">App kann nicht gestartet werden</string>
+    <string name="toast_drop_not_allowed">Drop nicht erlaubt</string>
+</resources>

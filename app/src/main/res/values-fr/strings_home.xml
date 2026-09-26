@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallpaper">Fond d\'écran</string>
+    <string name="settings_section_home_screen">Écran d\'accueil</string>
+    <string name="dialog_delete_page_title">Supprimer la page %1$d ?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">Cette page contient 1 icône. La supprimer retirera toutes les icônes de cette page.</item>
+        <item quantity="other">Cette page contient %1$d icônes. La supprimer retirera toutes les icônes de cette page.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">Impossible de supprimer la dernière page</string>
+    <string name="manage_pages_subtitle">%1$d pages · La maison est %2$d</string>
+    <string name="manage_pages_home_badge">Accueil</string>
+    <string name="backup_subtitle">Enregistrer l\'écran d\'accueil et les widgets dans un fichier zip</string>
+    <string name="import_nova_title">Importer depuis Nova Launcher</string>
+    <string name="import_nova_subtitle">Restaurer à partir d\'un .novabackup (remplace la mise en page actuelle)</string>
+    <string name="import_nova_dialog_title">Importer la sauvegarde Nova</string>
+    <string name="import_nova_dialog_message">Cela importera la disposition de votre écran d\'accueil Nova Launcher et REMPLACERA votre écran d\'accueil Nexus actuel. Remarque : seuls les transferts de positions d\'application/dossier/widget – les paramètres de fond d\'écran, de thème, de pack d\'icônes et de gestes ne seront PAS importés.</string>
+    <string name="toast_backup_imported">Sauvegarde importée avec succès</string>
+    <string name="toast_import_failed">Échec de l\'importation : %1$s</string>
+    <string name="toast_nova_backup_imported">Nova Backup importé avec succès</string>
+    <string name="toast_nova_import_failed">Échec de l\'importation Nova : %1$s</string>
+</resources>

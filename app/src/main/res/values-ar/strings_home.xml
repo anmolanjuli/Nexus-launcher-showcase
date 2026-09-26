@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen -->
+    <string name="title_wallpaper">الخلفية</string>
+    <string name="settings_section_home_screen">الشاشة الرئيسية</string>
+
+    <!-- Manage Pages -->
+    <string name="dialog_delete_page_title">حذف الصفحة %1$d؟</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="zero">تحتوي هذه الصفحة على 0 أيقونة. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+        <item quantity="one">تحتوي هذه الصفحة على أيقونة واحدة. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+        <item quantity="two">تحتوي هذه الصفحة على أيقونتين. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+        <item quantity="few">تحتوي هذه الصفحة على %1$d أيقونات. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+        <item quantity="many">تحتوي هذه الصفحة على %1$d أيقونة. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+        <item quantity="other">تحتوي هذه الصفحة على %1$d أيقونة. سيؤدي حذفها إلى إزالة جميع الأيقونات.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">لا يمكن حذف الصفحة الأخيرة</string>
+    <string name="manage_pages_subtitle">%1$d صفحات • الصفحة الرئيسية هي %2$d</string>
+    <string name="manage_pages_home_badge">الرئيسية</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_subtitle">حفظ الشاشة الرئيسية والأدوات في ملف zip</string>
+    <string name="import_nova_title">استيراد من Nova Launcher</string>
+    <string name="import_nova_subtitle">استعادة التخطيط من ملف .novabackup</string>
+    <string name="import_nova_dialog_title">استيراد نسخة Nova الاحتياطية</string>
+    <string name="import_nova_dialog_message">سيؤدي هذا إلى استيراد تخطيط Nova Launcher واستبدال شاشتك الرئيسية الحالية.</string>
+    <string name="toast_backup_imported">تمت استعادة النسخة الاحتياطية بنجاح</string>
+    <string name="toast_import_failed">فشل الاستيراد: %1$s</string>
+    <string name="toast_nova_backup_imported">تم استيراد نسخة Nova بنجاح</string>
+    <string name="toast_nova_import_failed">فشل استيراد Nova: %1$s</string>
+</resources>

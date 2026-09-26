@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">Carpeta</string>
+    <string name="folder_edit_title">Editar carpeta</string>
+    <string name="folder_edit_name_label">Nombre de la carpeta</string>
+    <string name="folder_edit_section_preview_style">VISTA PREVIA DEL ESTILO</string>
+    <string name="folder_edit_preview_style_desc">Cómo se ve el ícono cerrado en Inicio</string>
+    <string name="folder_edit_section_background">FONDO</string>
+    <string name="folder_edit_opacity_icon">Opacidad - Icono</string>
+    <string name="folder_edit_opacity_open_window">Opacidad de ventana abierta</string>
+    <string name="folder_context_resize">Cambiar tamaño de carpeta</string>
+    <string name="folder_context_flip">Voltear carpeta</string>
+    <string name="folder_dialog_rename_title">Cambiar nombre de carpeta</string>
+    <string name="folder_dialog_remove_title">¿Quitar carpeta?</string>
+    <string name="folder_app_picker_title">Seleccionar aplicaciones</string>
+    <string name="folder_app_picker_search_hint">Encuentra aplicaciones...</string>
+    <string name="folder_app_picker_include_other_folders">Incluir aplicaciones en otras carpetas</string>
+    <string name="folder_app_picker_save_to_folder">Guardar en carpeta</string>
+    <string name="folder_shape_row_title">Forma</string>
+    <string name="icon_shape_row_title">Forma</string>
+    <string name="folder_shape_category_basic">Clásico</string>
+    <string name="folder_shape_category_special">Estilo</string>
+    <string name="toast_app_already_in_folder">Esta aplicación ya está en la carpeta</string>
+</resources>

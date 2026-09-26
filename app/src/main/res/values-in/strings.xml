@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batalkan</string>
+    <string name="action_reset">Setel ulang</string>
+    <string name="action_apply">Terapkan</string>
+    <string name="action_remove">Hapus</string>
+    <string name="action_edit">Sunting</string>
+    <string name="action_select">Pilih</string>
+    <string name="action_close">Tutup</string>
+    <string name="action_search">Cari</string>
+    <string name="action_new">Baru</string>
+    <string name="action_recent">Baru-baru ini</string>
+    <string name="action_sort">Urutkan</string>
+    <string name="action_sort_apps">Urutkan aplikasi</string>
+    <string name="action_exit">Keluar</string>
+    <string name="action_add_apps">Tambahkan Aplikasi</string>
+    <string name="action_add_to_home">Tambahkan ke Beranda</string>
+    <string name="action_ok">Oke</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_proceed">Lanjutkan</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_create_folder">Buat Folder</string>
+    <string name="action_uninstall">Copot pemasangan</string>
+    <string name="action_pin">Sematkan</string>
+    <string name="action_open_settings">Buka Pengaturan</string>
+    <string name="action_resize">Ubah ukuran</string>
+    <string name="action_set_category">Tetapkan Kategori</string>
+    <string name="menu_dock_settings">Pengaturan Dock</string>
+    <string name="menu_hide_app">Sembunyikan Aplikasi</string>
+    <string name="menu_unhide_app">Perlihatkan Aplikasi</string>
+    <string name="menu_widgets">Widget</string>
+    <string name="menu_change_category">Ubah Kategori</string>
+    <string name="home_edit_apps">Aplikasi</string>
+    <string name="home_edit_widgets">Widget</string>
+    <string name="home_edit_wallpaper">Kertas dinding</string>
+    <string name="home_edit_pages">Halaman</string>
+    <string name="home_edit_folder">Map</string>
+    <string name="home_edit_shortcut">Jalan pintas</string>
+    <string name="home_edit_settings">Pengaturan</string>
+    <string name="home_edit_lock_layout">Tata Letak Kunci</string>
+    <string name="home_edit_locked">🔒 Terkunci</string>
+    <plurals name="selection_count">
+        <item quantity="other">%1$d dipilih</item>
+    </plurals>
+    <string name="dialog_discard_title">Hapus perubahan?</string>
+    <string name="dialog_discard_message">Perubahan Anda tidak akan disimpan.</string>
+    <string name="toast_cannot_launch_shortcut">Tidak dapat meluncurkan pintasan</string>
+    <string name="app_not_found">Aplikasi tidak ditemukan</string>
+    <string name="app_launch_failed">Tidak dapat meluncurkan aplikasi</string>
+    <string name="toast_drop_not_allowed">Jatuhkan tidak diperbolehkan</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">Terbaru</string>
+    <string name="drawer_category_quick_actions">Tindakan cepat</string>
+    <string name="drawer_category_search_hint">Telusuri aplikasi</string>
+    <string name="drawer_category_see_all">Lihat semua</string>
+    <string name="drawer_category_see_less">Lihat lebih sedikit</string>
+    <string name="drawer_category_color_title">Warna kategori</string>
+    <string name="drawer_category_color_change">Ubah warna kategori</string>
+    <string name="drawer_category_layout_label">Tata letak kategori</string>
+    <string name="drawer_category_layout_subtitle">Cara kategori ditata di laci aplikasi</string>
+    <string name="drawer_category_layout_spatial">Kartu</string>
+    <string name="drawer_category_layout_strip">Strip</string>
+    <string name="drawer_category_layout_list">Daftar</string>
+    <string name="drawer_category_untagged_folders">Folder</string>
+    <string name="drawer_grid_or_list_categories">Kategori</string>
+    <string name="drawer_layout_categories">Kategori</string>
+    <string name="drawer_overflow_mode_categories">Kategori</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="other">%1$d aplikasi</item>
+    </plurals>
+    <string name="category_shopping">Belanja</string>
+    <string name="category_travel">Perjalanan</string>
+    <string name="category_health">Kesehatan</string>
+    <string name="category_news">Berita</string>
+    <string name="category_education">Pendidikan</string>
+    <string name="category_photography">Fotografi</string>
+    <string name="category_music">Musik</string>
+    <string name="category_video">Video</string>
+    <string name="category_food">Makanan</string>
+    <string name="category_weather">Cuaca</string>
+    <string name="category_add_title">Tambahkan kategori</string>
+    <string name="category_add_subtitle">Aplikasi langsung pindah ke sana.</string>
+    <string name="category_create_your_own">Buat sendiri</string>
+    <string name="premium_feature_immersive">Layar utama imersif</string>
+    <string name="premium_feature_immersive_desc">Sembunyikan bilah sistem, tampilkan baris status sendiri, dan matikan dock.</string>
+    <string name="category_sort_title">Sortir aplikasi</string>
+    <string name="category_sort_move">Pilih aplikasi yang akan dipindahkan</string>
+    <string name="category_sort_move_count">Pindahkan %1$d aplikasi</string>
+    <string name="category_sort_pick">Pindahkan ke</string>
+    <string name="category_uncategorised">Belum disortir</string>
+    <string name="category_personalization">Personalisasi</string>
+</resources>

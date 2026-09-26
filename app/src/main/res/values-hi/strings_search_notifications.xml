@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">अधिसूचना पहुंच</string>
+    <string name="notification_access_desc">बैज गिनती और संगीत विजेट के लिए आवश्यक है</string>
+    <string name="storage_access_title">भंडारण एवं मीडिया पहुंच</string>
+    <string name="storage_access_desc">तृतीय पक्ष वॉलपेपर पर धुंधलापन के लिए आवश्यक</string>
+    <string name="accessibility_service_title">अभिगम्यता सेवा</string>
+    <string name="accessibility_service_desc">वैश्विक संकेत क्रियाओं के लिए आवश्यक है</string>
+    <string name="app_usage_title">ऐप उपयोग पहुंच</string>
+    <string name="app_usage_desc">हाल के हावभाव और तारे की चमक के लिए आवश्यक</string>
+    <string name="location_access_title">स्थान पहुंच</string>
+    <string name="location_access_desc">मौसम विजेट के लिए आवश्यक</string>
+    <string name="system_permissions_title">सिस्टम और अनुमतियाँ</string>
+    <string name="permissions_granted_format">%2$d में से %1$d अनुमतियाँ प्रदान की गईं</string>
+    <string name="permission_status_granted">मान लिया</string>
+    <string name="permission_status_tap_to_enable">सक्षम करने के लिए टैप करें</string>
+    <string name="permission_status_enabled">सक्षम</string>
+    <string name="badge_header_title">अधिसूचना बैज</string>
+    <string name="badge_app_icon_title">ऐप आइकन बैज</string>
+    <string name="badge_app_icon_subtitle">ऐप आइकन पर संख्यात्मक गिनती या अधिसूचना बिंदु</string>
+    <string name="badge_folder_title">फ़ोल्डर बैज</string>
+    <string name="badge_folder_subtitle">फ़ोल्डर के अंदर सभी ऐप्स से कुल गिनती</string>
+    <string name="badge_opt_off">बंद</string>
+    <string name="badge_opt_dot">बिंदु</string>
+    <string name="badge_opt_count">गिनती</string>
+    <string name="badge_color_custom_hint">%1$s • कस्टम के लिए सर्कल टैप करें</string>
+    <string name="badge_color_red">लाल</string>
+    <string name="badge_color_green">हरा</string>
+    <string name="badge_color_blue">नीला</string>
+    <string name="badge_color_red_default">लाल (डिफ़ॉल्ट)</string>
+    <string name="badge_summary_format">ऐप: %1$s • फ़ोल्डर: %2$s</string>
+    <string name="search_micro_actions_title">सूक्ष्म क्रियाएँ</string>
+    <string name="search_micro_actions_desc">सीधे खोज में त्वरित गणना और इकाई रूपांतरण</string>
+    <string name="search_sources_title">स्रोत खोजें</string>
+    <string name="search_sources_desc">डिवाइस आइटम और बाहरी खोज प्रदाता</string>
+    <string name="search_calc_title">कैलकुलेटर</string>
+    <string name="search_calc_desc">गणितीय समीकरणों को सीधे खोज में हल करें</string>
+    <string name="search_conv_title">इकाई रूपांतरण</string>
+    <string name="search_conv_desc">मुद्रा, मेट्रिक्स और माप की इकाइयों को परिवर्तित करें</string>
+    <string name="search_contacts_title">संपर्क</string>
+    <string name="search_contacts_desc">खोज परिणामों में मेल खाने वाले डिवाइस संपर्क दिखाएं</string>
+    <string name="search_web_title">वेब खोज</string>
+    <string name="search_web_desc">वेब सुझाव और डिफ़ॉल्ट खोज इंजन शॉर्टकट दिखाएँ</string>
+    <string name="search_maps_title">मानचित्र खोज</string>
+    <string name="search_maps_desc">जब क्वेरी में कोई ऐप या संपर्क मेल न हो तो मैप्स विकल्प दिखाएं</string>
+</resources>

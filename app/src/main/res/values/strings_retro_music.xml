@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style_modern">Modern</string>
+    <string name="music_style_winamp">Winamp</string>
+    <string name="music_style_amplifier">Amplifier</string>
+    <string name="music_style_terminal">Terminal</string>
+    <string name="music_style_cassette">Cassette</string>
+
+    <string name="widget_retro_music_section_title">Retro Music Options</string>
+    <string name="widget_retro_music_show_art">Show Album Art</string>
+    <string name="widget_retro_music_show_progress">Show Progress Bar</string>
+    <string name="widget_retro_music_show_shuffle_repeat">Show Shuffle &amp; Repeat</string>
+    <string name="widget_retro_music_theme_aware">Theme-Aware Retro Mode</string>
+    <string name="widget_retro_music_theme_aware_desc">Tint retro styles to active theme colors</string>
+
+    <string name="widget_retro_match_system_ui">Match the System UI</string>
+    <string name="widget_retro_match_system_ui_desc">The current UI in use: %1$s</string>
+    <string name="widget_retro_surface_title">Surface</string>
+    <string name="widget_retro_surface_default">Default</string>
+    <string name="widget_retro_surface_frosted">Frosted</string>
+    <string name="widget_retro_surface_neumorphic">Neumorphism</string>
+
+    <string name="retro_music_tape_side" translatable="false">SIDE A</string>
+    <string name="retro_music_terminal_prompt" translatable="false">&gt; PLAYING:</string>
+    <string name="retro_music_vu_label" translatable="false">VU</string>
+</resources>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <FrameLayout
+        android:id="@+id/workspace_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="ltr"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:background="@android:color/transparent" />
+
+    <FrameLayout
+        android:id="@+id/search_fab_container"
+        android:layout_width="44dp" android:layout_height="44dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="54dp" android:layout_marginEnd="4dp"
+        android:visibility="gone" android:elevation="8dp">
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            app:cardCornerRadius="22dp" app:cardBackgroundColor="#1AFFFFFF"
+            app:strokeWidth="1.5dp" app:strokeColor="@color/nexus_text_secondary">
+            <ImageView
+                android:id="@+id/search_fab"
+                android:layout_width="match_parent" android:layout_height="match_parent"
+                android:src="@drawable/ic_search" android:scaleType="centerInside"
+                app:tint="@color/nexus_text_secondary"
+                android:background="?selectableItemBackgroundBorderless" />
+        </com.google.android.material.card.MaterialCardView>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/drawer_overflow_btn"
+        android:layout_width="36dp" android:layout_height="36dp"
+        android:layout_gravity="end" android:layout_marginEnd="0dp"
+        android:visibility="gone" android:elevation="8dp" android:layout_marginTop="0dp">
+        <ImageView
+            android:id="@+id/drawer_overflow_icon"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:src="@drawable/ic_menu" android:scaleType="centerInside"
+            android:background="?selectableItemBackgroundBorderless" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/search_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:elevation="10dp"
+        android:background="@android:color/transparent"
+        android:paddingTop="0dp">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/search_frosted_card_bg"
+            android:layout_marginHorizontal="8dp"
+            android:layout_marginBottom="8dp"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/new_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_new"
+                android:textColor="#CCF0F0F0"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_marginStart="4dp"
+                android:layout_marginBottom="4dp" />
+            <HorizontalScrollView
+                android:id="@+id/new_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:id="@+id/new_container"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="12dp"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/recent_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_recent"
+                android:textColor="#CCF0F0F0"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_marginStart="4dp"
+                android:layout_marginBottom="4dp" />
+            <HorizontalScrollView
+                android:id="@+id/recent_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:id="@+id/recent_container"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="12dp"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+        </LinearLayout>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginHorizontal="12dp"
+            android:layout_marginBottom="8dp"
+            app:cardCornerRadius="24dp"
+            app:cardBackgroundColor="#15FFFFFF"
+            app:strokeWidth="1dp"
+            app:strokeColor="#227EB8D4">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_search"
+                    android:scaleType="centerInside"
+                    app:tint="@color/nexus_text_secondary" />
+                <EditText
+                    android:id="@+id/search_bar"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/picker_search_apps"
+                    android:textColorHint="@color/nexus_text_secondary"
+                    android:textColor="@color/nexus_text_primary"
+                    android:singleLine="true"
+                    android:imeOptions="actionSearch" />
+                    <ImageView
+                        android:id="@+id/search_close_btn"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_delete"
+                        android:scaleType="centerInside"
+                        app:tint="@color/nexus_text_secondary"
+                        android:background="?selectableItemBackgroundBorderless" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+</FrameLayout>

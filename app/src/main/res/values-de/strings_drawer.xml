@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_section_app_drawer">App-Drawer</string>
+    <string name="category_all">Alle</string>
+    <string name="category_social">Sozial</string>
+    <string name="category_media">Medien</string>
+    <string name="category_games">Spiele</string>
+    <string name="category_productivity">Produktivität</string>
+    <string name="category_finance">Finanzen</string>
+    <string name="category_utilities">Dienstprogramme</string>
+    <string name="category_system">System</string>
+    <string name="drawer_overflow_hidden_apps">Versteckte Apps</string>
+    <string name="drawer_overflow_create_folder">Ordner erstellen</string>
+    <string name="drawer_overflow_settings">App-Drawer-Einstellungen</string>
+    <string name="drawer_overflow_style_label">Stil</string>
+    <string name="drawer_overflow_style_one_col">Eine Spalte</string>
+    <string name="drawer_overflow_style_two_col">Zwei Spalten</string>
+    <string name="drawer_overflow_mode_label">Layout</string>
+    <string name="drawer_overflow_mode_grid">Gitter</string>
+    <string name="drawer_overflow_mode_list">Liste</string>
+    <string name="drawer_overflow_columns_label">Spalten</string>
+    <string name="drawer_overflow_search_position_label">Suchleiste</string>
+    <string name="drawer_overflow_category_position_label">Kategorieleiste</string>
+    <string name="drawer_search_bar_position_top">Top</string>
+    <string name="drawer_search_bar_position_bottom">Unten</string>
+    <string name="toast_no_web_browser_found">Kein Webbrowser gefunden</string>
+    <string name="toast_no_maps_app_found">Keine Karten-App gefunden</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notifications & Permissions (Hebrew) -->
+    <string name="notification_access_title">גישה להתראות</string>
+    <string name="notification_access_desc">נדרש עבור ספירת תגים ווידג\'ט מוזיקה</string>
+    <string name="storage_access_title">גישה לאחסון ומדיה</string>
+    <string name="storage_access_desc">נדרש עבור טשטוש בטפטים של צד שלישי</string>
+    <string name="accessibility_service_title">שירות נגישות</string>
+    <string name="accessibility_service_desc">נדרש עבור פעולות מחוות כלליות</string>
+    <string name="app_usage_title">גישה לנתוני שימוש</string>
+    <string name="app_usage_desc">נדרש למחווה של יישומים אחרונים והילת כוכב</string>
+    <string name="location_access_title">גישה למיקום</string>
+    <string name="location_access_desc">נדרש עבור ווידג\'ט מזג אוויר</string>
+    <string name="system_permissions_title">מערכת והרשאות</string>
+    <string name="permissions_granted_format">הוענקו %1$d מתוך %2$d הרשאות</string>
+    <string name="permission_status_granted">הוענק</string>
+    <string name="permission_status_tap_to_enable">הקש להפעלה</string>
+    <string name="permission_status_enabled">מופעל</string>
+
+    <string name="badge_header_title">תגי התראות</string>
+    <string name="badge_app_icon_title">תגי סמלי אפליקציות</string>
+    <string name="badge_app_icon_subtitle">מספר ספירה או נקודת התראה על סמל האפליקציה</string>
+    <string name="badge_folder_title">תגי תיקיות</string>
+    <string name="badge_folder_subtitle">ספירה כוללת מכל האפליקציות בתוך התיקייה</string>
+    <string name="badge_opt_off">כבוי</string>
+    <string name="badge_opt_dot">נקודה</string>
+    <string name="badge_opt_count">מספר</string>
+    <string name="badge_color_custom_hint">%1$s • הקש על העיגול להתאמה אישית</string>
+    <string name="badge_color_red">אדום</string>
+    <string name="badge_color_green">ירוק</string>
+    <string name="badge_color_blue">כחול</string>
+    <string name="badge_color_red_default">אדום (ברירת מחדל)</string>
+    <string name="badge_summary_format">אפליקציה: %1$s • תיקייה: %2$s</string>
+
+    <!-- Search Settings -->
+    <string name="search_micro_actions_title">פעולות זעירות</string>
+    <string name="search_micro_actions_desc">חישובים והמרות יחידות ישירות בתוך החיפוש</string>
+    <string name="search_sources_title">מקורות חיפוש</string>
+    <string name="search_sources_desc">פריטי מכשיר וספקי חיפוש חיצוניים</string>
+    <string name="search_calc_title">מחשבון</string>
+    <string name="search_calc_desc">פתור משוואות מתמטיות ישירות בחיפוש</string>
+    <string name="search_conv_title">המרת יחידות</string>
+    <string name="search_conv_desc">המר מטבעות, מידות ויחידות משקל</string>
+    <string name="search_contacts_title">אנשי קשר</string>
+    <string name="search_contacts_desc">הצג אנשי קשר תואמים בתוצאות החיפוש</string>
+    <string name="search_web_title">חיפוש באינטרנט</string>
+    <string name="search_web_desc">הצג הצעות רשת וקיצור דרך למנוע חיפוש ברירת מחדל</string>
+    <string name="search_maps_title">חיפוש במפות</string>
+    <string name="search_maps_desc">הצג אפשרות מפות כאשר אין התאמה לאפליקציה או איש קשר</string>
+</resources>

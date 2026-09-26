@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer Settings & Subtitles (Hebrew) -->
+    <string name="drawer_settings_layout_title">פריסה</string>
+    <string name="drawer_settings_layout_subtitle">מצב, עמודות רשת, גודל סמל, תוויות ומיון</string>
+    <string name="drawer_settings_search_navigation_title">חיפוש וניווט</string>
+    <string name="drawer_settings_hidden_apps_title">אפליקציות מוסתרות</string>
+    <string name="drawer_settings_hidden_apps_subtitle">נהל נראות של אפליקציות מוסתרות</string>
+
+    <string name="drawer_sort_recently_installed">הותקנו לאחרונה</string>
+    <string name="drawer_sort_az">א–ת</string>
+    <string name="drawer_sort_za">ת–א</string>
+    <string name="drawer_search_pos_top">למעלה</string>
+    <string name="drawer_search_pos_bottom">למטה</string>
+    <string name="drawer_cat_style_in_pill">בתוך הגלולה</string>
+    <string name="drawer_cat_style_dropdown">תפריט נפתח</string>
+    <string name="drawer_cat_style_strip">רצועה</string>
+    <string name="drawer_layout_list">רשימה</string>
+    <string name="drawer_layout_grid">רשת</string>
+    <string name="drawer_col_abbrev">%1$d עמודות</string>
+    <string name="drawer_list_mode_abbrev">מצב רשימה</string>
+    <string name="drawer_size_percent">%1$d%% גודל</string>
+    <string name="drawer_labels_on">תוויות פועלות</string>
+    <string name="drawer_labels_off">תוויות כבויות</string>
+    <string name="drawer_pill_off">גלולה כבויה</string>
+    <string name="drawer_pill_top">גלולה למעלה</string>
+    <string name="drawer_pill_bottom">גלולה למטה</string>
+    <string name="drawer_cats_on">קטגוריות פועלות</string>
+    <string name="drawer_cats_off">קטגוריות כבויות</string>
+    <string name="drawer_rail_on">פס פעיל</string>
+    <string name="drawer_rail_off">פס כבוי</string>
+    <string name="drawer_sort_order_label">סדר מיון</string>
+    <string name="drawer_search_pill_subtitle">שדה חיפוש ותפריט אפשרויות במגירת האפליקציות</string>
+    <string name="drawer_search_pos_subtitle">הצמד את גלולת החיפוש לראש או לתחתית המגירה</string>
+    <string name="drawer_categories_label">קטגוריות</string>
+    <string name="drawer_categories_subtitle">סנן את המגירה לפי קטגוריית אפליקציה</string>
+    <string name="drawer_category_style_subtitle">בתוך גלולת החיפוש, תפריט נפתח או רצועה נגללת</string>
+    <string name="drawer_category_pos_subtitle">סרגל הקטגוריות מתמקם בנפרד מגלולת החיפוש</string>
+    <string name="drawer_side_rail_label">פס צדדי</string>
+    <string name="drawer_side_rail_subtitle">פס קפיצה מהיר לפי אותיות בשולי המסך</string>
+    <string name="theme_mode_label">מצב</string>
+    <string name="drawer_transition_label">מעבר</string>
+    <string name="drawer_settings_transitions_title">מעברים</string>
+    <string name="drawer_transition_default">ברירת מחדל</string>
+    <string name="drawer_transition_cube">קובייה תלת־ממדית</string>
+    <string name="drawer_transition_zoom">זום</string>
+    <string name="drawer_transition_tilt">הטיה</string>
+    <string name="drawer_transition_stack">ערימת כרטיסים</string>
+    <string name="drawer_transition_default_desc">מסך הבית מיטשטש בעדינות ומגירת האפליקציות מופיעה</string>
+    <string name="drawer_transition_cube_desc">מסך הבית ומגירת האפליקציות מסתובבים כמו פאות של קובייה</string>
+    <string name="drawer_transition_zoom_desc">מסך הבית מתרחק ומגירת האפליקציות מתקרבת</string>
+    <string name="drawer_transition_tilt_desc">מסך הבית נוטה לאחור</string>
+    <string name="drawer_transition_stack_desc">מגירת האפליקציות מחליקה מעל מסך הבית כמו כרטיס</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RSS Feed (Arabic) -->
+    <string name="nexus_feed_title">موجز Nexus</string>
+    <string name="nexus_feed_search_hint">البحث في الأخبار…</string>
+    <string name="nexus_feed_tab_feed">الموجز</string>
+    <string name="nexus_feed_tab_explore">استكشاف</string>
+    <string name="nexus_feed_tab_saved">المحفوظات</string>
+    <string name="nexus_feed_tab_library">المكتبة</string>
+    <string name="nexus_feed_tab_settings">الإعدادات</string>
+    <string name="nexus_feed_section_label">الموجز</string>
+    <string name="nexus_feed_curated_for_you">مختارة لك</string>
+    <string name="nexus_feed_all_curated_added">تمت إضافة جميع المصادر المختارة في هذه الفئة</string>
+    <string name="nexus_feed_settings_title">إعدادات الموجز</string>
+    <string name="nexus_feed_refresh_interval_label">فترة التحديث التلقائي</string>
+    <string name="nexus_feed_manage_sources">إدارة المصادر</string>
+    <string name="nexus_feed_add_new_source">إضافة مصدر جديد</string>
+    <string name="nexus_feed_add_source_hint">الصق رابط RSS أو الموقع أو r/sub</string>
+    <string name="nexus_feed_source_added">تمت إضافة \"%1$s\"</string>
+    <string name="nexus_feed_source_add_failed">فشل تحميل المصدر</string>
+    <string name="nexus_feed_active_sources">المصادر النشطة</string>
+    <string name="nexus_feed_no_sources_yet">لم تتم إضافة أي مصادر بعد</string>
+    <string name="nexus_feed_remove_from_saved">إزالة من المحفوظات</string>
+    <string name="nexus_feed_save_story">حفظ الخبر</string>
+    <string name="nexus_feed_share_story">مشاركة الخبر</string>
+    <string name="nexus_feed_hide_story">إخفاء هذا الخبر</string>
+    <string name="nexus_feed_share_via">مشاركة عبر</string>
+    <string name="nexus_feed_options_title">خيارات الموجز</string>
+    <string name="nexus_feed_headline_only">العناوين فقط</string>
+    <string name="nexus_feed_headline_only_desc">عرض العناوين فقط وإخفاء الصور والملخصات</string>
+    <string name="nexus_feed_manage_sources_desc">المصادر، التحديث والفئات</string>
+    <string name="nexus_feed_eink_title">وضع الحبر الإلكتروني</string>
+    <string name="nexus_feed_eink_desc">قراءة بتدرج رمادي مريح مثل الورق الحقيقي</string>
+    <string name="nexus_feed_eink_dark_title">ورق داكن</string>
+    <string name="nexus_feed_eink_dark_desc">خلفية داكنة مع خطوط فاتحة مريحة</string>
+    <string name="nexus_feed_refreshing_text">جارٍ التحديث…</string>
+    <string name="nexus_feed_eink_reading_section">تجربة القراءة</string>
+
+    <!-- Categories & Headers -->
+    <string name="nexus_feed_category_all">الكل</string>
+    <string name="nexus_feed_category_world">العالم</string>
+    <string name="nexus_feed_category_tech">تقنية</string>
+    <string name="nexus_feed_category_finance">مال وأعمال</string>
+    <string name="nexus_feed_category_sports">رياضة</string>
+    <string name="nexus_feed_category_entertainment">ترفيه</string>
+    <string name="nexus_feed_category_science">علوم</string>
+    <string name="nexus_feed_add_custom_source">إضافة مصدر مخصص</string>
+    <string name="nexus_feed_your_sources">مصادر الأخبار لديك</string>
+    <string name="nexus_feed_discover_sources">اكتشاف مصادر</string>
+    <string name="nexus_feed_refresh_off">إيقاف</string>
+</resources>

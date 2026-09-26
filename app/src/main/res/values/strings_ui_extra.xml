@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">Manage Pages</string>
+    <string name="manage_pages_subtitle_one">1 page · Home is %1$d</string>
+    <string name="hidden_apps_empty">No hidden apps</string>
+    <string name="hidden_apps_unhide">Unhide</string>
+    <string name="folder_cover_icon_title">Choose Cover Icon</string>
+    <string name="folder_menu_remove_from_folder">Remove from Folder</string>
+    <string name="folder_sort_custom">Custom</string>
+    <string name="folder_picker_add_remove">Add %1$d, Remove %2$d</string>
+    <string name="folder_picker_no_changes">No Changes</string>
+    <string name="toast_app_already_exists">App already exists</string>
+    <string name="picker_add_apps_to_folder">Add Apps to Folder</string>
+    <string name="picker_add_apps_to_home">Add Apps to Home</string>
+    <string name="picker_show_other_folder_apps">Show apps in other folders</string>
+    <string name="picker_no_apps_found">No apps found</string>
+    <string name="picker_no_apps_match">No apps match “%1$s”</string>
+    <string name="picker_save_changes_counts">Save Changes (+%1$d, −%2$d)</string>
+    <string name="picker_remove_all_apps">Remove All Apps</string>
+    <string name="action_done">Done</string>
+    <string name="picker_select_shortcut">Select Shortcut</string>
+    <string name="picker_search_shortcuts">Search shortcuts…</string>
+    <string name="picker_no_shortcuts_title">No shortcuts available</string>
+    <string name="picker_no_shortcuts_desc">Must be set as default launcher to access shortcuts.</string>
+    <string name="picker_no_results">No results found</string>
+    <string name="picker_no_shortcuts_match">No shortcuts match “%1$s”</string>
+    <string name="gesture_pick_folder_title">Select Folder</string>
+    <string name="gesture_no_folders">No folders available</string>
+    <string name="gesture_pick_page_title">Select Page</string>
+    <string name="wallpaper_set_title">Set Wallpaper</string>
+    <string name="wallpaper_select_tint">Select Tint Color</string>
+    <string name="wallpaper_more">More</string>
+    <string name="wallpaper_no_other_apps">No other wallpaper apps found</string>
+    <string name="wallpaper_type_system">System</string>
+    <string name="wallpaper_type_gradient">Gradient</string>
+    <string name="wallpaper_type_others">Others</string>
+    <string name="wallpaper_dim">Dim</string>
+    <string name="wallpaper_tint_strength">Strength</string>
+    <string name="frost_capture_channel">Wallpaper capture</string>
+    <string name="frost_capture_notification">Capturing wallpaper for frost</string>
+    <string name="frost_tab_explainer">Your current wallpaper is managed outside Nexus, so frosted glass needs a one-time capture of it to blur behind widgets and folders. Android will ask you to confirm a brief screen capture — this app hides its own icons/widgets first, grabs one frame, and stops immediately, so only the wallpaper itself is saved.</string>
+    <string name="frost_tab_theme_color_warning">Background Layer is set to “Theme Color” in Theme Settings, which replaces the wallpaper with a flat color everywhere — including frost. Frost won\'t show your captured wallpaper until this is switched to “Wallpaper”.</string>
+    <string name="frost_tab_switch_layer">Switch Background Layer to Wallpaper</string>
+    <string name="frost_tab_disabled_warning">Frosted Glass is turned off in Nexus Settings &gt; Appearance — frost won\'t show anywhere, including here, until it\'s re-enabled.</string>
+    <string name="frost_capture_status_set">Frost capture: set</string>
+    <string name="frost_capture_status_unset">Frost capture: not set — frosted surfaces will look flat until you capture one</string>
+    <string name="frost_capturing">Capturing…</string>
+    <string name="frost_capture_failed">Capture failed — try again</string>
+    <string name="frost_capture_clear">Clear captured wallpaper</string>
+    <string name="widget_picker_search">Search widgets…</string>
+    <string name="widget_picker_system_only">System widgets only — pick a provider for this mosaic</string>
+    <string name="widget_picker_empty">No widgets found</string>
+    <string name="mosaic_empty_swipe_or_add">Swipe or add widgets</string>
+    <string name="mosaic_empty_long_press">Long-press to add widgets</string>
+    <string name="mosaic_focus_title">Widget Focus</string>
+    <string name="mosaic_open_app">Open app</string>
+    <string name="mosaic_manager_hint">Drag the handle to reorder. The star marks the Hero widget.</string>
+    <string name="mosaic_empty_slot">Empty Slot</string>
+    <string name="mosaic_widget_number">Widget #%1$d</string>
+    <string name="calendar_event_no_title">(No title)</string>
+    <string name="widget_preview_note_title">Ideas &amp; Thoughts</string>
+    <string name="widget_preview_note_body">Review Eisenhower matrix, update widget themes, and explore new layout grids.</string>
+    <string name="reader_empty_file">Empty file.</string>
+    <string name="reader_chapter_fallback">Chapter %1$d</string>
+    <string name="feed_empty_search">No articles found matching “%1$s”</string>
+    <string name="feed_empty_saved">No saved articles yet. Long-press any card to save it.</string>
+    <string name="feed_empty_category">No sources in this category — add one in settings.</string>
+    <string name="feed_empty_recent">No news from the last 24 hours. Pull down to refresh or check Explore.</string>
+    <string name="feed_empty_default">No articles yet. Check sources or pull down to refresh.</string>
+    <string name="feed_load_failed">Failed to load feed</string>
+    <string name="feed_fetching">Fetching…</string>
+    <string name="feed_time_just_now">just now</string>
+    <string name="feed_time_minutes">%1$dm ago</string>
+    <string name="feed_time_hours">%1$dh ago</string>
+    <string name="feed_time_days">%1$dd ago</string>
+    <string name="feed_time_weeks">%1$dw ago</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">Add %d app to Folder</item>
+        <item quantity="other">Add %d apps to Folder</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">Remove %d app from Folder</item>
+        <item quantity="other">Remove %d apps from Folder</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d app</item>
+        <item quantity="other">%d apps</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">Add %d App</item>
+        <item quantity="other">Add %d Apps</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">Remove %d App</item>
+        <item quantity="other">Remove %d Apps</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">Add %d App to Home</item>
+        <item quantity="other">Add %d Apps to Home</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d article</item>
+        <item quantity="other">%d articles</item>
+    </plurals>
+    <string name="category_new">New category</string>
+    <string name="category_name_hint">Category name</string>
+    <string name="category_edit">Edit categories</string>
+    <string name="category_delete_title">Delete “%1$s”?</string>
+    <string name="category_delete_body">Its apps stay in the drawer and still show under All.</string>
+    <string name="category_restore_defaults">Restore default categories</string>
+    <string name="category_icon_title">Choose an icon</string>
+    <string name="category_icon_default">Use default</string>
+    <string name="category_rename_title">Rename category</string>
+    <string name="category_edit_hint">Tap an icon or name to change it</string>
+</resources>

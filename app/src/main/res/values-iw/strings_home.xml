@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen -->
+    <string name="title_wallpaper">טפט</string>
+    <string name="settings_section_home_screen">מסך הבית</string>
+
+    <!-- Manage Pages -->
+    <string name="dialog_delete_page_title">למחוק דף %1$d?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">בדף זה יש סמל אחד. מחיקתו תסיר את כל הסמלים.</item>
+        <item quantity="two">בדף זה יש 2 סמלים. מחיקתם תסיר את כל הסמלים.</item>
+        <item quantity="many">בדף זה יש %1$d סמלים. מחיקתו תסיר את כל הסמלים.</item>
+        <item quantity="other">בדף זה יש %1$d סמלים. מחיקתו תסיר את כל הסמלים.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">לא ניתן למחוק את הדף האחרון</string>
+    <string name="manage_pages_subtitle">%1$d דפים • דף הבית הוא %2$d</string>
+    <string name="manage_pages_home_badge">בית</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_subtitle">שמור את מסך הבית והווידג\'טים בקובץ zip</string>
+    <string name="import_nova_title">ייבא מ-Nova Launcher</string>
+    <string name="import_nova_subtitle">שחזר פריסה מקובץ novabackup.</string>
+    <string name="import_nova_dialog_title">ייבוא גיבוי Nova</string>
+    <string name="import_nova_dialog_message">פעולה זו תייבא את פריסת Nova ותחליף את מסך הבית הנוכחי.</string>
+    <string name="toast_backup_imported">הגיבוי שוחזר בהצלחה</string>
+    <string name="toast_import_failed">הייבוא נכשל: %1$s</string>
+    <string name="toast_nova_backup_imported">גיבוי Nova יובא בהצלחה</string>
+    <string name="toast_nova_import_failed">ייבוא Nova נכשל: %1$s</string>
+</resources>

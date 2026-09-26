@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen Settings Page (Arabic) -->
+    <string name="home_settings_grid_layout_title">تخطيط الشبكة</string>
+    <string name="home_settings_grid_layout_subtitle">الأعمدة، الصفوف، حجم الأيقونة، التسميات والمؤشر</string>
+    <string name="home_settings_columns">الأعمدة</string>
+    <string name="home_settings_columns_subtitle">تغيير عدد الأعمدة</string>
+    <string name="home_settings_rows">الصفوف</string>
+    <string name="home_settings_rows_subtitle">تغيير عدد الصفوف</string>
+    <string name="home_settings_icon_size">حجم الأيقونة</string>
+    <string name="home_settings_icon_size_subtitle">تغيير أبعاد أيقونات التطبيقات</string>
+    <string name="home_settings_app_label">تسمية التطبيق</string>
+    <string name="home_settings_app_label_subtitle">عرض أسماء التطبيقات أسفل الأيقونات</string>
+    <string name="home_settings_page_indicator">مؤشر الصفحات</string>
+    <string name="home_settings_page_indicator_subtitle">نقاط توضح الصفحة الحالية</string>
+
+    <string name="home_settings_screen_spacing_title">تباعد الشاشة</string>
+    <string name="home_settings_screen_spacing_subtitle">الهوامش والمسافات بين التطبيقات</string>
+    <string name="home_settings_padding_horizontal">المحاذاة الأفقية</string>
+    <string name="home_settings_padding_horizontal_subtitle">هوامش الشاشة اليمنى واليسرى</string>
+    <string name="home_settings_padding_vertical">المحاذاة الرأسية</string>
+    <string name="home_settings_padding_vertical_subtitle">هوامش الشاشة العلوية والسفلية</string>
+    <string name="home_settings_gap_horizontal">الفجوة الأفقية</string>
+    <string name="home_settings_gap_horizontal_subtitle">المسافة الأفقية بين الأيقونات</string>
+    <string name="home_settings_gap_vertical">الفجوة الرأسية</string>
+    <string name="home_settings_gap_vertical_subtitle">المسافة الرأسية بين الأيقونات</string>
+
+    <string name="home_settings_transitions_title">التأثيرات الانتقالية</string>
+    <string name="home_settings_page_transition">انتقال الصفحات</string>
+    <string name="home_settings_transition_none">بلا</string>
+    <string name="home_settings_transition_slide">انزلاق</string>
+    <string name="home_settings_transition_fade">تلاشي</string>
+    <string name="home_settings_transition_cube">مكعب</string>
+    <string name="home_settings_transition_zoom">تكبير</string>
+    <string name="home_settings_transition_flip">انقلاب</string>
+    <string name="home_settings_transition_gravity_fold">طي جاذبي</string>
+    <string name="home_settings_reduce_motion">تقليل الحركة</string>
+    <string name="home_settings_reduce_motion_subtitle">تقليل تأثيرات الرسوم المتحركة</string>
+    <string name="home_settings_transition_speed">سرعة الانتقال</string>
+    <string name="home_settings_transition_speed_subtitle">سرعة التمرير بين الصفحات</string>
+
+    <string name="home_settings_news_feed_title">موجز الأخبار</string>
+    <string name="home_settings_news_feed_subtitle">موجزات RSS</string>
+    <string name="home_settings_show_feed">مرر لليمين للوصول لموجز الأخبار</string>
+    <string name="home_settings_show_feed_subtitle">عرض موجز الأخبار في أقصى يسار الشاشة</string>
+    <string name="home_settings_immersive">الوضع الغامر</string>
+    <string name="home_settings_immersive_subtitle">إخفاء شريط الحالة وشريط التنقل. مرِّر من حافة الشاشة لإظهارهما.</string>
+    <string name="home_settings_status_info">شريط الحالة الغامر</string>
+    <string name="home_settings_status_info_subtitle">تظهر بجانب الكاميرا في الوضع الغامر</string>
+    <string name="status_item_clock">الساعة</string>
+    <string name="status_item_notifications">الإشعارات</string>
+    <string name="status_item_wifi">Wi-Fi</string>
+    <string name="status_item_signal">إشارة الجوّال</string>
+    <string name="status_item_battery">البطارية</string>
+    <string name="home_settings_show_dock">إظهار شريط الإرساء</string>
+    <string name="home_settings_show_dock_subtitle">عند الإيقاف، تستخدم الشبكة مساحة شريط الإرساء.</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">फ़ोल्डर</string>
+    <string name="folder_edit_title">फ़ोल्डर संपादित करें</string>
+    <string name="folder_edit_name_label">फ़ोल्डर का नाम</string>
+    <string name="folder_edit_section_preview_style">पूर्वावलोकन शैली</string>
+    <string name="folder_edit_preview_style_desc">होम पर बंद आइकन कैसा दिखता है</string>
+    <string name="folder_edit_section_background">पृष्ठभूमि</string>
+    <string name="folder_edit_opacity_icon">अपारदर्शिता - चिह्न</string>
+    <string name="folder_edit_opacity_open_window">खुली खिड़की की अपारदर्शिता</string>
+    <string name="folder_context_resize">फ़ोल्डर का आकार बदलें</string>
+    <string name="folder_context_flip">फ़ोल्डर पलटें</string>
+    <string name="folder_dialog_rename_title">फ़ोल्डर का नाम बदलें</string>
+    <string name="folder_dialog_remove_title">फ़ोल्डर हटाएँ?</string>
+    <string name="folder_app_picker_title">ऐप्स चुनें</string>
+    <string name="folder_app_picker_search_hint">ऐप्स ढूंढें...</string>
+    <string name="folder_app_picker_include_other_folders">अन्य फ़ोल्डरों के ऐप्स शामिल करें</string>
+    <string name="folder_app_picker_save_to_folder">फ़ोल्डर में सहेजें</string>
+    <string name="folder_shape_row_title">आकार</string>
+    <string name="icon_shape_row_title">आकार</string>
+    <string name="folder_shape_category_basic">क्लासिक</string>
+    <string name="folder_shape_category_special">स्टाइल किया हुआ</string>
+    <string name="toast_app_already_in_folder">यह ऐप पहले से ही फ़ोल्डर में है</string>
+</resources>

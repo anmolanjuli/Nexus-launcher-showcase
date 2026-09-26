@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Weather Widget -->
+    <string name="weather_enable_location">אפשר מיקום</string>
+    <string name="weather_no_data">אין נתוני מזג אוויר</string>
+    <string name="weather_high_label">מרבי</string>
+    <string name="weather_low_label">מזערי</string>
+    <string name="weather_today">היום</string>
+    <string name="weather_local_area">אזור מקומי</string>
+
+    <!-- Calendar Widget -->
+    <string name="calendar_enable_access">אפשר גישה ללוח השנה</string>
+    <string name="calendar_no_upcoming_events">אין אירועים קרובים</string>
+    <string name="calendar_all_day">כל היום</string>
+    <plurals name="calendar_events_label">
+        <item quantity="one">אירוע</item>
+        <item quantity="two">2 אירועים</item>
+        <item quantity="many">אירועים</item>
+        <item quantity="other">אירועים</item>
+    </plurals>
+
+    <!-- Content Descriptions & Widgets -->
+    <string name="content_desc_widget_preview">תצוגה מקדימה של וידג\'ט</string>
+    <string name="content_desc_switch_mosaic_mode">החלף מצב תצוגת פסיפס</string>
+    <string name="content_desc_current_hero_widget">וידג\'ט ראשי נוכחי</string>
+    <string name="content_desc_make_hero_widget">הגדר כווידג\'ט ראשי</string>
+    <string name="widget_settings_title">הגדרות וידג\'טים</string>
+    <string name="toast_mosaic_page_is_full">דף הפסיפס מלא</string>
+    <string name="toast_at_least_one_page_required">נדרש דף אחד לפחות</string>
+</resources>

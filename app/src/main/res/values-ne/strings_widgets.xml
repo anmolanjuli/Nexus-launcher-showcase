@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Weather Widget -->
+    <string name="weather_enable_location">स्थानको अनुमति दिनुहोस्</string>
+    <string name="weather_no_data">मौसमको जानकारी छैन</string>
+    <string name="weather_high_label">उच्च</string>
+    <string name="weather_low_label">न्यून</string>
+    <string name="weather_today">आज</string>
+    <string name="weather_local_area">स्थानीय क्षेत्र</string>
+
+    <!-- Calendar Widget -->
+    <string name="calendar_enable_access">क्यालेन्डर पहुँच दिनुहोस्</string>
+    <string name="calendar_no_upcoming_events">कुनै आगामी कार्यक्रम छैन</string>
+    <string name="calendar_all_day">दिनभरि</string>
+    <plurals name="calendar_events_label">
+        <item quantity="one">कार्यक्रम</item>
+        <item quantity="other">कार्यक्रमहरू</item>
+    </plurals>
+
+    <!-- Content Descriptions & Widgets -->
+    <string name="content_desc_widget_preview">विजेट पूर्वावलोकन</string>
+    <string name="content_desc_switch_mosaic_mode">मोजाइक मोड बदल्नुहोस्</string>
+    <string name="content_desc_current_hero_widget">हालको मुख्य विजेट</string>
+    <string name="content_desc_make_hero_widget">मुख्य विजेट बनाउनुहोस्</string>
+    <string name="widget_settings_title">विजेट सेटिङ्स</string>
+    <string name="toast_mosaic_page_is_full">मोजाइक पृष्ठ भरियो</string>
+    <string name="toast_at_least_one_page_required">कम्तीमा एक पृष्ठ आवश्यक छ</string>
+</resources>

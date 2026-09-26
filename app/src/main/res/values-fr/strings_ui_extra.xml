@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">Gérer les pages</string>
+    <string name="manage_pages_subtitle_one">1 page · La maison est %1$d</string>
+    <string name="hidden_apps_empty">Aucune application cachée</string>
+    <string name="hidden_apps_unhide">Afficher</string>
+    <string name="folder_cover_icon_title">Choisir l\'icône de couverture</string>
+    <string name="folder_menu_remove_from_folder">Supprimer du dossier</string>
+    <string name="folder_sort_custom">Personnalisé</string>
+    <string name="folder_picker_add_remove">Ajouter %1$d , Supprimer %2$d</string>
+    <string name="folder_picker_no_changes">Aucun changement</string>
+    <string name="toast_app_already_exists">L\'application existe déjà</string>
+    <string name="picker_add_apps_to_folder">Ajouter des applications au dossier</string>
+    <string name="picker_add_apps_to_home">Ajouter des applications à la maison</string>
+    <string name="picker_show_other_folder_apps">Afficher les applications dans d\'autres dossiers</string>
+    <string name="picker_no_apps_found">Aucune application trouvée</string>
+    <string name="picker_no_apps_match">Aucune application ne correspond à «%1$s»</string>
+    <string name="picker_save_changes_counts">Enregistrer les modifications (+ %1$d , − %2$d )</string>
+    <string name="picker_remove_all_apps">Supprimer toutes les applications</string>
+    <string name="action_done">Terminé</string>
+    <string name="picker_select_shortcut">Sélectionner un raccourci</string>
+    <string name="picker_search_shortcuts">Rechercher des raccourcis…</string>
+    <string name="picker_no_shortcuts_title">Aucun raccourci disponible</string>
+    <string name="picker_no_shortcuts_desc">Doit être défini comme lanceur par défaut pour accéder aux raccourcis.</string>
+    <string name="picker_no_results">Aucun résultat trouvé</string>
+    <string name="picker_no_shortcuts_match">Aucun raccourci ne correspond à «%1$s»</string>
+    <string name="gesture_pick_folder_title">Sélectionner un dossier</string>
+    <string name="gesture_no_folders">Aucun dossier disponible</string>
+    <string name="gesture_pick_page_title">Sélectionner une page</string>
+    <string name="wallpaper_set_title">Définir le papier peint</string>
+    <string name="wallpaper_select_tint">Sélectionnez la couleur de teinte</string>
+    <string name="wallpaper_more">Plus</string>
+    <string name="wallpaper_no_other_apps">Aucune autre application de fond d\'écran trouvée</string>
+    <string name="wallpaper_type_system">Système</string>
+    <string name="wallpaper_type_gradient">Dégradé</string>
+    <string name="wallpaper_type_others">D\'autres</string>
+    <string name="wallpaper_dim">Faible</string>
+    <string name="wallpaper_tint_strength">Force</string>
+    <string name="frost_capture_channel">Capture de fond d\'écran</string>
+    <string name="frost_capture_notification">Capturer du papier peint contre le gel</string>
+    <string name="frost_tab_explainer">Votre fond d\'écran actuel est géré en dehors de Nexus, le verre dépoli nécessite donc une capture unique pour être flou derrière les widgets et les dossiers. Android vous demandera de confirmer une brève capture d\'écran : cette application masque d\'abord ses propres icônes/widgets, saisit une image et s\'arrête immédiatement, de sorte que seul le fond d\'écran lui-même est enregistré.</string>
+    <string name="frost_tab_theme_color_warning">Le calque d\'arrière-plan est défini sur « Couleur du thème » dans les paramètres du thème, ce qui remplace le papier peint par une couleur plate partout, y compris le givre. Frost n\'affichera pas votre fond d\'écran capturé jusqu\'à ce qu\'il soit basculé sur « Fond d\'écran ».</string>
+    <string name="frost_tab_switch_layer">Passer du calque d\'arrière-plan au fond d\'écran</string>
+    <string name="frost_tab_disabled_warning">Le verre dépoli est désactivé dans Paramètres Nexus &gt; Apparence : le givre n\'apparaîtra nulle part, y compris ici, jusqu\'à ce qu\'il soit réactivé.</string>
+    <string name="frost_capture_status_set">Capture de givre : réglé</string>
+    <string name="frost_capture_status_unset">Capture de givre : non définie – les surfaces givrées paraîtront plates jusqu\'à ce que vous en capturiez une</string>
+    <string name="frost_capturing">Capturer…</string>
+    <string name="frost_capture_failed">Échec de la capture : réessayez</string>
+    <string name="frost_capture_clear">Effacer le fond d\'écran capturé</string>
+    <string name="widget_picker_search">Rechercher des widgets…</string>
+    <string name="widget_picker_system_only">Widgets système uniquement : choisissez un fournisseur pour cette mosaïque</string>
+    <string name="widget_picker_empty">Aucun widget trouvé</string>
+    <string name="mosaic_empty_swipe_or_add">Faites glisser ou ajoutez des widgets</string>
+    <string name="mosaic_empty_long_press">Appuyez longuement pour ajouter des widgets</string>
+    <string name="mosaic_focus_title">Focus sur les widgets</string>
+    <string name="mosaic_open_app">Ouvrir l\'application</string>
+    <string name="mosaic_manager_hint">Faites glisser la poignée pour réorganiser. L\'étoile marque le widget Hero.</string>
+    <string name="mosaic_empty_slot">Emplacement vide</string>
+    <string name="mosaic_widget_number">Widget # %1$d</string>
+    <string name="calendar_event_no_title">(Pas de titre)</string>
+    <string name="widget_preview_note_title">Idées et pensées</string>
+    <string name="widget_preview_note_body">Passez en revue la matrice Eisenhower, mettez à jour les thèmes des widgets et explorez de nouvelles grilles de mise en page.</string>
+    <string name="reader_empty_file">Fichier vide.</string>
+    <string name="reader_chapter_fallback">Chapitre %1$d</string>
+    <string name="feed_empty_search">Aucun article trouvé correspondant à «%1$s»</string>
+    <string name="feed_empty_saved">Aucun article enregistré pour l\'instant. Appuyez longuement sur n\'importe quelle carte pour la sauvegarder.</string>
+    <string name="feed_empty_category">Aucune source dans cette catégorie – ajoutez-en une dans les paramètres.</string>
+    <string name="feed_empty_recent">Aucune nouvelle des dernières 24 heures. Déroulez vers le bas pour actualiser ou cochez Explorer.</string>
+    <string name="feed_empty_default">Aucun article pour l\'instant. Vérifiez les sources ou déroulez pour actualiser.</string>
+    <string name="feed_load_failed">Échec du chargement du flux</string>
+    <string name="feed_fetching">Récupération…</string>
+    <string name="feed_time_just_now">juste maintenant</string>
+    <string name="feed_time_minutes">il y a %1$d m</string>
+    <string name="feed_time_hours">il y a %1$d h</string>
+    <string name="feed_time_days">Il y a %1$d j</string>
+    <string name="feed_time_weeks">%1$d il y a w</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">Ajouter %d application au dossier</item>
+        <item quantity="other">Ajouter %d applications au dossier</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">Retirer %d application du dossier</item>
+        <item quantity="other">Retirer %d applications du dossier</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d application</item>
+        <item quantity="other">%d applications</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">Ajouter %d application</item>
+        <item quantity="other">Ajouter %d applications</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">Retirer %d application</item>
+        <item quantity="other">Retirer %d applications</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">Ajouter %d application à l\'accueil</item>
+        <item quantity="other">Ajouter %d applications à l\'accueil</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d article</item>
+        <item quantity="other">%d articles</item>
+    </plurals>
+    <string name="category_new">Nouvelle catégorie</string>
+    <string name="category_name_hint">Nom de la catégorie</string>
+    <string name="category_edit">Modifier les catégories</string>
+    <string name="category_delete_title">Supprimer «%1$s» ?</string>
+    <string name="category_delete_body">Ses applications restent dans le tiroir et s\'affichent toujours sous Tous.</string>
+    <string name="category_restore_defaults">Restaurer les catégories par défaut</string>
+    <string name="category_icon_title">Choisissez une icône</string>
+    <string name="category_icon_default">Utiliser par défaut</string>
+    <string name="category_rename_title">Renommer la catégorie</string>
+    <string name="category_edit_hint">Appuyez sur une icône ou un nom pour le modifier</string>
+</resources>

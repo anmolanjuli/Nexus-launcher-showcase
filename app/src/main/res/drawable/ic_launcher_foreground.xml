@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Offset Depth Layer: exact duplicate transformed by translate(4dp, 6dp) -->
+    <group
+        android:translateX="4"
+        android:translateY="6">
+        <path
+            android:fillColor="#2A2E33"
+            android:pathData="M35,31h11v8l6.5,7.5l-6.5,6.5V77H35V31z" />
+        <path
+            android:fillColor="#2A2E33"
+            android:pathData="M73,77H62v-8l-6.5,-7.5l6.5,-6.5V31h11V77z" />
+    </group>
+
+    <!-- Primary Gateway Shape: #F0F2F5 (full opacity) -->
+    <path
+        android:fillColor="#F0F2F5"
+        android:pathData="M35,31h11v8l6.5,7.5l-6.5,6.5V77H35V31z" />
+    <path
+        android:fillColor="#F0F2F5"
+        android:pathData="M73,77H62v-8l-6.5,-7.5l6.5,-6.5V31h11V77z" />
+
+    <!-- Nexus Node: #8FC8E0 (anchored at visual portal center: 51.5, 51.5, r=3.55dp) -->
+    <path
+        android:fillColor="#8FC8E0"
+        android:pathData="M51.5,47.95l3.07,1.77v3.56l-3.07,1.77l-3.07,-1.77v-3.56z" />
+</vector>

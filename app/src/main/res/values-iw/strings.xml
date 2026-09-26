@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Actions -->
+    <string name="action_save">שמור</string>
+    <string name="action_cancel">ביטול</string>
+    <string name="action_reset">איפוס</string>
+    <string name="action_apply">החל</string>
+    <string name="action_remove">הסר</string>
+    <string name="action_edit">ערוך</string>
+    <string name="action_select">בחר</string>
+    <string name="action_close">סגור</string>
+    <string name="action_search">חיפוש</string>
+    <string name="action_new">חדש</string>
+    <string name="action_recent">אחרונים</string>
+    <string name="action_sort">מיין</string>
+    <string name="action_sort_apps">מיין אפליקציות</string>
+    <string name="action_exit">יציאה</string>
+    <string name="action_add_apps">הוסף אפליקציות</string>
+    <string name="action_add_to_home">הוסף למסך הבית</string>
+    <string name="action_ok">אישור</string>
+    <string name="action_back">חזרה</string>
+    <string name="action_proceed">המשך</string>
+    <string name="action_delete">מחק</string>
+    <string name="action_create_folder">צור תיקייה</string>
+    <string name="action_uninstall">הסר התקנה</string>
+    <string name="action_pin">הצמד</string>
+    <string name="action_open_settings">פתח הגדרות</string>
+    <string name="action_resize">שנה גודל</string>
+    <string name="action_set_category">הגדר קטגוריה</string>
+
+    <!-- Context Menus -->
+    <string name="menu_dock_settings">הגדרות מעגן</string>
+    <string name="menu_hide_app">הסתר אפליקציה</string>
+    <string name="menu_unhide_app">בטל הסתרת אפליקציה</string>
+    <string name="menu_widgets">וידג\'טים</string>
+    <string name="menu_change_category">שנה קטגוריה</string>
+
+    <!-- Radial Menu / Home Edit Mode -->
+    <string name="home_edit_apps">אפליקציות</string>
+    <string name="home_edit_widgets">וידג\'טים</string>
+    <string name="home_edit_wallpaper">טפט</string>
+    <string name="home_edit_pages">דפים</string>
+    <string name="home_edit_folder">תיקייה</string>
+    <string name="home_edit_shortcut">קיצור דרך</string>
+    <string name="home_edit_settings">הגדרות</string>
+    <string name="home_edit_lock_layout">נעל פריסה</string>
+    <string name="home_edit_locked">🔒 נעול</string>
+
+    <!-- Selection -->
+    <plurals name="selection_count">
+        <item quantity="one">פריט %1$d נבחר</item>
+        <item quantity="two">2 פריטים נבחרו</item>
+        <item quantity="many">%1$d פריטים נבחרו</item>
+        <item quantity="other">%1$d פריטים נבחרו</item>
+    </plurals>
+
+    <!-- Common Dialogs & Toasts -->
+    <string name="dialog_discard_title">לבטל שינויים?</string>
+    <string name="dialog_discard_message">שינויים שלא הוחלו יאבדו.</string>
+    <string name="toast_cannot_launch_shortcut">לא ניתן להפעיל קיצור דרך</string>
+    <string name="app_not_found">אפליקציה לא נמצאה</string>
+    <string name="app_launch_failed">הפעלת האפליקציה נכשלה</string>
+    <string name="toast_drop_not_allowed">לא ניתן להניח כאן</string>
+</resources>

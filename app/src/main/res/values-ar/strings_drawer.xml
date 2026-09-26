@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Drawer -->
+    <string name="settings_section_app_drawer">درج التطبيقات</string>
+
+    <!-- Categories -->
+    <string name="category_all">الكل</string>
+    <string name="category_social">وسائل التواصل</string>
+    <string name="category_media">الوسائط</string>
+    <string name="category_games">ألعاب</string>
+    <string name="category_productivity">الإنتاجية</string>
+    <string name="category_finance">المال والأعمال</string>
+    <string name="category_utilities">أدوات</string>
+    <string name="category_system">النظام</string>
+
+    <!-- Drawer Overflow Menu -->
+    <string name="drawer_overflow_hidden_apps">التطبيقات المخفية</string>
+    <string name="drawer_overflow_create_folder">إنشاء مجلد</string>
+    <string name="drawer_overflow_settings">إعدادات الدرج</string>
+    <string name="drawer_overflow_style_label">النمط</string>
+    <string name="drawer_overflow_style_one_col">عمود واحد</string>
+    <string name="drawer_overflow_style_two_col">عمودان</string>
+    <string name="drawer_overflow_mode_label">التخطيط</string>
+    <string name="drawer_overflow_mode_grid">شبكة</string>
+    <string name="drawer_overflow_mode_list">قائمة</string>
+    <string name="drawer_overflow_columns_label">الأعمدة</string>
+    <string name="drawer_overflow_search_position_label">شريط البحث</string>
+    <string name="drawer_overflow_category_position_label">شريط الفئات</string>
+    <string name="drawer_search_bar_position_top">في الأعلى</string>
+    <string name="drawer_search_bar_position_bottom">في الأسفل</string>
+
+    <!-- Browser & Search Toasts -->
+    <string name="toast_no_web_browser_found">لم يتم العثور على متصفح ويب</string>
+    <string name="toast_no_maps_app_found">لم يتم العثور على تطبيق خرائط</string>
+</resources>

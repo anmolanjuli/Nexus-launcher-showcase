@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">الإشعارات</string>
+    <string name="notification_sheet_clear">محو</string>
+    <string name="notification_sheet_dismiss">تجاهل</string>
+    <string name="notification_sheet_empty">لا توجد إشعارات</string>
+    <string name="notification_history_title">الاحتفاظ بالإشعارات</string>
+    <string name="notification_history_subtitle">يمكنك قراءتها في ورقة المشغّل حتى بعد محوها. يُحفظ نصها على هذا الهاتف.</string>
+    <string name="notification_retention_title">مدة الاحتفاظ</string>
+    <string name="notification_retention_1h">ساعة</string>
+    <string name="notification_retention_6h">6 ساعات</string>
+    <string name="notification_retention_1d">يوم</string>
+    <string name="notification_retention_3d">3 أيام</string>
+    <string name="notification_retention_7d">7 أيام</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dock Settings Sheet -->
+    <string name="dock_settings_title">إعدادات شريط الإرساء</string>
+    <string name="dock_settings_section_layout">التخطيط والحجم</string>
+    <string name="dock_settings_section_background">الخلفية</string>
+    <string name="dock_settings_section_labels">التسميات والبحث</string>
+    <string name="dock_settings_max_icons">الحد الأقصى للأيقونات</string>
+    <string name="dock_settings_icon_size">حجم الأيقونة</string>
+    <string name="dock_settings_height">الارتفاع</string>
+    <string name="dock_settings_corner_radius">استدارة الحواف</string>
+    <string name="dock_settings_show_labels">إظهار التسميات</string>
+    <string name="dock_settings_font_size">حجم الخط</string>
+    <string name="dock_settings_show_search">إظهار البحث</string>
+    <string name="dock_settings_opacity">الشفافية</string>
+    <string name="dock_settings_zigzag_layout">تخطيط متعرج</string>
+    <string name="dock_settings_background">الخلفية</string>
+    <string name="dock_settings_color">اللون</string>
+</resources>

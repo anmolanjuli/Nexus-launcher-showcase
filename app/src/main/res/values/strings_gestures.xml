@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gesture Settings -->
+    <string name="gestures_one_finger_title">One finger swipe</string>
+    <string name="gestures_one_finger_desc">Single-finger swipe actions on empty home space</string>
+    <string name="gestures_two_finger_title">Two finger swipe</string>
+    <string name="gestures_two_finger_desc">Two-finger swipe actions on empty home space</string>
+    <string name="gesture_swipe_up">Swipe Up</string>
+    <string name="gesture_swipe_down">Swipe Down</string>
+    <string name="gesture_two_finger_swipe_up">Two-Finger Swipe Up</string>
+    <string name="gesture_two_finger_swipe_down">Two-Finger Swipe Down</string>
+
+    <!-- Gesture Actions -->
+    <string name="gesture_action_none">None</string>
+    <string name="gesture_action_open_app_info">Open App Info</string>
+    <string name="gesture_action_lock_screen">Lock Screen</string>
+    <string name="gesture_action_toggle_flashlight">Toggle Flashlight</string>
+    <string name="gesture_action_open_app_drawer">Open App Drawer</string>
+    <string name="gesture_action_open_specific_app">Open Specific App</string>
+    <string name="gesture_action_open_specific_page">Open Specific Page</string>
+    <string name="gesture_action_open_specific_folder">Open Specific Folder</string>
+    <string name="gesture_action_open_specific_shortcut">Open Specific Shortcut</string>
+    <string name="gesture_action_expand_notifications">Expand Notifications</string>
+    <string name="gesture_action_open_quick_settings">Open Quick Settings</string>
+    <string name="gesture_action_show_recents">Show Recents</string>
+    <string name="gesture_action_take_screenshot">Take Screenshot</string>
+    <string name="gesture_action_show_power_menu">Show Power Menu</string>
+    <string name="gesture_action_open_search">Open Search</string>
+    <string name="gesture_action_next_page">Next Page</string>
+    <string name="gesture_action_prev_page">Previous Page</string>
+    <string name="gesture_action_toggle_labels">Toggle Labels</string>
+    <string name="gesture_action_open_home_edit">Home Edit Mode</string>
+    <string name="gesture_action_split_screen">Split Screen</string>
+    <string name="gesture_requires_accessibility">Requires accessibility</string>
+</resources>

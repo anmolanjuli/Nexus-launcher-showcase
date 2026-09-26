@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_style_modern">حديث</string>
+    <string name="music_style_winamp">Winamp</string>
+    <string name="music_style_amplifier">مضخم صوت</string>
+    <string name="music_style_terminal">طرفية</string>
+    <string name="music_style_cassette">كاسيت</string>
+
+    <string name="widget_retro_music_section_title">خيارات الموسيقى القديمة</string>
+    <string name="widget_retro_music_show_art">إظهار غلاف الألبوم</string>
+    <string name="widget_retro_music_show_progress">إظهار شريط التقدم</string>
+    <string name="widget_retro_music_show_shuffle_repeat">إظهار التشغيل العشوائي والتكرار</string>
+    <string name="widget_retro_music_theme_aware">وضع السمات القديم</string>
+    <string name="widget_retro_music_theme_aware_desc">تلوين الأنماط القديمة بألوان السمة النشطة</string>
+    <string name="widget_retro_match_system_ui">مطابقة واجهة النظام</string>
+    <string name="widget_retro_match_system_ui_desc">الواجهة الحالية المستخدمة: %1$s</string>
+    <string name="widget_retro_surface_title">المظهر الخارجي</string>
+    <string name="widget_retro_surface_default">افتراضي</string>
+    <string name="widget_retro_surface_frosted">زجاجي</string>
+    <string name="widget_retro_surface_neumorphic">نيومورفيك</string>
+</resources>

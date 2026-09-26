@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+    <rect width="108" height="108" fill="#0A0A0A" rx="24"/>
+    <!-- Offset Depth Layer: exact duplicate transformed by translate(4px, 6px) -->
+    <g transform="translate(4, 6)" fill="#2A2E33">
+        <path d="M35 31h11v8l6.5 7.5-6.5 6.5V77H35V31z"/>
+        <path d="M73 77H62v-8l-6.5-7.5 6.5-6.5V31h11V77z"/>
+    </g>
+
+    <!-- Primary Gateway Shape: #F0F2F5 (full opacity) -->
+    <path fill="#F0F2F5" d="M35 31h11v8l6.5 7.5-6.5 6.5V77H35V31z"/>
+    <path fill="#F0F2F5" d="M73 77H62v-8l-6.5-7.5 6.5-6.5V31h11V77z"/>
+
+    <!-- Nexus Node: #8FC8E0 (centered at 51.5, 51.5, r=3.55dp) -->
+    <path fill="#8FC8E0" d="M51.5 47.95l3.07 1.77v3.56l-3.07 1.77-3.07-1.77v-3.56z"/>
+</svg>

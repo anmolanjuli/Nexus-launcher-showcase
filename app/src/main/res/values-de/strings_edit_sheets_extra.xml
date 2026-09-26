@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Benachrichtigungs-Badges aktivieren</string>
+    <string name="notif_perm_body">Erlaube Nexus Launcher, Benachrichtigungen zu lesen, um Badges mit der Anzahl auf deinen App-Symbolen anzuzeigen.\n\nDu kannst das jederzeit unter Einstellungen → Apps → Spezieller App-Zugriff → Benachrichtigungszugriff ändern.</string>
+    <string name="notif_perm_not_now">Nicht jetzt</string>
+    <string name="folder_default_name">Ordner</string>
+    <string name="folder_numbered_name">Ordner %1$d</string>
+    <string name="folder_remove_body_count">Dadurch werden der Ordner und alle darin enthaltenen %1$d-Apps entfernt.</string>
+    <string name="folder_discard_title">Änderungen verwerfen?</string>
+    <string name="folder_discard_body">Deine Änderungen werden nicht gespeichert.</string>
+    <string name="folder_keep_editing">Weiter bearbeiten</string>
+    <string name="folder_discard">Verwerfen</string>
+    <string name="folder_background_style">Hintergrundstil</string>
+    <string name="gesture_group_navigation">Navigation</string>
+    <string name="gesture_group_system">System</string>
+    <string name="gesture_group_launcher">Launcher</string>
+    <string name="gesture_group_shortcuts">Verknüpfungen</string>
+    <string name="icon_edit_unsaved_title">Nicht gespeicherte Änderungen</string>
+    <string name="icon_edit_unsaved_message">Du hast nicht gespeicherte Änderungen. Möchtest du wirklich beenden?</string>
+    <string name="icon_edit_continue">Weiter bearbeiten</string>
+    <string name="icon_edit_reset_title">Auf Standard zurücksetzen</string>
+    <string name="icon_edit_reset_message">Möchtest du wirklich alle eigenen Anpassungen dieser App auf die Standardwerte zurücksetzen?</string>
+    <string name="icon_edit_title">App bearbeiten</string>
+    <string name="menu_move">Verschieben</string>
+    <string name="menu_elevation">Ebene</string>
+    <string name="menu_replace">Ersetzen</string>
+    <string name="menu_padding">Innenabstand</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="mosaic_add_widget">Widget hinzufügen</string>
+    <string name="mosaic_add_widget_full">Widget hinzufügen (vollständig)</string>
+    <string name="mosaic_remove_widget_title">Widget entfernen</string>
+    <string name="mosaic_remove_restore_desc">Stelle dieses Widget auf dem Startbildschirm wieder her oder lösche es dauerhaft.</string>
+    <string name="mosaic_remove_no_space_desc">Auf dem Startbildschirm ist kein Platz frei, um dieses Widget wiederherzustellen. Du kannst es dauerhaft löschen.</string>
+    <string name="mosaic_remove_restore_action">Auf dem Startbildschirm wiederherstellen</string>
+    <string name="progress_preset_label">Voreingestellt</string>
+    <string name="progress_track_name_hint">Titelname</string>
+    <string name="progress_badge_mode">Abzeichenmodus</string>
+    <string name="progress_track_default">Verfolgen</string>
+</resources>

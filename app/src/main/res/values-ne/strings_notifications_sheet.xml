@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">सूचनाहरू</string>
+    <string name="notification_sheet_clear">हटाउनुहोस्</string>
+    <string name="notification_sheet_dismiss">हटाउनुहोस्</string>
+    <string name="notification_sheet_empty">कुनै सूचना छैन</string>
+    <string name="notification_history_title">सूचनाहरू राख्नुहोस्</string>
+    <string name="notification_history_subtitle">हटाइएपछि पनि लन्चरकै सिटमा पढ्नुहोस्। तिनको पाठ यही फोनमा सेभ हुन्छ।</string>
+    <string name="notification_retention_title">कति समय राख्ने</string>
+    <string name="notification_retention_1h">१ घण्टा</string>
+    <string name="notification_retention_6h">६ घण्टा</string>
+    <string name="notification_retention_1d">१ दिन</string>
+    <string name="notification_retention_3d">३ दिन</string>
+    <string name="notification_retention_7d">७ दिन</string>
+</resources>

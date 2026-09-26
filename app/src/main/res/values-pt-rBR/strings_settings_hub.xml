@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Configurações</string>
+    <string name="settings_search_hint">Configurações de pesquisa…</string>
+    <string name="settings_search_pages">Páginas</string>
+    <string name="settings_search_controls">Configurações</string>
+    <string name="settings_search_empty">Nenhuma configuração corresponde a “%1$s”</string>
+    <string name="settings_jump_title">Ir para</string>
+    <string name="settings_jump_results">Resultados</string>
+    <string name="settings_search_no_results">Nenhuma configuração corresponde a isso</string>
+    <string name="settings_jump_content_description">Ir para outra página de configurações</string>
+    <string name="settings_group_layout">Disposição</string>
+    <string name="settings_group_appearance">Aparência</string>
+    <string name="settings_group_behaviour">Comportamento</string>
+    <string name="settings_group_system">Sistema</string>
+    <string name="settings_hub_home_subtitle">Grade, espaçamento, rótulos, transições</string>
+    <string name="settings_hub_drawer_subtitle">Layout, pesquisa, categorias</string>
+    <string name="settings_hub_theme_title">Tema</string>
+    <string name="settings_hub_theme_subtitle">Modo, paleta, destaque e estilo de UI</string>
+    <string name="settings_hub_icons_subtitle">Pacote de ícones, formas e ícones temáticos</string>
+    <string name="settings_hub_typography_title">Tipografia</string>
+    <string name="settings_hub_typography_subtitle">Família de fontes e idioma</string>
+    <string name="settings_hub_dock_title">Dock</string>
+    <string name="settings_hub_dock_subtitle">Plano de fundo, tamanho, ícones e layout</string>
+    <string name="settings_hub_immersive_title">Modo imersivo</string>
+    <string name="settings_hub_immersive_subtitle">Linha de status, pílulas, relógio, bateria e sinal</string>
+    <string name="settings_hub_gestures_subtitle">Ações de deslizar, toque duas vezes</string>
+    <string name="settings_page_gestures">Gestos</string>
+    <string name="settings_page_search">Pesquisar</string>
+    <string name="settings_hub_search_subtitle">Barra de pesquisa, provedores e web</string>
+    <string name="settings_hub_notifications_title">Notificações e permissões</string>
+    <string name="settings_hub_notifications_subtitle">Selos e permissões</string>
+    <string name="settings_hub_backup_title">Backup e restauração</string>
+    <string name="settings_hub_backup_subtitle">Exportar ou importar layout</string>
+    <string name="settings_applying_language">Aplicando linguagem…</string>
+    <string name="licenses_page_title">Licenças</string>
+    <string name="licenses_page_subtitle">Licenças de código aberto e fontes</string>
+    <string name="licenses_section_fonts">Fontes</string>
+    <string name="licenses_section_libraries">Bibliotecas</string>
+</resources>

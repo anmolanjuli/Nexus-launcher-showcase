@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">अधिसूचना बैज सक्षम करें</string>
+    <string name="notif_perm_body">Nexus Launcher को अपने ऐप आइकन पर बैज काउंट दिखाने के लिए नोटिफिकेशन पढ़ने की अनुमति दें।\n\nआप इसे सेटिंग्स → ऐप्स → विशेष ऐप एक्सेस → नोटिफिकेशन एक्सेस में किसी भी समय बदल सकते हैं।</string>
+    <string name="notif_perm_not_now">अभी नहीं</string>
+    <string name="folder_default_name">फ़ोल्डर</string>
+    <string name="folder_numbered_name">फ़ोल्डर %1$d</string>
+    <string name="folder_remove_body_count">इससे फ़ोल्डर और अंदर के सभी %1$d ऐप्स निकल जाएंगे।</string>
+    <string name="folder_discard_title">परिवर्तन त्यागें?</string>
+    <string name="folder_discard_body">आपके परिवर्तन सहेजे नहीं जाएंगे.</string>
+    <string name="folder_keep_editing">संपादन करते रहें</string>
+    <string name="folder_discard">त्यागें</string>
+    <string name="folder_background_style">पृष्ठभूमि शैली</string>
+    <string name="gesture_group_navigation">नेविगेशन</string>
+    <string name="gesture_group_system">सिस्टम</string>
+    <string name="gesture_group_launcher">लॉन्चर</string>
+    <string name="gesture_group_shortcuts">शॉर्टकट</string>
+    <string name="icon_edit_unsaved_title">सहेजे न गए परिवर्तन</string>
+    <string name="icon_edit_unsaved_message">आपके पास सहेजे नहीं गए परिवर्तन हैं. क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?</string>
+    <string name="icon_edit_continue">संपादन जारी रखें</string>
+    <string name="icon_edit_reset_title">डिफ़ॉल्ट पर रीसेट करें</string>
+    <string name="icon_edit_reset_message">क्या आप वाकई इस ऐप के सभी कस्टम संपादनों को उनके डिफ़ॉल्ट मानों पर वापस रीसेट करना चाहते हैं?</string>
+    <string name="icon_edit_title">ऐप संपादित करें</string>
+    <string name="menu_move">ले जाएँ</string>
+    <string name="menu_elevation">ऊंचाई</string>
+    <string name="menu_replace">बदलें</string>
+    <string name="menu_padding">पैडिंग</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="mosaic_add_widget">विजेट जोड़ें</string>
+    <string name="mosaic_add_widget_full">विजेट जोड़ें (पूर्ण)</string>
+    <string name="mosaic_remove_widget_title">विजेट हटाएँ</string>
+    <string name="mosaic_remove_restore_desc">इस विजेट को होम स्क्रीन पर पुनर्स्थापित करें, या इसे स्थायी रूप से हटा दें।</string>
+    <string name="mosaic_remove_no_space_desc">इस विजेट को पुनर्स्थापित करने के लिए कोई निःशुल्क होम स्थान उपलब्ध नहीं है। आप इसे स्थायी रूप से हटा सकते हैं.</string>
+    <string name="mosaic_remove_restore_action">होम स्क्रीन में पुनर्स्थापित करें</string>
+    <string name="progress_preset_label">पूर्व निर्धारित</string>
+    <string name="progress_track_name_hint">ट्रैक का नाम</string>
+    <string name="progress_badge_mode">बैज मोड</string>
+    <string name="progress_track_default">ट्रैक</string>
+</resources>

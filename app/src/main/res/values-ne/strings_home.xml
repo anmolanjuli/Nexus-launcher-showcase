@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen -->
+    <string name="title_wallpaper">वालपेपर</string>
+    <string name="settings_section_home_screen">गृह स्क्रिन</string>
+
+    <!-- Manage Pages -->
+    <string name="dialog_delete_page_title">पृष्ठ %1$d मेटाउने?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">यो पृष्ठमा १ आइकन छ। यसलाई मेटाउँदा सबै आइकनहरू हट्नेछन्।</item>
+        <item quantity="other">यो पृष्ठमा %1$d आइकनहरू छन्। यसलाई मेटाउँदा सबै आइकनहरू हट्नेछन्।</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">अन्तिम पृष्ठ मेटाउन मिल्दैन</string>
+    <string name="manage_pages_subtitle">%1$d पृष्ठहरू • गृह पृष्ठ %2$d हो</string>
+    <string name="manage_pages_home_badge">गृह</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_subtitle">गृह स्क्रिन र विजेटहरू zip फाइलमा सुरक्षित गर्नुहोस्</string>
+    <string name="import_nova_title">नोभा लन्चरबाट ल्याउनुहोस्</string>
+    <string name="import_nova_subtitle">.novabackup बाट लेआउट पुनर्स्थापना गर्नुहोस्</string>
+    <string name="import_nova_dialog_title">नोभा ब्याकअप ल्याउने</string>
+    <string name="import_nova_dialog_message">यसले तपाईंको नोभा लन्चर लेआउट आयात गरी हालको गृह स्क्रिन प्रतिस्थापन गर्नेछ।</string>
+    <string name="toast_backup_imported">ब्याकअप सफलतापूर्वक पुनर्स्थापना भयो</string>
+    <string name="toast_import_failed">आयात असफल भयो: %1$s</string>
+    <string name="toast_nova_backup_imported">नोभा ब्याकअप सफलतापूर्वक आयात भयो</string>
+    <string name="toast_nova_import_failed">नोभा आयात असफल भयो: %1$s</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">Gerenciar páginas</string>
+    <string name="manage_pages_subtitle_one">1 página · A página inicial é %1$d</string>
+    <string name="hidden_apps_empty">Sem aplicativos ocultos</string>
+    <string name="hidden_apps_unhide">Mostrar</string>
+    <string name="folder_cover_icon_title">Escolha o ícone da capa</string>
+    <string name="folder_menu_remove_from_folder">Remover da pasta</string>
+    <string name="folder_sort_custom">Personalizado</string>
+    <string name="folder_picker_add_remove">Adicionar %1$d, remover %2$d</string>
+    <string name="folder_picker_no_changes">Sem alterações</string>
+    <string name="toast_app_already_exists">O aplicativo já existe</string>
+    <string name="picker_add_apps_to_folder">Adicionar aplicativos à pasta</string>
+    <string name="picker_add_apps_to_home">Adicionar aplicativos à página inicial</string>
+    <string name="picker_show_other_folder_apps">Mostrar aplicativos em outras pastas</string>
+    <string name="picker_no_apps_found">Nenhum aplicativo encontrado</string>
+    <string name="picker_no_apps_match">Nenhum aplicativo corresponde a “%1$s”</string>
+    <string name="picker_save_changes_counts">Salvar alterações (+ %1$d, - %2$d)</string>
+    <string name="picker_remove_all_apps">Remover todos os aplicativos</string>
+    <string name="action_done">Concluído</string>
+    <string name="picker_select_shortcut">Selecione o atalho</string>
+    <string name="picker_search_shortcuts">Atalhos de pesquisa…</string>
+    <string name="picker_no_shortcuts_title">Nenhum atalho disponível</string>
+    <string name="picker_no_shortcuts_desc">Deve ser definido como inicializador padrão para acessar atalhos.</string>
+    <string name="picker_no_results">Nenhum resultado encontrado</string>
+    <string name="picker_no_shortcuts_match">Nenhum atalho corresponde a “%1$s”</string>
+    <string name="gesture_pick_folder_title">Selecione a pasta</string>
+    <string name="gesture_no_folders">Nenhuma pasta disponível</string>
+    <string name="gesture_pick_page_title">Selecione a página</string>
+    <string name="wallpaper_set_title">Definir papel de parede</string>
+    <string name="wallpaper_select_tint">Selecione a cor da tonalidade</string>
+    <string name="wallpaper_more">Mais</string>
+    <string name="wallpaper_no_other_apps">Nenhum outro aplicativo de papel de parede encontrado</string>
+    <string name="wallpaper_type_system">Sistema</string>
+    <string name="wallpaper_type_gradient">Gradiente</string>
+    <string name="wallpaper_type_others">Outros</string>
+    <string name="wallpaper_dim">Escurecer</string>
+    <string name="wallpaper_tint_strength">Força</string>
+    <string name="frost_capture_channel">Captura de papel de parede</string>
+    <string name="frost_capture_notification">Capturando papel de parede para geada</string>
+    <string name="frost_tab_explainer">Seu papel de parede atual é gerenciado fora do Nexus, portanto, o vidro fosco precisa de uma captura única para desfocar atrás de widgets e pastas. O Android solicitará que você confirme uma breve captura de tela – este aplicativo primeiro oculta seus próprios ícones/widgets, captura um quadro e para imediatamente, para que apenas o papel de parede em si seja salvo.</string>
+    <string name="frost_tab_theme_color_warning">A camada de fundo está definida como “Cor do tema” nas configurações do tema, que substitui o papel de parede por uma cor plana em todos os lugares – incluindo gelo. Frost não mostrará o papel de parede capturado até que este seja alterado para “Papel de parede”.</string>
+    <string name="frost_tab_switch_layer">Mudar camada de fundo para papel de parede</string>
+    <string name="frost_tab_disabled_warning">O vidro fosco está desativado em Configurações do Nexus&gt; Aparência – o gelo não aparecerá em lugar nenhum, inclusive aqui, até que seja reativado.</string>
+    <string name="frost_capture_status_set">Captura de gelo: definido</string>
+    <string name="frost_capture_status_unset">Captura de gelo: não definido — as superfícies congeladas parecerão planas até você capturar uma</string>
+    <string name="frost_capturing">Capturando…</string>
+    <string name="frost_capture_failed">Falha na captura. Tente novamente</string>
+    <string name="frost_capture_clear">Limpar papel de parede capturado</string>
+    <string name="widget_picker_search">Widgets de pesquisa…</string>
+    <string name="widget_picker_system_only">Somente widgets do sistema — escolha um fornecedor para este mosaico</string>
+    <string name="widget_picker_empty">Nenhum widget encontrado</string>
+    <string name="mosaic_empty_swipe_or_add">Deslize ou adicione widgets</string>
+    <string name="mosaic_empty_long_press">Pressione e segure para adicionar widgets</string>
+    <string name="mosaic_focus_title">Foco do widget</string>
+    <string name="mosaic_open_app">Abrir aplicativo</string>
+    <string name="mosaic_manager_hint">Arraste a alça para reordenar. A estrela marca o widget Hero.</string>
+    <string name="mosaic_empty_slot">Slot Vazio</string>
+    <string name="mosaic_widget_number">Widget # %1$d</string>
+    <string name="calendar_event_no_title">(Sem título)</string>
+    <string name="widget_preview_note_title">Ideias e pensamentos</string>
+    <string name="widget_preview_note_body">Revise a matriz de Eisenhower, atualize temas de widgets e explore novas grades de layout.</string>
+    <string name="reader_empty_file">Arquivo vazio.</string>
+    <string name="reader_chapter_fallback">Capítulo %1$d</string>
+    <string name="feed_empty_search">Nenhum artigo encontrado correspondente a “%1$s”</string>
+    <string name="feed_empty_saved">Nenhum artigo salvo ainda. Pressione longamente qualquer cartão para salvá-lo.</string>
+    <string name="feed_empty_category">Nenhuma fonte nesta categoria – adicione uma nas configurações.</string>
+    <string name="feed_empty_recent">Nenhuma notícia das últimas 24 horas. Puxe para baixo para atualizar ou marque Explorar.</string>
+    <string name="feed_empty_default">Nenhum artigo ainda. Verifique as fontes ou puxe para baixo para atualizar.</string>
+    <string name="feed_load_failed">Falha ao carregar feed</string>
+    <string name="feed_fetching">Buscando…</string>
+    <string name="feed_time_just_now">agora mesmo</string>
+    <string name="feed_time_minutes">%1$d minutos atrás</string>
+    <string name="feed_time_hours">%1$d horas atrás</string>
+    <string name="feed_time_days">%1$d dias atrás</string>
+    <string name="feed_time_weeks">%1$d há quanto tempo</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">Adicionar %d app à pasta</item>
+        <item quantity="other">Adicionar %d apps à pasta</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">Remover %d app da pasta</item>
+        <item quantity="other">Remover %d apps da pasta</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d app</item>
+        <item quantity="other">%d apps</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">Adicionar %d app</item>
+        <item quantity="other">Adicionar %d apps</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">Remover %d app</item>
+        <item quantity="other">Remover %d apps</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">Adicionar %d app à tela inicial</item>
+        <item quantity="other">Adicionar %d apps à tela inicial</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d artigo</item>
+        <item quantity="other">%d artigos</item>
+    </plurals>
+    <string name="category_new">Nova categoria</string>
+    <string name="category_name_hint">Nome da categoria</string>
+    <string name="category_edit">Editar categorias</string>
+    <string name="category_delete_title">Excluir “%1$s”?</string>
+    <string name="category_delete_body">Seus aplicativos ficam na gaveta e ainda aparecem em Todos.</string>
+    <string name="category_restore_defaults">Restaurar categorias padrão</string>
+    <string name="category_icon_title">Escolha um ícone</string>
+    <string name="category_icon_default">Usar padrão</string>
+    <string name="category_rename_title">Renomear categoria</string>
+    <string name="category_edit_hint">Toque em um ícone ou nome para alterá-lo</string>
+</resources>

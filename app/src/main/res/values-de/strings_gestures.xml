@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">Mit einem Finger streichen</string>
+    <string name="gestures_one_finger_desc">Streichaktionen mit einem Finger auf einem leeren Home-Bereich</string>
+    <string name="gestures_two_finger_title">Streichen mit zwei Fingern</string>
+    <string name="gestures_two_finger_desc">Wischaktionen mit zwei Fingern auf leerem Home-Bereich</string>
+    <string name="gesture_swipe_up">Nach oben wischen</string>
+    <string name="gesture_swipe_down">Nach unten wischen</string>
+    <string name="gesture_two_finger_swipe_up">Mit zwei Fingern nach oben wischen</string>
+    <string name="gesture_two_finger_swipe_down">Mit zwei Fingern nach unten wischen</string>
+    <string name="gesture_action_none">Keine</string>
+    <string name="gesture_action_open_app_info">App-Info öffnen</string>
+    <string name="gesture_action_lock_screen">Bildschirm sperren</string>
+    <string name="gesture_action_toggle_flashlight">Taschenlampe umschalten</string>
+    <string name="gesture_action_open_app_drawer">App-Drawer öffnen</string>
+    <string name="gesture_action_open_specific_app">Bestimmte App öffnen</string>
+    <string name="gesture_action_open_specific_page">Bestimmte Seite öffnen</string>
+    <string name="gesture_action_open_specific_folder">Bestimmten Ordner öffnen</string>
+    <string name="gesture_action_open_specific_shortcut">Bestimmte Verknüpfung öffnen</string>
+    <string name="gesture_action_expand_notifications">Benachrichtigungen einblenden</string>
+    <string name="gesture_action_open_quick_settings">Schnelleinstellungen öffnen</string>
+    <string name="gesture_action_show_recents">Letzte anzeigen</string>
+    <string name="gesture_action_take_screenshot">Screenshot aufnehmen</string>
+    <string name="gesture_action_show_power_menu">Power-Menü anzeigen</string>
+    <string name="gesture_action_open_search">Suche öffnen</string>
+    <string name="gesture_action_next_page">Nächste Seite</string>
+    <string name="gesture_action_prev_page">Vorherige Seite</string>
+    <string name="gesture_action_toggle_labels">Beschriftungen umschalten</string>
+    <string name="gesture_action_open_home_edit">Home-Bearbeitungsmodus</string>
+    <string name="gesture_action_split_screen">Geteilter Bildschirm</string>
+    <string name="gesture_requires_accessibility">Erfordert Barrierefreiheit</string>
+</resources>

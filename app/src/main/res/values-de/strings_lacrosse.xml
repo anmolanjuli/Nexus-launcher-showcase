@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">Themenmodus</string>
+    <string name="widget_lacrosse_theme_classic">Klassisches LCD</string>
+    <string name="widget_lacrosse_theme_themed">Design-LCD</string>
+    <string name="widget_lacrosse_theme_ice">Eis-LCD</string>
+    <string name="widget_lacrosse_time_format">Zeitformat</string>
+    <string name="widget_lacrosse_time_format_system">System</string>
+    <string name="widget_lacrosse_time_format_12h">12-Stunden</string>
+    <string name="widget_lacrosse_time_format_24h">24-Stunden</string>
+    <string name="widget_lacrosse_month_format">Monatsformat</string>
+    <string name="widget_lacrosse_month_format_abbrev">Text (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">Zahl (1-12)</string>
+    <string name="widget_lacrosse_field_time">Uhrzeit anzeigen</string>
+    <string name="widget_lacrosse_field_ampm">AM/PM anzeigen</string>
+    <string name="widget_lacrosse_field_month">Monat anzeigen</string>
+    <string name="widget_lacrosse_field_date">Datum anzeigen</string>
+    <string name="widget_lacrosse_field_day">Wochentag anzeigen</string>
+    <string name="widget_lacrosse_field_temp">Temperatur anzeigen</string>
+    <string name="widget_lacrosse_ghost_segments">Geistersegmente</string>
+    <string name="widget_lacrosse_divider_lines">Trennlinien</string>
+</resources>

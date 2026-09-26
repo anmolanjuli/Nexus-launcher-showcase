@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">Habilitar insignias de notificación</string>
+    <string name="notif_perm_body">Permita que Nexus Launcher lea notificaciones para mostrar el recuento de credenciales en los íconos de sus aplicaciones.\n\nPuede cambiar esto en cualquier momento en Configuración → Aplicaciones → Acceso especial a aplicaciones → Acceso a notificaciones.</string>
+    <string name="notif_perm_not_now">Ahora no</string>
+    <string name="folder_default_name">Carpeta</string>
+    <string name="folder_numbered_name">Carpeta %1$d</string>
+    <string name="folder_remove_body_count">Esto eliminará la carpeta y todas las aplicaciones %1$d que contiene.</string>
+    <string name="folder_discard_title">¿Descartar cambios?</string>
+    <string name="folder_discard_body">Tus cambios no se guardarán.</string>
+    <string name="folder_keep_editing">Seguir editando</string>
+    <string name="folder_discard">Desechar</string>
+    <string name="folder_background_style">Estilo de fondo</string>
+    <string name="gesture_group_navigation">Navegación</string>
+    <string name="gesture_group_system">Sistema</string>
+    <string name="gesture_group_launcher">Lanzacohetes</string>
+    <string name="gesture_group_shortcuts">Atajos</string>
+    <string name="icon_edit_unsaved_title">Cambios no guardados</string>
+    <string name="icon_edit_unsaved_message">Tienes cambios sin guardar. ¿Estás seguro de que quieres salir?</string>
+    <string name="icon_edit_continue">Continuar editando</string>
+    <string name="icon_edit_reset_title">Restablecer los valores predeterminados</string>
+    <string name="icon_edit_reset_message">¿Está seguro de que desea restablecer todas las ediciones personalizadas de esta aplicación a sus valores predeterminados?</string>
+    <string name="icon_edit_title">Editar aplicación</string>
+    <string name="menu_move">Mover</string>
+    <string name="menu_elevation">Elevación</string>
+    <string name="menu_replace">Reemplazar</string>
+    <string name="menu_padding">Espaciado interno</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="mosaic_add_widget">Agregar widget</string>
+    <string name="mosaic_add_widget_full">Agregar widget (completo)</string>
+    <string name="mosaic_remove_widget_title">Quitar widget</string>
+    <string name="mosaic_remove_restore_desc">Restaure este widget en la pantalla de inicio o elimínelo permanentemente.</string>
+    <string name="mosaic_remove_no_space_desc">No hay espacio libre en Inicio disponible para restaurar este widget. Puedes eliminarlo permanentemente.</string>
+    <string name="mosaic_remove_restore_action">Restaurar en la pantalla de inicio</string>
+    <string name="progress_preset_label">Programar</string>
+    <string name="progress_track_name_hint">Nombre de la pista</string>
+    <string name="progress_badge_mode">Modo insignia</string>
+    <string name="progress_track_default">Pista</string>
+</resources>

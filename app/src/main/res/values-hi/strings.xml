@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_save">सहेजें</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="action_reset">रीसेट करें</string>
+    <string name="action_apply">लागू करें</string>
+    <string name="action_remove">हटाओ</string>
+    <string name="action_edit">संपादित करें</string>
+    <string name="action_select">चयन करें</string>
+    <string name="action_close">बंद करें</string>
+    <string name="action_search">खोजें</string>
+    <string name="action_new">नया</string>
+    <string name="action_recent">हाल का</string>
+    <string name="action_sort">क्रमबद्ध करें</string>
+    <string name="action_sort_apps">ऐप्स को क्रमबद्ध करें</string>
+    <string name="action_exit">बाहर निकलें</string>
+    <string name="action_add_apps">ऐप्स जोड़ें</string>
+    <string name="action_add_to_home">होम में जोड़ें</string>
+    <string name="action_ok">ठीक है</string>
+    <string name="action_back">वापस</string>
+    <string name="action_proceed">आगे बढ़ें</string>
+    <string name="action_delete">हटाएँ</string>
+    <string name="action_create_folder">फ़ोल्डर बनाएँ</string>
+    <string name="action_uninstall">अनइंस्टॉल करें</string>
+    <string name="action_pin">पिन करें</string>
+    <string name="action_open_settings">सेटिंग्स खोलें</string>
+    <string name="action_resize">आकार बदलें</string>
+    <string name="action_set_category">श्रेणी निर्धारित करें</string>
+    <string name="menu_dock_settings">डॉक सेटिंग्स</string>
+    <string name="menu_hide_app">ऐप छुपाएं</string>
+    <string name="menu_unhide_app">ऐप दिखाएँ</string>
+    <string name="menu_widgets">विजेट्स</string>
+    <string name="menu_change_category">श्रेणी बदलें</string>
+    <string name="home_edit_apps">ऐप्स</string>
+    <string name="home_edit_widgets">विजेट्स</string>
+    <string name="home_edit_wallpaper">वॉलपेपर</string>
+    <string name="home_edit_pages">पन्ने</string>
+    <string name="home_edit_folder">फ़ोल्डर</string>
+    <string name="home_edit_shortcut">शॉर्टकट</string>
+    <string name="home_edit_settings">सेटिंग्स</string>
+    <string name="home_edit_lock_layout">लॉक लेआउट</string>
+    <string name="home_edit_locked">🔒 ताला लगा दिया</string>
+    <plurals name="selection_count">
+        <item quantity="one">%1$d चयनित</item>
+        <item quantity="other">%1$d चयनित</item>
+    </plurals>
+    <string name="dialog_discard_title">परिवर्तन त्यागें?</string>
+    <string name="dialog_discard_message">आपके परिवर्तन सहेजे नहीं जाएंगे.</string>
+    <string name="toast_cannot_launch_shortcut">शॉर्टकट लॉन्च नहीं किया जा सकता</string>
+    <string name="app_not_found">ऐप नहीं मिला</string>
+    <string name="app_launch_failed">ऐप लॉन्च नहीं किया जा सकता</string>
+    <string name="toast_drop_not_allowed">गिराने की अनुमति नहीं है</string>
+</resources>

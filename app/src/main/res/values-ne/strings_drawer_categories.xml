@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">हालैका</string>
+    <string name="drawer_category_quick_actions">द्रुत कार्यहरू</string>
+    <string name="drawer_category_search_hint">एपहरू खोज्नुहोस्</string>
+    <string name="drawer_category_see_all">सबै हेर्नुहोस्</string>
+    <string name="drawer_category_see_less">कम हेर्नुहोस्</string>
+    <string name="drawer_category_color_title">श्रेणीको रङ</string>
+    <string name="drawer_category_color_change">श्रेणीको रङ बदल्नुहोस्</string>
+    <string name="drawer_category_layout_label">श्रेणी लेआउट</string>
+    <string name="drawer_category_layout_subtitle">एप ड्रअरमा श्रेणीहरू कसरी मिलाइन्छन्</string>
+    <string name="drawer_category_layout_spatial">कार्ड</string>
+    <string name="drawer_category_layout_strip">स्ट्रिप</string>
+    <string name="drawer_category_layout_list">सूची</string>
+    <string name="drawer_category_untagged_folders">फोल्डरहरू</string>
+    <string name="drawer_grid_or_list_categories">श्रेणीहरू</string>
+    <string name="drawer_layout_categories">श्रेणीहरू</string>
+    <string name="drawer_overflow_mode_categories">श्रेणीहरू</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d एप</item>
+        <item quantity="other">%1$d एपहरू</item>
+    </plurals>
+    <string name="category_shopping">किनमेल</string>
+    <string name="category_travel">यात्रा</string>
+    <string name="category_health">स्वास्थ्य</string>
+    <string name="category_news">समाचार</string>
+    <string name="category_education">शिक्षा</string>
+    <string name="category_photography">फोटोग्राफी</string>
+    <string name="category_music">सङ्गीत</string>
+    <string name="category_video">भिडियो</string>
+    <string name="category_food">खाना</string>
+    <string name="category_weather">मौसम</string>
+    <string name="category_add_title">श्रेणी थप्नुहोस्</string>
+    <string name="category_add_subtitle">एपहरू तुरुन्तै त्यहाँ सर्छन्।</string>
+    <string name="category_create_your_own">आफ्नै बनाउनुहोस्</string>
+    <string name="premium_feature_immersive">इमर्सिभ होम स्क्रिन</string>
+    <string name="premium_feature_immersive_desc">सिस्टम बारहरू लुकाउनुहोस्, आफ्नै स्टाटस पङ्क्ति देखाउनुहोस्, र डक बन्द गर्नुहोस्।</string>
+    <string name="category_sort_title">एपहरू छाँट्नुहोस्</string>
+    <string name="category_sort_move">सार्नका लागि एपहरू छान्नुहोस्</string>
+    <string name="category_sort_move_count">%1$d एप सार्नुहोस्</string>
+    <string name="category_sort_pick">यहाँ सार्नुहोस्</string>
+    <string name="category_uncategorised">छाँटिएको छैन</string>
+    <string name="category_personalization">निजीकरण</string>
+</resources>

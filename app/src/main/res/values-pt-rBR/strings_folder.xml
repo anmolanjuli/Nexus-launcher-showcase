@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">Pasta</string>
+    <string name="folder_edit_title">Editar pasta</string>
+    <string name="folder_edit_name_label">Nome da pasta</string>
+    <string name="folder_edit_section_preview_style">ESTILO DE VISUALIZAÇÃO</string>
+    <string name="folder_edit_preview_style_desc">Qual é a aparência do ícone fechado na página inicial</string>
+    <string name="folder_edit_section_background">ANTECEDENTES</string>
+    <string name="folder_edit_opacity_icon">Opacidade - Ícone</string>
+    <string name="folder_edit_opacity_open_window">Opacidade de janela aberta</string>
+    <string name="folder_context_resize">Redimensionar pasta</string>
+    <string name="folder_context_flip">Virar pasta</string>
+    <string name="folder_dialog_rename_title">Renomear pasta</string>
+    <string name="folder_dialog_remove_title">Remover pasta?</string>
+    <string name="folder_app_picker_title">Selecione aplicativos</string>
+    <string name="folder_app_picker_search_hint">Encontre aplicativos…</string>
+    <string name="folder_app_picker_include_other_folders">Incluir aplicativos em outras pastas</string>
+    <string name="folder_app_picker_save_to_folder">Salvar na pasta</string>
+    <string name="folder_shape_row_title">Forma</string>
+    <string name="icon_shape_row_title">Forma</string>
+    <string name="folder_shape_category_basic">Clássico</string>
+    <string name="folder_shape_category_special">Estilizado</string>
+    <string name="toast_app_already_in_folder">Este aplicativo já está na pasta</string>
+</resources>

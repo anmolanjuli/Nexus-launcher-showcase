@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Icon Edit Sheet -->
+    <string name="edit_sheet_tap_to_rename">Tap to rename</string>
+    <string name="edit_sheet_app_name_hint">App Name</string>
+    <string name="edit_sheet_section_appearance">APPEARANCE</string>
+    <string name="edit_sheet_icon_source">ICON SOURCE</string>
+    <string name="edit_sheet_section_gestures">GESTURES</string>
+    <string name="edit_sheet_gestures">Gestures</string>
+    <string name="edit_sheet_gallery">Gallery</string>
+    <string name="edit_sheet_swipe_up">Swipe Up</string>
+    <string name="edit_sheet_swipe_down">Swipe Down</string>
+    <string name="edit_sheet_double_tap">Double Tap</string>
+    <string name="edit_sheet_app_uninstalled">(App no longer installed)</string>
+    <string name="edit_sheet_unnamed_folder">Unnamed Folder</string>
+    <string name="edit_sheet_invalid_folder">(Invalid Folder)</string>
+    <string name="edit_sheet_shortcut_unavailable">(Shortcut no longer available)</string>
+    <string name="edit_sheet_invalid_shortcut">(Invalid Shortcut)</string>
+
+    <!-- Folder Edit Sheet -->
+    <string name="folder_edit_window">Window</string>
+    <string name="folder_edit_window_opacity">Window Opacity</string>
+    <string name="folder_edit_icon">Icon</string>
+    <string name="folder_edit_icon_opacity">Icon Opacity</string>
+    <string name="folder_edit_name_hint">Folder Name</string>
+    <string name="folder_edit_section_appearance">Appearance</string>
+    <string name="folder_edit_section_layout">Layout</string>
+    <string name="folder_edit_section_gestures">Gestures</string>
+    <string name="folder_edit_glass_refraction">Glass Refraction</string>
+    <string name="folder_edit_preview_style">Preview Style</string>
+    <string name="folder_edit_columns">Columns</string>
+    <string name="folder_edit_show_labels">Show App Labels</string>
+    <string name="folder_edit_expressive_gradient">Expressive Gradient</string>
+
+    <!-- Folder Preview Styles -->
+    <string name="folder_preview_style_grid">Grid</string>
+    <string name="folder_preview_style_fan">Fan of 3</string>
+    <string name="folder_preview_style_hero_orbit">Hero + Orbit</string>
+    <string name="folder_preview_style_custom_icon">Custom Icon</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">New Folder</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">नेक्सस क्रोनो स्टेशन</string>
+    <string name="widget_lacrosse_section_title">नेक्सस क्रोनो स्टेशन</string>
+    <string name="widget_lacrosse_theme_mode">थीम मोड</string>
+    <string name="widget_lacrosse_theme_classic">क्लासिक एलसीडी</string>
+    <string name="widget_lacrosse_theme_themed">थीम एलसीडी</string>
+    <string name="widget_lacrosse_theme_ice">आइस एलसीडी</string>
+    <string name="widget_lacrosse_time_format">समय प्रारूप</string>
+    <string name="widget_lacrosse_time_format_system">सिस्टम</string>
+    <string name="widget_lacrosse_time_format_12h">12-घंटे</string>
+    <string name="widget_lacrosse_time_format_24h">24-घंटे</string>
+    <string name="widget_lacrosse_month_format">महीना प्रारूप</string>
+    <string name="widget_lacrosse_month_format_abbrev">शब्द (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">संख्या (1-12)</string>
+    <string name="widget_lacrosse_field_time">समय दिखाएं</string>
+    <string name="widget_lacrosse_field_ampm">AM/PM दिखाएं</string>
+    <string name="widget_lacrosse_field_month">महीना दिखाएं</string>
+    <string name="widget_lacrosse_field_date">दिनांक दिखाएं</string>
+    <string name="widget_lacrosse_field_day">दिन दिखाएं</string>
+    <string name="widget_lacrosse_field_temp">तापमान दिखाएं</string>
+    <string name="widget_lacrosse_ghost_segments">घोस्ट सेगमेंट्स</string>
+    <string name="widget_lacrosse_divider_lines">विभाजक रेखाएं</string>
+</resources>

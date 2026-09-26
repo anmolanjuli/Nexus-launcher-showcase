@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_save">Enregistrer</string>
+    <string name="action_cancel">Annuler</string>
+    <string name="action_reset">Réinitialiser</string>
+    <string name="action_apply">Appliquer</string>
+    <string name="action_remove">Supprimer</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_select">Sélectionner</string>
+    <string name="action_close">Fermer</string>
+    <string name="action_search">Rechercher</string>
+    <string name="action_new">Nouveau</string>
+    <string name="action_recent">Récent</string>
+    <string name="action_sort">Trier</string>
+    <string name="action_sort_apps">Trier les applications</string>
+    <string name="action_exit">Quitter</string>
+    <string name="action_add_apps">Ajouter des applications</string>
+    <string name="action_add_to_home">Ajouter à l\'accueil</string>
+    <string name="action_ok">D\'accord</string>
+    <string name="action_back">Retour</string>
+    <string name="action_proceed">Continuer</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_create_folder">Créer un dossier</string>
+    <string name="action_uninstall">Désinstaller</string>
+    <string name="action_pin">Épingler</string>
+    <string name="action_open_settings">Ouvrir les paramètres</string>
+    <string name="action_resize">Redimensionner</string>
+    <string name="action_set_category">Définir la catégorie</string>
+    <string name="menu_dock_settings">Paramètres du dock</string>
+    <string name="menu_hide_app">Masquer l\'application</string>
+    <string name="menu_unhide_app">Afficher l\'application</string>
+    <string name="menu_widgets">Widgets</string>
+    <string name="menu_change_category">Changer de catégorie</string>
+    <string name="home_edit_apps">Applications</string>
+    <string name="home_edit_widgets">Widgets</string>
+    <string name="home_edit_wallpaper">Fond d\'écran</string>
+    <string name="home_edit_pages">Pages</string>
+    <string name="home_edit_folder">Dossier</string>
+    <string name="home_edit_shortcut">Raccourci</string>
+    <string name="home_edit_settings">Paramètres</string>
+    <string name="home_edit_lock_layout">Disposition du verrouillage</string>
+    <string name="home_edit_locked">🔒 Verrouillé</string>
+    <plurals name="selection_count">
+        <item quantity="one">%1$d sélectionné</item>
+        <item quantity="other">%1$d sélectionnés</item>
+    </plurals>
+    <string name="dialog_discard_title">Supprimer les modifications ?</string>
+    <string name="dialog_discard_message">Vos modifications ne seront pas enregistrées.</string>
+    <string name="toast_cannot_launch_shortcut">Impossible de lancer le raccourci</string>
+    <string name="app_not_found">Application introuvable</string>
+    <string name="app_launch_failed">Impossible de lancer l\'application</string>
+    <string name="toast_drop_not_allowed">Chute non autorisée</string>
+</resources>

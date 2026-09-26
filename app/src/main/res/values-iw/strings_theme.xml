@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme & Colors -->
+    <string name="settings_section_theme">ערכת נושא</string>
+    <string name="theme_mode_auto">אוטומטי</string>
+    <string name="theme_mode_light">בהיר</string>
+    <string name="theme_mode_dark">כהה</string>
+    <string name="theme_mode_amoled">מסך AMOLED</string>
+    <string name="theme_mode_calm">רגוע (Calm)</string>
+    <string name="settings_section_calm_palette">פלטות רגועות</string>
+    <string name="calm_palette_rich_sand">חול עשיר</string>
+    <string name="calm_palette_golden_sand">חול זהוב</string>
+    <string name="calm_palette_ocean_blue">כחול אוקיינוס</string>
+    <string name="calm_palette_navy_ink">כחול כהה</string>
+    <string name="calm_palette_deep_navy">נייבי עמוק</string>
+    <string name="calm_palette_ember_red">אדום גחלת</string>
+    <string name="calm_palette_forest_green">ירוק יער</string>
+    <string name="calm_palette_amber_dusk">ענבר בין הערביים</string>
+    <string name="calm_palette_burnt_orange">כתום שרוף</string>
+    <string name="calm_palette_deep_plum">שזיף עמוק</string>
+    <string name="calm_palette_slate_grey">אפור צפחה</string>
+    <string name="settings_section_background_layer">שכבת רקע</string>
+    <string name="bg_layer_wallpaper">טפט</string>
+    <string name="bg_layer_theme_color">צבע ערכת נושא</string>
+    <string name="settings_section_accent_color">צבע הדגשה</string>
+    <string name="settings_section_color_accessibility">נגישות צבעים</string>
+    <string name="color_accessibility_subtitle">התאמה לעיוורון צבעים</string>
+    <string name="color_accessibility_off">כבוי</string>
+    <string name="color_accessibility_red_green">אדום-ירוק</string>
+    <string name="color_accessibility_blue_yellow">כחול-צהוב</string>
+    <string name="settings_section_badge_color">צבע תג התראות</string>
+    <string name="settings_section_icons">סמלים</string>
+    <string name="settings_themed_icons">סמלים מותאמים לערכת הנושא</string>
+    <string name="settings_badge_beta">בטא</string>
+    <string name="settings_themed_icons_subtitle">התאם את סגנון הסמלים לצבע ערכת הנושא</string>
+    <string name="settings_ui_option">סגנון ממשק</string>
+    <string name="settings_ui_option_subtitle">כיצד יוצגו וידג\'טים, תיקיות ומעגן</string>
+    <string name="ui_option_neumorphism">נאומורפיזם</string>
+    <string name="ui_option_default">ברירת מחדל</string>
+    <string name="ui_option_frosted_glass">זכוכית חלבית</string>
+
+    <!-- Language Settings -->
+    <string name="settings_section_language">שפה</string>
+    <string name="locale_system_default">ברירת מחדל של המערכת</string>
+    <string name="locale_english">English (אנגלית)</string>
+    <string name="locale_nepali">नेपाली (נפאלית)</string>
+    <string name="locale_arabic">العربية (ערבית)</string>
+    <string name="locale_hebrew">עברית</string>
+    <string name="locale_spanish">Español (ספרדית)</string>
+    <string name="locale_portuguese_br">Português (פורטוגזית)</string>
+    <string name="locale_hindi">हिन्दी (הינדי)</string>
+    <string name="locale_indonesian">Bahasa Indonesia (אינדונזית)</string>
+    <string name="locale_german">Deutsch (גרמנית)</string>
+    <string name="locale_french">Français (צרפתית)</string>
+
+    <!-- Font Family Settings -->
+    <string name="settings_section_font">משפחת גופנים</string>
+    <string name="font_family_nexus_default">ברירת מחדל של Nexus</string>
+    <string name="font_family_system">ברירת מחדל של המערכת</string>
+    <string name="font_family_sans_serif">ללא תגים (Sans)</string>
+    <string name="font_family_serif">עם תגים (Serif)</string>
+    <string name="font_family_monospace">רוחב אחיד (Mono)</string>
+    <string name="font_family_sans_serif_medium">בינוני (Medium)</string>
+</resources>

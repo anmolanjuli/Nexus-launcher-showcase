@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notifications & Permissions (Nepali) -->
+    <string name="notification_access_title">सूचना पहुँच</string>
+    <string name="notification_access_desc">ब्याज सङ्ख्या र सङ्गीत विजेटको लागि आवश्यक</string>
+    <string name="storage_access_title">स्टोरेज र मिडिया पहुँच</string>
+    <string name="storage_access_desc">अन्य वालपेपरमा ब्लरको लागि आवश्यक</string>
+    <string name="accessibility_service_title">पहुँच योग्यता सेवा</string>
+    <string name="accessibility_service_desc">ग्लोबल इशारा कार्यहरूको लागि आवश्यक</string>
+    <string name="app_usage_title">एप प्रयोग पहुँच</string>
+    <string name="app_usage_desc">हालसालैका एपहरू र स्टार ग्लोको लागि आवश्यक</string>
+    <string name="location_access_title">स्थान पहुँच</string>
+    <string name="location_access_desc">मौसम विजेटको लागि आवश्यक</string>
+    <string name="system_permissions_title">प्रणाली र अनुमतिहरू</string>
+    <string name="permissions_granted_format">%2$d मध्ये %1$d अनुमतिहरू प्राप्त भए</string>
+    <string name="permission_status_granted">प्राप्त भयो</string>
+    <string name="permission_status_tap_to_enable">सक्रिय गर्न ट्याप गर्नुहोस्</string>
+    <string name="permission_status_enabled">सक्रिय</string>
+
+    <string name="badge_header_title">सूचना ब्याजहरू</string>
+    <string name="badge_app_icon_title">एप आइकन ब्याज</string>
+    <string name="badge_app_icon_subtitle">आइकनमा सङ्ख्या वा सूचना थोप्लो</string>
+    <string name="badge_folder_title">फोल्डर ब्याज</string>
+    <string name="badge_folder_subtitle">फोल्डर भित्रका सबै एपहरूको कुल सङ्ख्या</string>
+    <string name="badge_opt_off">बन्द</string>
+    <string name="badge_opt_dot">थोप्लो</string>
+    <string name="badge_opt_count">सङ्ख्या</string>
+    <string name="badge_color_custom_hint">%1$s • कस्टमका लागि वृत्तमा ट्याप गर्नुहोस्</string>
+    <string name="badge_color_red">रातो</string>
+    <string name="badge_color_green">हरियो</string>
+    <string name="badge_color_blue">नीलो</string>
+    <string name="badge_color_red_default">रातो (पूर्वनिर्धारित)</string>
+    <string name="badge_summary_format">एप: %1$s • फोल्डर: %2$s</string>
+
+    <!-- Search Settings -->
+    <string name="search_micro_actions_title">माइक्रो कार्यहरू</string>
+    <string name="search_micro_actions_desc">खोजमै सिधै गणना र एकाइ रूपान्तरण गर्नुहोस्</string>
+    <string name="search_sources_title">खोज स्रोतहरू</string>
+    <string name="search_sources_desc">यन्त्रका वस्तुहरू र बाह्य खोज प्रदायकहरू</string>
+    <string name="search_calc_title">क्यालकुलेटर</string>
+    <string name="search_calc_desc">गणितीय समीकरणहरू सिधै खोजमा हल गर्नुहोस्</string>
+    <string name="search_conv_title">एकाइ रूपान्तरण</string>
+    <string name="search_conv_desc">मुद्रा, नाप र एकाइहरू रूपान्तरण गर्नुहोस्</string>
+    <string name="search_contacts_title">सम्पर्कहरू</string>
+    <string name="search_contacts_desc">खोज परिणाममा यन्त्रका सम्पर्कहरू देखाउनुहोस्</string>
+    <string name="search_web_title">वेब खोज</string>
+    <string name="search_web_desc">वेब सुझावहरू र खोज इन्जिन सर्टकट देखाउनुहोस्</string>
+    <string name="search_maps_title">नक्सा खोज</string>
+    <string name="search_maps_desc">कुनै मेल नखाँदा नक्सा विकल्प देखाउनुहोस्</string>
+</resources>

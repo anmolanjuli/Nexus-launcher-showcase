@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallpaper">वॉलपेपर</string>
+    <string name="settings_section_home_screen">होम स्क्रीन</string>
+    <string name="dialog_delete_page_title">पेज हटाएं %1$d?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">इस पेज में 1 आइकन है। इसे हटाने पर इस पेज के सभी आइकन हट जाएंगे।</item>
+        <item quantity="other">इस पेज में %1$d आइकन हैं। इसे हटाने पर इस पेज के सभी आइकन हट जाएंगे।</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">अंतिम पृष्ठ हटाया नहीं जा सकता</string>
+    <string name="manage_pages_subtitle">%1$d पेज · होम %2$d है</string>
+    <string name="manage_pages_home_badge">घर</string>
+    <string name="backup_subtitle">होम स्क्रीन और विजेट्स को ज़िप फ़ाइल में सहेजें</string>
+    <string name="import_nova_title">Nova Launcher से आयात करें</string>
+    <string name="import_nova_subtitle">.novabackup से पुनर्स्थापित करें (वर्तमान लेआउट को प्रतिस्थापित करता है)</string>
+    <string name="import_nova_dialog_title">नोवा बैकअप आयात करें</string>
+    <string name="import_nova_dialog_message">यह आपके Nova Launcher होम स्क्रीन लेआउट को आयात करेगा और आपके वर्तमान Nexus होम स्क्रीन को बदल देगा। ध्यान दें: केवल ऐप/फ़ोल्डर/विजेट स्थिति स्थानांतरण - वॉलपेपर, थीम, आइकन पैक और जेस्चर सेटिंग्स आयात नहीं की जाएंगी।</string>
+    <string name="toast_backup_imported">बैकअप सफलतापूर्वक आयात किया गया</string>
+    <string name="toast_import_failed">आयात विफल: %1$s</string>
+    <string name="toast_nova_backup_imported">नोवा बैकअप सफलतापूर्वक आयात किया गया</string>
+    <string name="toast_nova_import_failed">नोवा आयात विफल: %1$s</string>
+</resources>

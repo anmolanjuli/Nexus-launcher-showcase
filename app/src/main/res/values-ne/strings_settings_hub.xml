@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">सेटिङ्स</string>
+    <string name="settings_search_hint">सेटिङ्स खोज्नुहोस्…</string>
+    <string name="settings_search_pages">पृष्ठहरू</string>
+    <string name="settings_search_controls">सेटिङ्स</string>
+    <string name="settings_search_empty">“%1$s” सँग मिल्ने सेटिङ्स छैन</string>
+    <string name="settings_jump_title">यहाँ जानुहोस्</string>
+    <string name="settings_jump_results">नतिजाहरू</string>
+    <string name="settings_search_no_results">कुनै मिल्दो सेटिङ्स फेला परेन</string>
+    <string name="settings_jump_content_description">अन्य सेटिङ्स पृष्ठमा जानुहोस्</string>
+
+    <string name="settings_group_layout">लेआउट</string>
+    <string name="settings_group_appearance">स्वरूप</string>
+    <string name="settings_group_behaviour">व्यवहार</string>
+    <string name="settings_group_system">प्रणाली</string>
+
+    <string name="settings_hub_home_subtitle">ग्रिड, स्पेसिङ, लेबल र ट्रान्जिसन</string>
+    <string name="settings_hub_drawer_subtitle">लेआउट, खोज र विधाहरू</string>
+    <string name="settings_hub_theme_title">थिम</string>
+    <string name="settings_hub_theme_subtitle">मोड, रङ र इन्टरफेस शैली</string>
+    <string name="settings_hub_icons_subtitle">आइकन प्याक, आकार र थिम</string>
+    <string name="settings_hub_typography_title">टाइपोग्राफी</string>
+    <string name="settings_hub_typography_subtitle">फन्ट र भाषा</string>
+    <string name="settings_hub_dock_title">डक</string>
+    <string name="settings_hub_dock_subtitle">पृष्ठभूमि, आकार, आइकन र लेआउट</string>
+    <string name="settings_hub_immersive_title">इमर्सिभ मोड</string>
+    <string name="settings_hub_immersive_subtitle">स्टाटस पङ्क्ति, पिल, घडी, ब्याट्री र सिग्नल</string>
+    <string name="settings_hub_gestures_subtitle">स्वाइप कार्यहरू, डबल ट्याप</string>
+    <string name="settings_page_gestures">इशाराहरू</string>
+    <string name="settings_page_search">खोज</string>
+    <string name="settings_hub_search_subtitle">खोज पट्टी, प्रदायकहरू र वेब</string>
+    <string name="settings_hub_notifications_title">सूचना र अनुमतिहरू</string>
+    <string name="settings_hub_notifications_subtitle">ब्याजहरू र अनुमतिहरू</string>
+    <string name="settings_hub_backup_title">ब्याकअप र रिस्टोर</string>
+    <string name="settings_hub_backup_subtitle">लेआउट निर्यात वा आयात गर्नुहोस्</string>
+    <string name="settings_applying_language">भाषा लागू गरिँदै…</string>
+
+    <!-- Licenses -->
+    <string name="licenses_page_title">इजाजतपत्रहरू</string>
+    <string name="licenses_page_subtitle">खुला स्रोत र फन्ट इजाजतपत्र</string>
+    <string name="licenses_section_fonts">फन्टहरू</string>
+    <string name="licenses_section_libraries">पुस्तकालयहरू</string>
+</resources>

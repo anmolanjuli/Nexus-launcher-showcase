@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">Récents</string>
+    <string name="drawer_category_quick_actions">Actions rapides</string>
+    <string name="drawer_category_search_hint">Rechercher des applis</string>
+    <string name="drawer_category_see_all">Tout afficher</string>
+    <string name="drawer_category_see_less">Afficher moins</string>
+    <string name="drawer_category_color_title">Couleur de la catégorie</string>
+    <string name="drawer_category_color_change">Changer la couleur de la catégorie</string>
+    <string name="drawer_category_layout_label">Disposition des catégories</string>
+    <string name="drawer_category_layout_subtitle">Comment les catégories sont disposées dans la liste d\'applis</string>
+    <string name="drawer_category_layout_spatial">Cartes</string>
+    <string name="drawer_category_layout_strip">Bandes</string>
+    <string name="drawer_category_layout_list">Liste</string>
+    <string name="drawer_category_untagged_folders">Dossiers</string>
+    <string name="drawer_grid_or_list_categories">Catégories</string>
+    <string name="drawer_layout_categories">Catégories</string>
+    <string name="drawer_overflow_mode_categories">Catégories</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d appli</item>
+        <item quantity="other">%1$d applis</item>
+    </plurals>
+    <string name="category_shopping">Achats</string>
+    <string name="category_travel">Voyages</string>
+    <string name="category_health">Santé</string>
+    <string name="category_news">Actualités</string>
+    <string name="category_education">Éducation</string>
+    <string name="category_photography">Photo</string>
+    <string name="category_music">Musique</string>
+    <string name="category_video">Vidéo</string>
+    <string name="category_food">Cuisine</string>
+    <string name="category_weather">Météo</string>
+    <string name="category_add_title">Ajouter une catégorie</string>
+    <string name="category_add_subtitle">Les applis correspondantes s\'y rangent aussitôt.</string>
+    <string name="category_create_your_own">En créer une</string>
+    <string name="premium_feature_immersive">Écran d\'accueil immersif</string>
+    <string name="premium_feature_immersive_desc">Masquez les barres système, affichez votre propre ligne d\'état et désactivez le dock.</string>
+    <string name="category_sort_title">Ranger les applis</string>
+    <string name="category_sort_move">Choisissez les applis à déplacer</string>
+    <string name="category_sort_move_count">Déplacer %1$d applis</string>
+    <string name="category_sort_pick">Déplacer vers</string>
+    <string name="category_uncategorised">Non rangée</string>
+    <string name="category_personalization">Personnalisation</string>
+</resources>

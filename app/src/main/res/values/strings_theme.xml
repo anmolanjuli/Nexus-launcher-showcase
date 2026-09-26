@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme & Colors -->
+    <string name="settings_section_theme">Theme</string>
+    <string name="theme_mode_auto">Automatic</string>
+    <string name="theme_mode_light">Light</string>
+    <string name="theme_mode_dark">Dark</string>
+    <string name="theme_mode_amoled">AMOLED</string>
+    <string name="theme_mode_calm">Calm</string>
+    <string name="settings_section_calm_palette">Calm Palette</string>
+    <string name="calm_palette_rich_sand">Rich Sand</string>
+    <string name="calm_palette_golden_sand">Golden Sand</string>
+    <string name="calm_palette_ocean_blue">Ocean Blue</string>
+    <string name="calm_palette_navy_ink">Navy Ink</string>
+    <string name="calm_palette_deep_navy">Deep Navy</string>
+    <string name="calm_palette_ember_red">Ember Red</string>
+    <string name="calm_palette_forest_green">Forest Green</string>
+    <string name="calm_palette_amber_dusk">Amber Dusk</string>
+    <string name="calm_palette_burnt_orange">Burnt Orange</string>
+    <string name="calm_palette_deep_plum">Deep Plum</string>
+    <string name="calm_palette_slate_grey">Slate Grey</string>
+    <string name="settings_section_background_layer">Background Layer</string>
+    <string name="bg_layer_wallpaper">Wallpaper</string>
+    <string name="bg_layer_theme_color">Theme Color</string>
+    <string name="settings_section_accent_color">Accent Color</string>
+    <string name="settings_section_color_accessibility">Color Accessibility</string>
+    <string name="color_accessibility_subtitle">Adjust accents for color vision deficiencies</string>
+    <string name="color_accessibility_off">Off</string>
+    <string name="color_accessibility_red_green">Red-Green</string>
+    <string name="color_accessibility_blue_yellow">Blue-Yellow</string>
+    <string name="settings_section_badge_color">Notification badge color</string>
+    <string name="settings_section_icons">Icons</string>
+    <string name="settings_themed_icons">Themed Icons</string>
+    <string name="settings_badge_beta">Beta</string>
+    <string name="settings_themed_icons_subtitle">Match icon style to your theme colors</string>
+    <string name="settings_ui_option">UI Style</string>
+    <string name="settings_ui_option_subtitle">How widgets, folders, and the dock render by default</string>
+    <string name="ui_option_neumorphism">Neumorphism</string>
+    <string name="ui_option_default">Default</string>
+    <string name="ui_option_frosted_glass">Frosted Glass</string>
+
+    <!-- Language Settings -->
+    <string name="settings_section_language">Language</string>
+    <string name="locale_system_default">System default</string>
+    <string name="locale_english">English</string>
+    <string name="locale_nepali">नेपाली (Nepali)</string>
+    <string name="locale_arabic">العربية (Arabic)</string>
+    <string name="locale_hebrew">עברית (Hebrew)</string>
+    <string name="locale_spanish">Spanish</string>
+    <string name="locale_portuguese_br">Portuguese (Brazil)</string>
+    <string name="locale_hindi">Hindi</string>
+    <string name="locale_indonesian">Indonesian</string>
+    <string name="locale_german">German</string>
+    <string name="locale_french">French</string>
+
+    <!-- Font Family Settings -->
+    <string name="settings_section_font">Font Family</string>
+    <string name="font_family_nexus_default">Nexus Default</string>
+    <string name="font_family_system">System Default</string>
+    <string name="font_family_sans_serif">Sans</string>
+    <string name="font_family_serif">Serif</string>
+    <string name="font_family_monospace">Mono</string>
+    <string name="font_family_sans_serif_medium">Medium</string>
+</resources>

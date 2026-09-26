@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NexusLauncher" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!--
+        Settings does not need a see-through window: SettingsFrostBackdropView renders the blurred
+        wallpaper itself from HomeScreenFrameCache, and outside Frosted Glass the fragment
+        container is opaque anyway. Inheriting the launcher's transparent, wallpaper-showing window
+        meant that every activity relaunch - and a language change forces one, via
+        AppCompatDelegate.setApplicationLocales - flashed the home wallpaper between the old
+        Settings and the new one. That flash is what read as a flicker.
+    -->
+    <style name="Theme.NexusLauncher.Settings" parent="Theme.NexusLauncher">
+        <item name="android:windowBackground">@color/settings_window_bg</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+
+    <!--
+        Applied only for the activity instance that comes up after setApplicationLocales.
+        windowDisablePreview keeps the previous frame on screen instead of flashing the static
+        windowBackground during the destroy/create gap.
+    -->
+    <style name="Theme.NexusLauncher.Settings.LocaleSwitch" parent="Theme.NexusLauncher.Settings">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="NexusFolderEditSection">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textColor">@color/nexus_mist_blue</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+
+    <style name="NexusFolderEditSectionCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/settings_card_bg</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+</resources>

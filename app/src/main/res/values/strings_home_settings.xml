@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen Settings Page -->
+    <string name="home_settings_grid_layout_title">Grid Layout</string>
+    <string name="home_settings_grid_layout_subtitle">Columns, rows, icon size, labels &amp; indicator</string>
+    <string name="home_settings_columns">Columns</string>
+    <string name="home_settings_columns_subtitle">Changes column count</string>
+    <string name="home_settings_rows">Rows</string>
+    <string name="home_settings_rows_subtitle">Changes row count</string>
+    <string name="home_settings_icon_size">Icon Size</string>
+    <string name="home_settings_icon_size_subtitle">Scales app icon dimensions</string>
+    <string name="home_settings_app_label">App Label</string>
+    <string name="home_settings_app_label_subtitle">Display app names beneath icons</string>
+    <string name="home_settings_page_indicator">Page Indicator</string>
+    <string name="home_settings_page_indicator_subtitle">Dots indicating current page</string>
+
+    <string name="home_settings_screen_spacing_title">Screen Spacing</string>
+    <string name="home_settings_screen_spacing_subtitle">Padding and gaps between apps</string>
+    <string name="home_settings_padding_horizontal">Padding Horizontal</string>
+    <string name="home_settings_padding_horizontal_subtitle">Left and right screen margin</string>
+    <string name="home_settings_padding_vertical">Padding Vertical</string>
+    <string name="home_settings_padding_vertical_subtitle">Top and bottom screen margin</string>
+    <string name="home_settings_gap_horizontal">Gap Horizontal</string>
+    <string name="home_settings_gap_horizontal_subtitle">Horizontal spacing between icons</string>
+    <string name="home_settings_gap_vertical">Gap Vertical</string>
+    <string name="home_settings_gap_vertical_subtitle">Vertical spacing between icons</string>
+
+    <string name="home_settings_transitions_title">Transitions</string>
+    <string name="home_settings_page_transition">Page Transition</string>
+    <string name="home_settings_transition_none">None</string>
+    <string name="home_settings_transition_slide">Slide</string>
+    <string name="home_settings_transition_fade">Fade</string>
+    <string name="home_settings_transition_cube">Cube</string>
+    <string name="home_settings_transition_zoom">Zoom</string>
+    <string name="home_settings_transition_flip">Flip</string>
+    <string name="home_settings_transition_gravity_fold">Gravity Fold</string>
+    <string name="home_settings_reduce_motion">Reduce Motion</string>
+    <string name="home_settings_reduce_motion_subtitle">Minimize launcher animations</string>
+    <string name="home_settings_transition_speed">Transition Speed</string>
+    <string name="home_settings_transition_speed_subtitle">Speed of page swipe transitions</string>
+
+    <string name="home_settings_news_feed_title">News Feed</string>
+    <string name="home_settings_news_feed_subtitle">RSS feeds</string>
+    <string name="home_settings_show_feed">Swipe right to access RSS feed</string>
+    <string name="home_settings_show_feed_subtitle">Display Google / RSS news feed on leftmost screen</string>
+    <string name="home_settings_immersive">Immersive Mode</string>
+    <string name="home_settings_immersive_subtitle">Hide the status and navigation bars. Swipe from the edge to show them.</string>
+    <string name="home_settings_status_info">Immersive Status Bar</string>
+    <string name="home_settings_status_info_subtitle">Shown by the camera in Immersive Mode</string>
+    <string name="status_item_clock">Clock</string>
+    <string name="status_item_notifications">Notifications</string>
+    <string name="status_item_wifi">Wi-Fi</string>
+    <string name="status_item_signal">Mobile signal</string>
+    <string name="status_item_battery">Battery</string>
+    <string name="home_settings_show_dock">Show Dock</string>
+    <string name="home_settings_show_dock_subtitle">When off, the grid uses the dock\'s space.</string>
+</resources>

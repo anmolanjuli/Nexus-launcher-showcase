@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">Modo de tema</string>
+    <string name="widget_lacrosse_theme_classic">LCD clásico</string>
+    <string name="widget_lacrosse_theme_themed">LCD temático</string>
+    <string name="widget_lacrosse_theme_ice">LCD hielo</string>
+    <string name="widget_lacrosse_time_format">Formato de hora</string>
+    <string name="widget_lacrosse_time_format_system">Sistema</string>
+    <string name="widget_lacrosse_time_format_12h">12 horas</string>
+    <string name="widget_lacrosse_time_format_24h">24 horas</string>
+    <string name="widget_lacrosse_month_format">Formato de mes</string>
+    <string name="widget_lacrosse_month_format_abbrev">Texto (ENE)</string>
+    <string name="widget_lacrosse_month_format_numeric">Número (1-12)</string>
+    <string name="widget_lacrosse_field_time">Mostrar hora</string>
+    <string name="widget_lacrosse_field_ampm">Mostrar AM/PM</string>
+    <string name="widget_lacrosse_field_month">Mostrar mes</string>
+    <string name="widget_lacrosse_field_date">Mostrar fecha</string>
+    <string name="widget_lacrosse_field_day">Mostrar día</string>
+    <string name="widget_lacrosse_field_temp">Mostrar temperatura</string>
+    <string name="widget_lacrosse_ghost_segments">Segmentos fantasma</string>
+    <string name="widget_lacrosse_divider_lines">Líneas divisorias</string>
+</resources>

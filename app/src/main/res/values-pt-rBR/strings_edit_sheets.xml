@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">Toque para renomear</string>
+    <string name="edit_sheet_app_name_hint">Nome do aplicativo</string>
+    <string name="edit_sheet_section_appearance">APARÊNCIA</string>
+    <string name="edit_sheet_icon_source">FONTE DO ÍCONE</string>
+    <string name="edit_sheet_section_gestures">GESTOS</string>
+    <string name="edit_sheet_gestures">Gestos</string>
+    <string name="edit_sheet_gallery">Galeria</string>
+    <string name="edit_sheet_swipe_up">Deslize para cima</string>
+    <string name="edit_sheet_swipe_down">Deslize para baixo</string>
+    <string name="edit_sheet_double_tap">Toque duas vezes</string>
+    <string name="edit_sheet_app_uninstalled">(Aplicativo não instalado mais)</string>
+    <string name="edit_sheet_unnamed_folder">Pasta sem nome</string>
+    <string name="edit_sheet_invalid_folder">(Pasta inválida)</string>
+    <string name="edit_sheet_shortcut_unavailable">(O atalho não está mais disponível)</string>
+    <string name="edit_sheet_invalid_shortcut">(Atalho inválido)</string>
+    <string name="folder_edit_window">Janela</string>
+    <string name="folder_edit_window_opacity">Opacidade da janela</string>
+    <string name="folder_edit_icon">Ícone</string>
+    <string name="folder_edit_icon_opacity">Opacidade do ícone</string>
+    <string name="folder_edit_name_hint">Nome da pasta</string>
+    <string name="folder_edit_section_appearance">Aparência</string>
+    <string name="folder_edit_section_layout">Disposição</string>
+    <string name="folder_edit_section_gestures">Gestos</string>
+    <string name="folder_edit_glass_refraction">Refração de vidro</string>
+    <string name="folder_edit_preview_style">Estilo de visualização</string>
+    <string name="folder_edit_columns">Colunas</string>
+    <string name="folder_edit_show_labels">Mostrar rótulos de aplicativos</string>
+    <string name="folder_edit_expressive_gradient">Gradiente Expressivo</string>
+    <string name="folder_preview_style_grid">Grade</string>
+    <string name="folder_preview_style_fan">Fã de 3</string>
+    <string name="folder_preview_style_hero_orbit">Herói + Órbita</string>
+    <string name="folder_preview_style_custom_icon">Ícone personalizado</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">Nova pasta</string>
+</resources>

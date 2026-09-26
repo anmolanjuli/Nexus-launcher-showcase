@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clock_style_lacrosse_lcd">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_section_title">Nexus Chrono Station</string>
+    <string name="widget_lacrosse_theme_mode">מצב ערכת נושא</string>
+    <string name="widget_lacrosse_theme_classic">LCD קלאסי</string>
+    <string name="widget_lacrosse_theme_themed">LCD מותאם לערכת נושא</string>
+    <string name="widget_lacrosse_theme_ice">LCD קרח</string>
+    <string name="widget_lacrosse_time_format">פורמט זמן</string>
+    <string name="widget_lacrosse_time_format_system">מערכת</string>
+    <string name="widget_lacrosse_time_format_12h">12 שעות</string>
+    <string name="widget_lacrosse_time_format_24h">24 שעות</string>
+    <string name="widget_lacrosse_month_format">פורמט חודש</string>
+    <string name="widget_lacrosse_month_format_abbrev">טקסט (JAN)</string>
+    <string name="widget_lacrosse_month_format_numeric">מספר (1-12)</string>
+    <string name="widget_lacrosse_field_time">הצג שעה</string>
+    <string name="widget_lacrosse_field_ampm">הצג AM/PM</string>
+    <string name="widget_lacrosse_field_month">הצג חודש</string>
+    <string name="widget_lacrosse_field_date">הצג תאריך</string>
+    <string name="widget_lacrosse_field_day">הצג יום</string>
+    <string name="widget_lacrosse_field_temp">הצג טמפרטורה</string>
+    <string name="widget_lacrosse_ghost_segments">מקטעי רפאים (Ghost)</string>
+    <string name="widget_lacrosse_divider_lines">קווי הפרדה</string>
+</resources>

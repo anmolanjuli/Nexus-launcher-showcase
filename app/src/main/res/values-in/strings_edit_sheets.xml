@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">Ketuk untuk mengganti nama</string>
+    <string name="edit_sheet_app_name_hint">Nama Aplikasi</string>
+    <string name="edit_sheet_section_appearance">PENAMPILAN</string>
+    <string name="edit_sheet_icon_source">SUMBER IKON</string>
+    <string name="edit_sheet_section_gestures">GERAKAN</string>
+    <string name="edit_sheet_gestures">Gerakan</string>
+    <string name="edit_sheet_gallery">Galeri</string>
+    <string name="edit_sheet_swipe_up">Geser ke Atas</string>
+    <string name="edit_sheet_swipe_down">Geser ke Bawah</string>
+    <string name="edit_sheet_double_tap">Ketuk dua kali</string>
+    <string name="edit_sheet_app_uninstalled">(Aplikasi tidak lagi diinstal)</string>
+    <string name="edit_sheet_unnamed_folder">Folder Tanpa Nama</string>
+    <string name="edit_sheet_invalid_folder">(Folder Tidak Valid)</string>
+    <string name="edit_sheet_shortcut_unavailable">(Pintasan tidak lagi tersedia)</string>
+    <string name="edit_sheet_invalid_shortcut">(Pintasan Tidak Valid)</string>
+    <string name="folder_edit_window">Jendela</string>
+    <string name="folder_edit_window_opacity">Opasitas Jendela</string>
+    <string name="folder_edit_icon">Ikon</string>
+    <string name="folder_edit_icon_opacity">Opasitas Ikon</string>
+    <string name="folder_edit_name_hint">Nama Folder</string>
+    <string name="folder_edit_section_appearance">Penampilan</string>
+    <string name="folder_edit_section_layout">Tata Letak</string>
+    <string name="folder_edit_section_gestures">Gerakan</string>
+    <string name="folder_edit_glass_refraction">Pembiasan Kaca</string>
+    <string name="folder_edit_preview_style">Gaya Pratinjau</string>
+    <string name="folder_edit_columns">Kolom</string>
+    <string name="folder_edit_show_labels">Tampilkan Label Aplikasi</string>
+    <string name="folder_edit_expressive_gradient">Gradien Ekspresif</string>
+    <string name="folder_preview_style_grid">Jaringan</string>
+    <string name="folder_preview_style_fan">Penggemar 3</string>
+    <string name="folder_preview_style_hero_orbit">Pahlawan + Orbit</string>
+    <string name="folder_preview_style_custom_icon">Ikon Kustom</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">Folder Baru</string>
+</resources>

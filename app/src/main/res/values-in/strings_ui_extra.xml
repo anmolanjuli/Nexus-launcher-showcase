@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">Kelola Halaman</string>
+    <string name="manage_pages_subtitle_one">1 halaman · Beranda adalah %1$d</string>
+    <string name="hidden_apps_empty">Tidak ada aplikasi tersembunyi</string>
+    <string name="hidden_apps_unhide">Perlihatkan</string>
+    <string name="folder_cover_icon_title">Pilih Ikon Sampul</string>
+    <string name="folder_menu_remove_from_folder">Hapus dari Folder</string>
+    <string name="folder_sort_custom">Adat</string>
+    <string name="folder_picker_add_remove">Tambahkan %1$d , Hapus %2$d</string>
+    <string name="folder_picker_no_changes">Tidak Ada Perubahan</string>
+    <string name="toast_app_already_exists">Aplikasi sudah ada</string>
+    <string name="picker_add_apps_to_folder">Tambahkan Aplikasi ke Folder</string>
+    <string name="picker_add_apps_to_home">Tambahkan Aplikasi ke Rumah</string>
+    <string name="picker_show_other_folder_apps">Tampilkan aplikasi di folder lain</string>
+    <string name="picker_no_apps_found">Tidak ada aplikasi yang ditemukan</string>
+    <string name="picker_no_apps_match">Tidak ada aplikasi yang cocok dengan “%1$s”</string>
+    <string name="picker_save_changes_counts">Simpan Perubahan (+ %1$d , − %2$d )</string>
+    <string name="picker_remove_all_apps">Hapus Semua Aplikasi</string>
+    <string name="action_done">Selesai</string>
+    <string name="picker_select_shortcut">Pilih Pintasan</string>
+    <string name="picker_search_shortcuts">Pintasan penelusuran…</string>
+    <string name="picker_no_shortcuts_title">Tidak ada jalan pintas yang tersedia</string>
+    <string name="picker_no_shortcuts_desc">Harus ditetapkan sebagai peluncur default untuk mengakses pintasan.</string>
+    <string name="picker_no_results">Tidak ada hasil yang ditemukan</string>
+    <string name="picker_no_shortcuts_match">Tidak ada pintasan yang cocok dengan “%1$s”</string>
+    <string name="gesture_pick_folder_title">Pilih Folder</string>
+    <string name="gesture_no_folders">Tidak ada folder yang tersedia</string>
+    <string name="gesture_pick_page_title">Pilih Halaman</string>
+    <string name="wallpaper_set_title">Setel Kertas Dinding</string>
+    <string name="wallpaper_select_tint">Pilih Warna Warna</string>
+    <string name="wallpaper_more">Lebih lanjut</string>
+    <string name="wallpaper_no_other_apps">Tidak ada aplikasi wallpaper lain yang ditemukan</string>
+    <string name="wallpaper_type_system">Sistem</string>
+    <string name="wallpaper_type_gradient">Gradien</string>
+    <string name="wallpaper_type_others">Lainnya</string>
+    <string name="wallpaper_dim">Redup</string>
+    <string name="wallpaper_tint_strength">Kekuatan</string>
+    <string name="frost_capture_channel">Pengambilan wallpaper</string>
+    <string name="frost_capture_notification">Menangkap wallpaper untuk embun beku</string>
+    <string name="frost_tab_explainer">Wallpaper Anda saat ini dikelola di luar Nexus, jadi kaca buram perlu diambil satu kali agar buram di balik widget dan folder. Android akan meminta Anda mengonfirmasi tangkapan layar singkat — aplikasi ini menyembunyikan ikon/widgetnya terlebih dahulu, mengambil satu bingkai, dan segera berhenti, sehingga hanya wallpaper itu sendiri yang disimpan.</string>
+    <string name="frost_tab_theme_color_warning">Lapisan Latar Belakang diatur ke “Warna Tema” di Pengaturan Tema, yang menggantikan wallpaper dengan warna datar di mana pun — termasuk embun beku. Frost tidak akan menampilkan wallpaper yang Anda ambil sampai wallpaper ini dialihkan ke \"Wallpaper\".</string>
+    <string name="frost_tab_switch_layer">Ganti Lapisan Latar Belakang ke Wallpaper</string>
+    <string name="frost_tab_disabled_warning">Kaca Buram dinonaktifkan di Setelan Nexus &gt; Tampilan — embun beku tidak akan terlihat di mana pun, termasuk di sini, hingga diaktifkan kembali.</string>
+    <string name="frost_capture_status_set">Penangkapan es: siap</string>
+    <string name="frost_capture_status_unset">Pengambilan gambar beku: tidak disetel — permukaan yang buram akan terlihat datar sampai Anda menangkapnya</string>
+    <string name="frost_capturing">Menangkap…</string>
+    <string name="frost_capture_failed">Pengambilan gagal — coba lagi</string>
+    <string name="frost_capture_clear">Hapus wallpaper yang diambil</string>
+    <string name="widget_picker_search">Cari widget…</string>
+    <string name="widget_picker_system_only">Hanya widget sistem — pilih penyedia untuk mosaik ini</string>
+    <string name="widget_picker_empty">Tidak ada widget yang ditemukan</string>
+    <string name="mosaic_empty_swipe_or_add">Gesek atau tambahkan widget</string>
+    <string name="mosaic_empty_long_press">Tekan lama untuk menambahkan widget</string>
+    <string name="mosaic_focus_title">Fokus Widget</string>
+    <string name="mosaic_open_app">Buka aplikasi</string>
+    <string name="mosaic_manager_hint">Seret pegangan untuk menyusun ulang. Bintang menandai widget Pahlawan.</string>
+    <string name="mosaic_empty_slot">Slot Kosong</string>
+    <string name="mosaic_widget_number">Widget #%1$d</string>
+    <string name="calendar_event_no_title">(Tidak ada judul)</string>
+    <string name="widget_preview_note_title">Ide &amp; Pemikiran</string>
+    <string name="widget_preview_note_body">Tinjau matriks Eisenhower, perbarui tema widget, dan jelajahi kisi tata letak baru.</string>
+    <string name="reader_empty_file">Berkas kosong.</string>
+    <string name="reader_chapter_fallback">Bab %1$d</string>
+    <string name="feed_empty_search">Tidak ditemukan artikel yang cocok dengan “%1$s”</string>
+    <string name="feed_empty_saved">Belum ada artikel yang disimpan. Tekan lama kartu apa saja untuk menyimpannya.</string>
+    <string name="feed_empty_category">Tidak ada sumber dalam kategori ini — tambahkan satu di pengaturan.</string>
+    <string name="feed_empty_recent">Tidak ada berita dari 24 jam terakhir. Tarik ke bawah untuk menyegarkan atau memeriksa Jelajahi.</string>
+    <string name="feed_empty_default">Belum ada artikel. Periksa sumber atau tarik ke bawah untuk menyegarkan.</string>
+    <string name="feed_load_failed">Gagal memuat umpan</string>
+    <string name="feed_fetching">Mengambil…</string>
+    <string name="feed_time_just_now">sekarang</string>
+    <string name="feed_time_minutes">%1$d m yang lalu</string>
+    <string name="feed_time_hours">%1$d jam yang lalu</string>
+    <string name="feed_time_days">%1$d hari yang lalu</string>
+    <string name="feed_time_weeks">%1$d kemarin</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="other">Tambahkan %d aplikasi ke Folder</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="other">Hapus %d aplikasi dari Folder</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="other">%d aplikasi</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="other">Tambahkan %d Aplikasi</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="other">Hapus %d Aplikasi</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="other">Tambahkan %d Aplikasi ke Beranda</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="other">%d artikel</item>
+    </plurals>
+    <string name="category_new">Kategori baru</string>
+    <string name="category_name_hint">Nama kategori</string>
+    <string name="category_edit">Sunting kategori</string>
+    <string name="category_delete_title">Hapus “%1$s”?</string>
+    <string name="category_delete_body">Aplikasinya tetap berada di laci dan masih ditampilkan di bawah Semua.</string>
+    <string name="category_restore_defaults">Pulihkan kategori default</string>
+    <string name="category_icon_title">Pilih ikon</string>
+    <string name="category_icon_default">Gunakan bawaan</string>
+    <string name="category_rename_title">Ganti nama kategori</string>
+    <string name="category_edit_hint">Ketuk ikon atau nama untuk mengubahnya</string>
+</resources>

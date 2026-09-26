@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">एक उंगली स्वाइप करें</string>
+    <string name="gestures_one_finger_desc">घर की खाली जगह पर एक उंगली से स्वाइप करने की क्रियाएं</string>
+    <string name="gestures_two_finger_title">दो अंगुलियों से स्वाइप करें</string>
+    <string name="gestures_two_finger_desc">घर की खाली जगह पर दो उंगलियों से स्वाइप करने की क्रियाएं</string>
+    <string name="gesture_swipe_up">ऊपर की ओर स्वाइप करें</string>
+    <string name="gesture_swipe_down">नीचे स्वाइप करें</string>
+    <string name="gesture_two_finger_swipe_up">दो उंगलियों से ऊपर की ओर स्वाइप करें</string>
+    <string name="gesture_two_finger_swipe_down">दो उंगलियों से नीचे की ओर स्वाइप करें</string>
+    <string name="gesture_action_none">कोई नहीं</string>
+    <string name="gesture_action_open_app_info">ऐप की जानकारी खोलें</string>
+    <string name="gesture_action_lock_screen">लॉक स्क्रीन</string>
+    <string name="gesture_action_toggle_flashlight">टॉर्च टॉगल करें</string>
+    <string name="gesture_action_open_app_drawer">ऐप ड्रॉअर खोलें</string>
+    <string name="gesture_action_open_specific_app">विशिष्ट ऐप खोलें</string>
+    <string name="gesture_action_open_specific_page">विशिष्ट पृष्ठ खोलें</string>
+    <string name="gesture_action_open_specific_folder">विशिष्ट फ़ोल्डर खोलें</string>
+    <string name="gesture_action_open_specific_shortcut">विशिष्ट शॉर्टकट खोलें</string>
+    <string name="gesture_action_expand_notifications">अधिसूचनाएँ विस्तृत करें</string>
+    <string name="gesture_action_open_quick_settings">त्वरित सेटिंग्स खोलें</string>
+    <string name="gesture_action_show_recents">हाल ही दिखाएं</string>
+    <string name="gesture_action_take_screenshot">स्क्रीनशॉट लें</string>
+    <string name="gesture_action_show_power_menu">पावर मेनू दिखाएँ</string>
+    <string name="gesture_action_open_search">खोज खोलें</string>
+    <string name="gesture_action_next_page">अगला पृष्ठ</string>
+    <string name="gesture_action_prev_page">पिछला पृष्ठ</string>
+    <string name="gesture_action_toggle_labels">लेबल टॉगल करें</string>
+    <string name="gesture_action_open_home_edit">होम संपादन मोड</string>
+    <string name="gesture_action_split_screen">स्प्लिट स्क्रीन</string>
+    <string name="gesture_requires_accessibility">पहुंच की आवश्यकता है</string>
+</resources>

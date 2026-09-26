@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gestures_one_finger_title">Deslizar un dedo</string>
+    <string name="gestures_one_finger_desc">Acciones de deslizamiento con un solo dedo en un espacio vacío de la casa</string>
+    <string name="gestures_two_finger_title">Deslizar dos dedos</string>
+    <string name="gestures_two_finger_desc">Acciones de deslizar dos dedos en un espacio vacío de la casa</string>
+    <string name="gesture_swipe_up">Deslizar hacia arriba</string>
+    <string name="gesture_swipe_down">Deslizar hacia abajo</string>
+    <string name="gesture_two_finger_swipe_up">Deslizar dos dedos hacia arriba</string>
+    <string name="gesture_two_finger_swipe_down">Deslizar dos dedos hacia abajo</string>
+    <string name="gesture_action_none">Ninguno</string>
+    <string name="gesture_action_open_app_info">Abrir información de la aplicación</string>
+    <string name="gesture_action_lock_screen">Pantalla de bloqueo</string>
+    <string name="gesture_action_toggle_flashlight">Alternar linterna</string>
+    <string name="gesture_action_open_app_drawer">Abrir cajón de aplicaciones</string>
+    <string name="gesture_action_open_specific_app">Abrir aplicación específica</string>
+    <string name="gesture_action_open_specific_page">Abrir página específica</string>
+    <string name="gesture_action_open_specific_folder">Abrir carpeta específica</string>
+    <string name="gesture_action_open_specific_shortcut">Abrir acceso directo específico</string>
+    <string name="gesture_action_expand_notifications">Expandir notificaciones</string>
+    <string name="gesture_action_open_quick_settings">Abrir configuración rápida</string>
+    <string name="gesture_action_show_recents">Mostrar recientes</string>
+    <string name="gesture_action_take_screenshot">Tomar captura de pantalla</string>
+    <string name="gesture_action_show_power_menu">Mostrar menú de energía</string>
+    <string name="gesture_action_open_search">Abrir búsqueda</string>
+    <string name="gesture_action_next_page">Página siguiente</string>
+    <string name="gesture_action_prev_page">Página anterior</string>
+    <string name="gesture_action_toggle_labels">Alternar etiquetas</string>
+    <string name="gesture_action_open_home_edit">Modo de edición de inicio</string>
+    <string name="gesture_action_split_screen">Pantalla dividida</string>
+    <string name="gesture_requires_accessibility">Requiere accesibilidad</string>
+</resources>

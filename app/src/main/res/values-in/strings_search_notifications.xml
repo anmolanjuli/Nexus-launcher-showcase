@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">Akses Notifikasi</string>
+    <string name="notification_access_desc">Diperlukan untuk jumlah lencana dan widget Musik</string>
+    <string name="storage_access_title">Penyimpanan &amp; Akses Media</string>
+    <string name="storage_access_desc">Diperlukan untuk blur pada wallpaper pihak ketiga</string>
+    <string name="accessibility_service_title">Layanan Aksesibilitas</string>
+    <string name="accessibility_service_desc">Diperlukan untuk tindakan isyarat global</string>
+    <string name="app_usage_title">Akses Penggunaan Aplikasi</string>
+    <string name="app_usage_desc">Diperlukan untuk gerakan Terbaru dan cahaya bintang</string>
+    <string name="location_access_title">Akses Lokasi</string>
+    <string name="location_access_desc">Diperlukan untuk widget Cuaca</string>
+    <string name="system_permissions_title">Sistem &amp; Izin</string>
+    <string name="permissions_granted_format">%1$d dari %2$d izin diberikan</string>
+    <string name="permission_status_granted">Memang benar</string>
+    <string name="permission_status_tap_to_enable">Ketuk untuk mengaktifkan</string>
+    <string name="permission_status_enabled">Diaktifkan</string>
+    <string name="badge_header_title">Lencana Pemberitahuan</string>
+    <string name="badge_app_icon_title">Lencana Ikon Aplikasi</string>
+    <string name="badge_app_icon_subtitle">Jumlah numerik atau titik notifikasi pada ikon aplikasi</string>
+    <string name="badge_folder_title">Lencana Folder</string>
+    <string name="badge_folder_subtitle">Jumlah total dari semua aplikasi di dalam folder</string>
+    <string name="badge_opt_off">Mati</string>
+    <string name="badge_opt_dot">Titik</string>
+    <string name="badge_opt_count">Hitung</string>
+    <string name="badge_color_custom_hint">%1$s • Ketuk lingkaran untuk kustom</string>
+    <string name="badge_color_red">Merah</string>
+    <string name="badge_color_green">Hijau</string>
+    <string name="badge_color_blue">Biru</string>
+    <string name="badge_color_red_default">Merah (Bawaan)</string>
+    <string name="badge_summary_format">Aplikasi: %1$s • Folder: %2$s</string>
+    <string name="search_micro_actions_title">Tindakan Mikro</string>
+    <string name="search_micro_actions_desc">Perhitungan instan dan konversi unit langsung dalam pencarian</string>
+    <string name="search_sources_title">Sumber Pencarian</string>
+    <string name="search_sources_desc">Item perangkat dan penyedia pencarian eksternal</string>
+    <string name="search_calc_title">Kalkulator</string>
+    <string name="search_calc_desc">Selesaikan persamaan matematika secara langsung dalam pencarian</string>
+    <string name="search_conv_title">Konversi Satuan</string>
+    <string name="search_conv_desc">Konversi mata uang, metrik, dan satuan pengukuran</string>
+    <string name="search_contacts_title">Kontak</string>
+    <string name="search_contacts_desc">Tampilkan kontak perangkat yang cocok di hasil pencarian</string>
+    <string name="search_web_title">Pencarian Web</string>
+    <string name="search_web_desc">Tampilkan saran web dan pintasan mesin telusur default</string>
+    <string name="search_maps_title">Pencarian Peta</string>
+    <string name="search_maps_desc">Tampilkan opsi Peta ketika kueri tidak memiliki aplikasi atau kontak yang cocok</string>
+</resources>

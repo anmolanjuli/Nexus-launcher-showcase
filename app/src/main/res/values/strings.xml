@@ -1,0 +1,660 @@
+<resources>
+    <string name="app_name" translatable="false">Nexus Launcher</string>
+    <string name="accessibility_service_description">Nexus Launcher needs Accessibility permissions to perform global gesture actions such as opening Recent Apps, taking Screenshots, or showing the Power Menu.</string>
+    <!-- General Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_select">Select</string>
+    <string name="action_close">Close</string>
+    <string name="action_search">Search</string>
+    <string name="action_new">New</string>
+    <string name="action_recent">Recent</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_apps">Sort apps</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_add_apps">Add Apps</string>
+    <string name="action_add_to_home">Add to Home</string>
+    <string name="action_ok">OK</string>
+    <string name="action_back">Back</string>
+    <string name="action_proceed">Proceed</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_create_folder">Create Folder</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="action_pin">Pin</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="action_resize">Resize</string>
+    <string name="action_set_category">Set Category</string>
+
+    <!-- Context Menus -->
+    <string name="menu_dock_settings">Dock Settings</string>
+    <string name="menu_hide_app">Hide App</string>
+    <string name="menu_unhide_app">Unhide App</string>
+    <string name="menu_widgets">Widgets</string>
+    <string name="menu_change_category">Change Category</string>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_social">Social</string>
+    <string name="category_media">Media</string>
+    <string name="category_games">Games</string>
+    <string name="category_productivity">Productivity</string>
+    <string name="category_finance">Finance</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_system">System</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d app</item>
+        <item quantity="other">%1$d apps</item>
+    </plurals>
+
+    <!-- Toasts -->
+    <string name="toast_cannot_launch_shortcut">Cannot launch shortcut</string>
+    <!-- Content Descriptions & Widgets -->
+    <string name="content_desc_widget_preview">Widget preview</string>
+    <string name="content_desc_switch_mosaic_mode">Switch Mosaic view mode</string>
+    <string name="content_desc_current_hero_widget">Current Hero widget</string>
+    <string name="content_desc_make_hero_widget">Make Hero widget</string>
+    <string name="widget_settings_title">Widget Settings</string>
+    <!-- Settings -->
+    <string name="title_wallpaper">Wallpaper</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_home_screen">Home Screen</string>
+    <string name="settings_section_app_drawer">App Drawer</string>
+
+    <!-- Backup & Restore -->
+    <string name="backup_subtitle">Save home screen and widgets to a zip file</string>
+    <string name="import_nova_title">Import from Nova Launcher</string>
+    <string name="import_nova_subtitle">Restore from a .novabackup (replaces current layout)</string>
+    <string name="import_nova_dialog_title">Import Nova Backup</string>
+    <string name="import_nova_dialog_message">This will import your Nova Launcher home screen layout and REPLACE your current Nexus home screen. Note: only app/folder/widget positions transfer — wallpaper, theme, icon pack, and gesture settings will NOT be imported.</string>
+
+    <!-- Dock Settings Sheet -->
+    <string name="dock_settings_title">Dock Settings</string>
+    <string name="dock_settings_section_layout">LAYOUT &amp; SIZING</string>
+    <string name="dock_settings_section_background">BACKGROUND</string>
+    <string name="dock_settings_section_labels">LABELS &amp; SEARCH</string>
+    <string name="dock_settings_max_icons">Max Icons</string>
+    <string name="dock_settings_icon_size">Icon Size</string>
+    <string name="dock_settings_height">Height</string>
+    <string name="dock_settings_corner_radius">Corner Radius</string>
+    <string name="dock_settings_show_labels">Show Labels</string>
+    <string name="dock_settings_font_size">Font Size</string>
+    <string name="dock_settings_show_search">Show Search</string>
+    <string name="dock_settings_opacity">Opacity</string>
+    <string name="dock_settings_shuffle_motion_title">Shuffle Motion (glide and hover scale while rearranging)</string>
+    <string name="dock_settings_shuffle_motion_desc">Set to 0% to shuffle instantly</string>
+    <string name="dock_settings_zigzag_layout">Zigzag Layout</string>
+    <string name="dock_settings_background">Background</string>
+    <string name="dock_settings_color">Color</string>
+
+    <!-- Folder Menus & Edit Sheet -->
+    <string name="folder_default_title">Folder</string>
+    <string name="folder_edit_title">Edit folder</string>
+    <string name="folder_edit_name_label">Folder name</string>
+    <string name="folder_edit_section_preview_style">PREVIEW STYLE</string>
+    <string name="folder_edit_preview_style_desc">How the closed icon looks on Home</string>
+    <string name="folder_edit_section_background">BACKGROUND</string>
+    <string name="folder_edit_opacity_icon">Opacity - Icon</string>
+    <string name="folder_edit_opacity_open_window">Open-window opacity</string>
+    <string name="folder_context_resize">Resize Folder</string>
+    <string name="folder_context_flip">Flip Folder</string>
+    <string name="folder_dialog_rename_title">Rename Folder</string>
+    <string name="folder_dialog_remove_title">Remove Folder?</string>
+    <string name="folder_app_picker_title">Select Apps</string>
+    <string name="folder_app_picker_search_hint">Find apps…</string>
+    <string name="folder_app_picker_include_other_folders">Include apps in other folders</string>
+    <string name="folder_app_picker_save_to_folder">Save to Folder</string>
+    <string name="folder_shape_row_title">Shape</string>
+    <string name="icon_shape_row_title">Shape</string>
+    <string name="icon_shape_section_override">Override</string>
+    <string name="icon_shape_section_shapes">Shapes</string>
+    <string name="folder_shape_category_basic">Classic</string>
+    <string name="folder_shape_category_special">Styled</string>
+    <string name="folder_shape_none">None</string>
+    <string name="folder_shape_round">Round</string>
+    <string name="folder_shape_squircle">Squircle</string>
+    <string name="folder_shape_square">Square</string>
+    <string name="folder_shape_teardrop">Teardrop</string>
+    <string name="folder_shape_hexagon">Hexagon</string>
+    <string name="folder_shape_pebble">Pebble</string>
+    <string name="folder_shape_file_folder">File Tab</string>
+    <string name="folder_shape_soft_capsule">Soft Capsule</string>
+    <string name="folder_shape_ball">Ball</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_discard_title">Discard changes?</string>
+    <string name="dialog_discard_message">Your changes won\'t be saved.</string>
+    <string name="dialog_accessibility_required_title">Accessibility Required</string>
+    <string name="dialog_delete_page_title">Delete Page %1$d?</string>
+    <string name="manage_pages_subtitle">%1$d pages · Home is %2$d</string>
+    <string name="manage_pages_home_badge">Home</string>
+    <string name="backups_title">Backups</string>
+    <string name="backups_subtitle">Browse and restore saved home screens</string>
+    <string name="backup_location_title">Backup Location</string>
+    <string name="backup_location_none">Choose a folder to save backups in</string>
+    <string name="backup_location_missing">Folder unavailable — choose it again</string>
+    <string name="backup_location_internal">Internal storage</string>
+    <string name="backup_location_sd_card">SD card</string>
+    <string name="backup_create_action">Back Up Now</string>
+    <string name="backup_restore_action">Restore</string>
+    <string name="backup_no_previews">No previews in this backup</string>
+    <string name="backups_existing_header">EXISTING BACKUPS</string>
+    <string name="backup_empty_title">No backups yet</string>
+    <string name="backup_empty_body">Back up your home screen and it will show up here as a card you can restore any time.</string>
+    <string name="backup_pick_folder_first">Choose a backup folder first</string>
+    <string name="backup_restore_confirm_title">Restore this backup?</string>
+    <string name="backup_restore_confirm_body">Your current home screen layout, folders and settings will be replaced by \"%1$s\". This cannot be undone.</string>
+    <string name="backup_delete_confirm_title">Delete this backup?</string>
+    <string name="backup_delete_confirm_body">\"%1$s\" will be permanently removed from your backup folder.</string>
+    <string name="backup_menu_delete">Delete</string>
+    <string name="backup_created">Backup saved</string>
+    <string name="backup_create_failed">Could not save backup</string>
+    <string name="backup_deleted">Backup deleted</string>
+    <plurals name="backup_page_count">
+        <item quantity="one">%d page</item>
+        <item quantity="other">%d pages</item>
+    </plurals>
+    <plurals name="backup_item_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="zero">This page has 0 icons. Deleting it will remove all icons on this page.</item>
+        <item quantity="one">This page has 1 icon. Deleting it will remove all icons on this page.</item>
+        <item quantity="two">This page has 2 icons. Deleting it will remove all icons on this page.</item>
+        <item quantity="few">This page has %1$d icons. Deleting it will remove all icons on this page.</item>
+        <item quantity="many">This page has %1$d icons. Deleting it will remove all icons on this page.</item>
+        <item quantity="other">This page has %1$d icons. Deleting it will remove all icons on this page.</item>
+    </plurals>
+    <string name="dialog_restore_attention_title">Restore needs your attention</string>
+    <string name="dialog_restore_attention_message">Some widgets could not be restored:\n\n</string>
+
+    <!-- Selection -->
+    <plurals name="selection_count">
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+
+    <!-- Wallpaper Options -->
+    <string name="wallpaper_option_home_screen">Home Screen</string>
+    <string name="wallpaper_option_lock_screen">Lock Screen</string>
+    <string name="wallpaper_option_both">Both</string>
+
+    <!-- Toasts & Informational Messages -->
+    <string name="toast_backup_imported">Backup imported successfully</string>
+    <string name="toast_import_failed">Import failed: %1$s</string>
+    <string name="toast_nova_backup_imported">Nova Backup imported successfully</string>
+    <string name="toast_nova_import_failed">Nova Import failed: %1$s</string>
+    <string name="toast_settings_applied">Settings applied</string>
+    <string name="toast_cant_delete_last_page">Can\'t delete last page</string>
+    <string name="toast_wallpaper_system_isolate_error">System wallpaper cannot be isolated to lock screen.</string>
+    <string name="toast_wallpaper_lock_render_error">Couldn\'t render lock screen wallpaper</string>
+    <string name="toast_wallpaper_lock_updated">Lock screen updated</string>
+    <string name="toast_wallpaper_lock_failed">Lock screen wallpaper failed — nothing was applied</string>
+    <string name="toast_screenshot_requires_android_9">Screenshot requires Android 9+</string>
+    <string name="toast_app_already_in_folder">This app is already in the folder</string>
+    <string name="toast_drop_not_allowed">Drop not allowed</string>
+    <string name="toast_no_web_browser_found">No web browser found</string>
+    <string name="toast_max_widgets_per_page">Max %1$d widgets per page</string>
+    <string name="toast_at_least_one_page_required">At least one page required</string>
+    <string name="nexus_feed_title">Nexus Feed</string>
+    <string name="nexus_feed_search_hint">Search news…</string>
+    <string name="nexus_feed_tab_feed">Feed</string>
+    <string name="nexus_feed_tab_explore">Explore</string>
+    <string name="nexus_feed_tab_saved">Saved</string>
+    <string name="nexus_feed_tab_settings">Settings</string>
+    <string name="nexus_feed_section_label">Feed</string>
+    <string name="nexus_feed_curated_for_you">Curated for You</string>
+    <string name="nexus_feed_all_curated_added">All curated sources in this category are added</string>
+    <string name="nexus_feed_settings_title">Feed Settings</string>
+    <string name="nexus_feed_refresh_interval_label">Auto-refresh Interval</string>
+    <string name="nexus_feed_manage_sources">Manage Sources</string>
+    <string name="action_add">Add</string>
+    <string name="nexus_feed_add_new_source">Add New Source</string>
+    <string name="nexus_feed_add_source_hint">Paste RSS, website, or r/sub</string>
+    <string name="nexus_feed_source_added">Added \"%1$s\"</string>
+    <string name="nexus_feed_source_add_failed">Failed to resolve feed</string>
+    <string name="nexus_feed_active_sources">Active Sources</string>
+    <string name="nexus_feed_no_sources_yet">No sources added yet</string>
+    <string name="nexus_feed_remove_from_saved">Remove from Saved</string>
+    <string name="nexus_feed_save_story">Save story</string>
+    <string name="nexus_feed_share_story">Share story</string>
+    <string name="nexus_feed_hide_story">Hide this story</string>
+    <string name="nexus_feed_share_via">Share via</string>
+    <string name="nexus_feed_options_title">Feed Options</string>
+    <string name="nexus_feed_headline_only">Headline Only</string>
+    <string name="nexus_feed_headline_only_desc">Collapse cards to text rows</string>
+    <string name="nexus_feed_manage_sources_desc">Sources, refresh &amp; categories</string>
+    <string name="toast_mosaic_page_is_full">Mosaic page is full</string>
+    <string name="toast_widget_restore_complete">Widget restore complete</string>
+    <string name="widget_error_not_installed">App not installed</string>
+    <string name="widget_error_needs_permission">Needs permission</string>
+
+    <!-- Weather Widget -->
+    <string name="weather_enable_location">Enable Location</string>
+    <string name="weather_no_data">No weather data</string>
+    <string name="weather_high_label">H</string>
+    <string name="weather_low_label">L</string>
+    <string name="weather_high_low">%1$s: %2$s°  %3$s: %4$s°</string>
+    <string name="weather_forecast_high_low">%1$s° / %2$s°</string>
+    <string name="weather_today">Today</string>
+    <string name="weather_local_area">Local Area</string>
+    <string name="weather_quick_settings_title">Weather Settings</string>
+    <string name="weather_unit_celsius">Celsius (°C)</string>
+    <string name="weather_unit_fahrenheit">Fahrenheit (°F)</string>
+    <string name="weather_refresh_button">Refresh Forecast</string>
+    <string name="weather_open_location_settings">Location Permissions</string>
+
+    <!-- Calendar Widget -->
+    <string name="calendar_enable_access">Enable Calendar Access</string>
+    <string name="calendar_no_upcoming_events">No upcoming events</string>
+    <string name="calendar_all_day">All Day</string>
+    <plurals name="calendar_events_label">
+        <item quantity="zero">events</item>
+        <item quantity="one">event</item>
+        <item quantity="two">events</item>
+        <item quantity="few">events</item>
+        <item quantity="many">events</item>
+        <item quantity="other">events</item>
+    </plurals>
+
+    <!-- Music Widget -->
+    <string name="music_enable_notification_access">Enable Notification Access</string>
+    <string name="music_for_widget_desc">For music widget</string>
+    <string name="music_not_playing">Not Playing</string>
+
+    <!-- Widget Picker / Catalog -->
+    <string name="widget_name_living_mosaic">Living Mosaic</string>
+    <string name="widget_name_music">Music</string>
+    <string name="widget_name_weather">Weather</string>
+    <string name="widget_name_calendar">Calendar</string>
+    <string name="widget_name_clock">Clock</string>
+    <string name="search_hint">Search...</string>
+    <string name="mock_event_title">Team Sync</string>
+    <string name="widget_style_nexus" translatable="false">Nexus</string>
+    <string name="clock_style_greeting">Dual Card &amp; Greeting</string>
+    <string name="clock_style_retro_lcd">Retro LCD Digital</string>
+    <string name="clock_style_minimal_bauhaus">Minimal Bauhaus Dial</string>
+    <string name="clock_style_bold_typography">Bold Typography</string>
+    <string name="clock_greeting_prefix">Hello, %1$s</string>
+    <string name="clock_greeting_quote">Time is a choice</string>
+    <string name="clock_greeting_quote_2">Make today wonderfully yours.</string>
+    <string name="clock_greeting_quote_3">Focus on the good moments.</string>
+    <string name="clock_greeting_quote_4">Stay curious &amp; kind.</string>
+    <string name="clock_message_title">Clock Message</string>
+    <string name="clock_custom_message_hint">Type short message...</string>
+    <string name="clock_custom_message_dialog_title">Edit Clock Message</string>
+
+    <string name="drawer_grid_or_list_label">Drawer Mode</string>
+    <string name="drawer_grid_or_list_grid">Grid</string>
+    <string name="drawer_grid_or_list_list">List</string>
+    <string name="drawer_grid_or_list_categories">Categories</string>
+    <string name="drawer_category_layout_label">Category Layout</string>
+    <string name="drawer_category_layout_spatial">Spatial</string>
+    <string name="drawer_category_layout_strip">Strip</string>
+    <string name="drawer_category_layout_list">List</string>
+    <string name="drawer_category_layout_subtitle">How categories are arranged in the drawer</string>
+    <string name="drawer_transition_label">Transition</string>
+    <string name="drawer_transition_default">Default</string>
+    <string name="drawer_transition_cube">3D Cube</string>
+    <string name="drawer_transition_zoom">Zoom</string>
+    <string name="drawer_transition_tilt">Tilt</string>
+    <string name="drawer_transition_stack">Card Stack</string>
+    <string name="drawer_transition_default_desc">Stationary progressive unblur with soft landing</string>
+    <string name="drawer_transition_cube_desc">3D vertical cube roll between home and drawer</string>
+    <string name="drawer_transition_zoom_desc">Depth zoom with receding home screen and focal drawer</string>
+    <string name="drawer_transition_tilt_desc">Dynamic perspective card tilt</string>
+    <string name="drawer_transition_stack_desc">Receding background card with elevated drawer overlay</string>
+    <string name="drawer_overflow_hidden_apps">Hidden Apps</string>
+    <string name="drawer_overflow_create_folder">Create Folder</string>
+    <string name="drawer_overflow_settings">Drawer Settings</string>
+    <string name="drawer_overflow_style_label">Style</string>
+    <string name="drawer_overflow_style_one_col">One column</string>
+    <string name="drawer_overflow_style_two_col">Two columns</string>
+    <string name="drawer_overflow_mode_label">Layout</string>
+    <string name="drawer_overflow_mode_grid">Grid</string>
+    <string name="drawer_overflow_mode_list">List</string>
+    <string name="drawer_overflow_mode_categories">Categories</string>
+    <string name="drawer_overflow_columns_label">Columns</string>
+    <string name="drawer_minimal_search_hint">Search apps…</string>
+    <string name="drawer_show_search_pill_label">Search Pill</string>
+    <string name="drawer_search_bar_position_label">Search Pill Position</string>
+    <string name="drawer_category_style_label">Category Style</string>
+    <string name="drawer_category_position_label">Category Bar Position</string>
+    <string name="drawer_overflow_search_position_label">Search Bar</string>
+    <string name="drawer_overflow_category_position_label">Category Bar</string>
+    <string name="drawer_search_bar_position_top">Top</string>
+    <string name="drawer_search_bar_position_bottom">Bottom</string>
+    <string name="home_search_hint">Search Nexus</string>
+    <string name="search_section_new_apps">NEW APPS</string>
+    <string name="search_section_recent_apps">RECENT APPS</string>
+    <string name="search_enable_recent_apps">Tap to enable Recent Apps</string>
+    <string name="search_web_for_query">Search web for \"%1$s\"</string>
+    <string name="search_section_header_apps">APPS</string>
+    <string name="search_section_header_contacts">CONTACTS</string>
+    <string name="search_section_header_calculator">CALCULATOR</string>
+    <string name="search_section_header_conversion">CONVERSION</string>
+    <string name="search_section_header_web">WEB</string>
+    <string name="search_unit_hint">Try: 5km to miles • 25c to f</string>
+    <string name="search_maps_hint">Try: coffee near me • navigate to airport</string>
+    <string name="search_section_header_maps">MAPS</string>
+    <string name="search_open_in_maps">Open Maps for \"%1$s\"</string>
+    <string name="toast_no_maps_app_found">No maps app found</string>
+    <string name="settings_two_line_labels">Two-line labels</string>
+    <string name="settings_two_line_labels_subtitle">Wrap leftover app names onto a second line</string>
+    <string name="settings_section_appearance_subtitle">Theme mode, background, color accessibility &amp; accent</string>
+
+    <string name="widget_name_shortcut_box">Shortcut Box</string>
+    <string name="shortcut_box_menu_change">Change Shortcut</string>
+    <string name="shortcut_box_menu_remove">Remove from Box</string>
+    <string name="shortcut_box_title">Shortcut Box</string>
+
+    <!-- App Box Strings -->
+    <string name="widget_name_app_box">App Box</string>
+    <string name="app_box_title">App Box</string>
+
+    <!-- Live App Box Strings -->
+    <string name="widget_name_live_apps">Recent apps</string>
+    <string name="live_apps_title">Recent apps</string>
+    <string name="live_apps_permission_hint">Tap to grant Usage Access</string>
+    <string name="live_apps_preset_grid">Grid</string>
+    <string name="live_apps_preset_horizontal">Horizontal</string>
+    <string name="live_apps_preset_vertical">Vertical</string>
+    <string name="live_apps_preset_compact">Compact</string>
+
+    <!-- Nexus Custom Shortcuts -->
+    <string name="nexus_shortcuts_title" translatable="false">Nexus Shortcuts</string>
+    <string name="nexus_shortcut_app_drawer">App Drawer</string>
+    <string name="nexus_shortcut_bluetooth">Bluetooth</string>
+    <string name="nexus_shortcut_flashlight">Flashlight</string>
+    <string name="nexus_shortcut_dark_mode">Dark Theme</string>
+    <string name="nexus_shortcut_do_not_disturb">Do Not Disturb</string>
+    <string name="nexus_shortcut_wifi">Wi-Fi</string>
+    <string name="nexus_shortcut_settings">System Settings</string>
+    <string name="nexus_shortcut_bluetooth_enabled">Bluetooth enabled</string>
+    <string name="nexus_shortcut_bluetooth_disabled">Bluetooth disabled</string>
+    <string name="nexus_shortcut_flashlight_on">Flashlight ON</string>
+    <string name="nexus_shortcut_flashlight_off">Flashlight OFF</string>
+    <string name="nexus_shortcut_flashlight_error">Flashlight unavailable</string>
+    <string name="nexus_shortcut_dnd_on">Do Not Disturb ON</string>
+    <string name="nexus_shortcut_dnd_off">Do Not Disturb OFF</string>
+    <string name="nexus_shortcut_wifi_enabled">Wi-Fi enabled</string>
+    <string name="nexus_shortcut_wifi_disabled">Wi-Fi disabled</string>
+    <string name="nexus_shortcut_volume">Volume Panel</string>
+    <string name="app_not_found">App not found</string>
+    <string name="app_launch_failed">Cannot launch app</string>
+    <string name="picker_select_app">Select App</string>
+    <string name="picker_search_apps">Search apps…</string>
+    <string name="widget_show_labels">Show Labels</string>
+    <!-- Device Performance Widget -->
+    <string name="widget_name_performance">Device Performance</string>
+    <string name="performance_cpu" translatable="false">CPU</string>
+    <string name="performance_ram" translatable="false">RAM</string>
+    <string name="performance_storage">Storage</string>
+    <string name="performance_free">%1$s free</string>
+    <string name="performance_thermal_normal">Normal</string>
+    <string name="performance_thermal_light">Warm</string>
+    <string name="performance_thermal_moderate">Hot</string>
+    <string name="performance_thermal_severe">Severe</string>
+    <string name="performance_style_dashboard">Speedometer</string>
+    <string name="performance_style_telemetry">Telemetry</string>
+    <string name="performance_total">%1$s total</string>
+
+    <!-- Progress Bar Widget -->
+    <string name="widget_name_progress">Progress Bar</string>
+    <string name="progress_tab_events">Events</string>
+    <string name="progress_tab_widget_ui">Widget UI</string>
+    <string name="progress_num_events">Number of events</string>
+    <string name="progress_event_title">Event %1$d</string>
+    <string name="progress_event_empty">Configure Event</string>
+    <string name="progress_edit_event">Edit Event</string>
+    <string name="progress_preset_year">The rest of the year</string>
+    <string name="progress_preset_month">Month</string>
+    <string name="progress_preset_week">Week</string>
+    <string name="progress_preset_custom">Custom</string>
+    <string name="progress_days_left">%1$dd left</string>
+    <string name="progress_percent_left">%1$d%%</string>
+    <string name="progress_days_elapsed">%1$dd elapsed</string>
+    <string name="progress_percent_elapsed">%1$d%%</string>
+    <string name="progress_date_range" translatable="false">%1$s – %2$s</string>
+    <string name="progress_track_label">Label</string>
+    <string name="progress_start_date">Start Date</string>
+    <string name="progress_end_date">End Date</string>
+    <string name="progress_mode_remaining_days">Days Left</string>
+    <string name="progress_mode_remaining_percent">% Left</string>
+    <string name="progress_mode_elapsed_days">Days Elapsed</string>
+    <string name="progress_mode_elapsed_percent">% Elapsed</string>
+
+    <!-- Agenda Widget -->
+    <string name="widget_name_agenda">Agenda</string>
+    <string name="agenda_no_events">Nothing scheduled</string>
+    <string name="agenda_now">Now</string>
+    <string name="agenda_in_minutes">In %1$dm</string>
+    <string name="agenda_in_hours">In %1$dh</string>
+    <string name="agenda_tomorrow">Tomorrow</string>
+    <string name="agenda_in_days">In %1$dd</string>
+    <string name="agenda_range_label">Event Range</string>
+    <string name="agenda_range_today">Today</string>
+    <string name="agenda_range_week">7 Days</string>
+    <string name="agenda_countdown_label">Show Countdown</string>
+    <string name="agenda_today_header">Today</string>
+    <string name="agenda_upcoming_header">Upcoming</string>
+
+    <!-- Notes Widget -->
+    <string name="widget_name_notes">Notes</string>
+    <string name="notes_empty_tap_to_add">Tap to add a note</string>
+    <string name="notes_title_hint">Title (optional)</string>
+    <string name="notes_body_hint">Type your note here…</string>
+    <string name="notes_urgency_do_first">Do first</string>
+    <string name="notes_urgency_schedule">Schedule</string>
+    <string name="notes_urgency_quick">Quick</string>
+    <string name="notes_urgency_later">Later</string>
+    <string name="notes_edited_time">Edited %1$s</string>
+    <string name="notes_clear_confirm_title">Clear note?</string>
+    <string name="notes_clear_confirm_msg">Are you sure you want to clear this note?</string>
+    <string name="notes_setting_show_title">Show Title</string>
+    <string name="notes_setting_show_urgency_label">Show Urgency Label</string>
+    <string name="notes_edit_title">Edit Note</string>
+    <string name="notes_status_label">Status</string>
+    <string name="notes_status_open">Open</string>
+    <string name="notes_status_wip">WIP</string>
+    <string name="notes_status_done">Done</string>
+    <string name="notes_progress_label">Progress</string>
+    <string name="expressive_gradient">Expressive Gradient</string>
+
+    <!-- Home Edit Radial Menu -->
+    <string name="home_edit_apps">Apps</string>
+    <string name="home_edit_widgets">Widgets</string>
+    <string name="home_edit_wallpaper">Wallpaper</string>
+    <string name="home_edit_pages">Pages</string>
+    <string name="home_edit_folder">Folder</string>
+    <string name="home_edit_shortcut">Shortcut</string>
+    <string name="home_edit_settings">Settings</string>
+    <string name="home_edit_lock_layout">Lock Layout</string>
+    <string name="home_edit_locked">🔒 Locked</string>
+
+    <!-- Onboarding Pilot: Setup & Permissions -->
+    <string name="onboarding_pilot_brand_tag" translatable="false">NEXUS</string>
+    <string name="onboarding_pilot_title">Welcome to Nexus</string>
+    <string name="onboarding_pilot_subtitle">Set up key permissions to unlock the full hybrid launcher experience.</string>
+    <string name="onboarding_default_home_title">Default Home App</string>
+    <string name="onboarding_default_home_desc">Set Nexus as your primary launcher for seamless navigation.</string>
+    <string name="onboarding_default_home_btn">Set Default</string>
+    <string name="onboarding_default_home_granted">Default</string>
+    <string name="onboarding_notifications_title">Notification Badges</string>
+    <string name="onboarding_notifications_desc">Show notification counts and status dots on app icons.</string>
+    <string name="onboarding_notifications_btn">Enable</string>
+    <string name="onboarding_notifications_granted">Enabled</string>
+    <string name="onboarding_wallpaper_blur_title">Wallpaper &amp; Blur</string>
+    <string name="onboarding_wallpaper_blur_desc">Allow access to generate real-time hardware blur backdrops.</string>
+    <string name="onboarding_wallpaper_blur_btn">Allow</string>
+    <string name="onboarding_wallpaper_blur_granted">Granted</string>
+    <string name="onboarding_pilot_continue">Continue to Nexus</string>
+    <string name="onboarding_pilot_skip">Skip for Now</string>
+
+    <!-- Settings Landing Hub: Default Launcher Banner -->
+    <string name="settings_set_default_home_title">Set as Default Launcher</string>
+    <string name="settings_set_default_home_desc">Tap to set Nexus as your primary home app</string>
+
+    <!-- Glance Widget -->
+    <string name="widget_name_glance">Glance</string>
+    <string name="weather_condition_clear">Clear Sky</string>
+    <string name="weather_condition_mainly_clear">Mainly Clear</string>
+    <string name="weather_condition_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_condition_overcast">Cloudy</string>
+    <string name="weather_condition_fog">Foggy</string>
+    <string name="weather_condition_drizzle">Drizzle</string>
+    <string name="weather_condition_rain">Rain</string>
+    <string name="weather_condition_snow">Snow</string>
+    <string name="weather_condition_thunderstorm">Thunderstorm</string>
+    <string name="glance_pill_text_format">%1$s · %2$s</string>
+
+    <!-- Glance & Weather Widget Styles & Station Metrics -->
+    <string name="glance_style_minimal">Minimal</string>
+    <string name="glance_style_zen">Dual Pill</string>
+    <string name="glance_style_editorial">Editorial</string>
+    <string name="glance_style_station">Station</string>
+    <string name="weather_style_classic">Classic</string>
+    <string name="weather_style_station">Station</string>
+    <string name="weather_humidity_format">Humidity: %1$s%%</string>
+    <string name="weather_wind_format">Wind: %1$s %2$s</string>
+    <string name="weather_rain_format">Rain: %1$s%%</string>
+    <string name="weather_daylight_format">%1$s h %2$s m</string>
+
+    <!-- Battery Widget Styles & Strings -->
+    <string name="widget_name_battery">Battery</string>
+    <string name="battery_style_fluid">Fluid Level</string>
+    <string name="battery_style_capsule">Capsule Slider</string>
+    <string name="battery_style_radial">Radial Gauge</string>
+    <string name="battery_style_cell">Tech Cell</string>
+    <string name="battery_style_dashboard">Power Monitor</string>
+    <string name="battery_label_uppercase">BATTERY</string>
+    <string name="battery_status_charging">Charging</string>
+    <string name="battery_status_full">Full</string>
+    <string name="battery_status_low">Low</string>
+    <string name="battery_status_discharging">Discharging</string>
+    <string name="battery_hogs_header">Top Battery Use</string>
+    <string name="battery_enable_usage_access">Enable Usage Access</string>
+    <string name="battery_no_hogs_data">No recent drain data</string>
+
+    <!-- RSS Feed: E-Ink Paper Mode -->
+    <string name="premium_feature_eink_feed">E-Ink Paper Mode</string>
+    <string name="premium_feature_eink_feed_desc">Distraction-free physical paper reading with zero glare and printed typography.</string>
+    <string name="nexus_feed_eink_title">E-Ink Paper Mode</string>
+    <string name="nexus_feed_eink_desc">Distraction-free grayscale reading on physical paper</string>
+    <string name="nexus_feed_eink_dark_title">Dark Paper</string>
+    <string name="nexus_feed_eink_dark_desc">Deep slate background with soft cream typography</string>
+    <string name="nexus_feed_refreshing_text">Refreshing…</string>
+    <string name="nexus_feed_eink_reading_section">READING EXPERIENCE</string>
+
+    <!-- RSS Feed: In-App Reader Mode -->
+    <string name="nexus_reader_mode_reader">Reader</string>
+    <string name="nexus_reader_mode_original">Original</string>
+    <string name="nexus_reader_mode_eink">E-Ink</string>
+    <string name="nexus_reader_action_share">Share</string>
+    <string name="nexus_reader_reading_time">%1$d min read</string>
+    <string name="nexus_reader_reading_time_single">1 min read</string>
+    <string name="nexus_reader_loading_article">Extracting article…</string>
+
+    <!-- Document Reader & Library -->
+    <string name="nexus_feed_tab_library">Library</string>
+    <string name="nexus_doc_import">Add Document</string>
+    <string name="nexus_doc_empty_title">No documents in Library</string>
+    <string name="nexus_doc_empty_desc">Tap Add Document to import PDF or TXT files.</string>
+    <string name="nexus_doc_remove_title">Remove from Library</string>
+    <string name="nexus_doc_remove_desc">Remove \"%1$s\" from your Library? The file will remain on your device.</string>
+    <string name="nexus_doc_remove_action">Remove</string>
+    <string name="nexus_doc_cancel">Cancel</string>
+    <string name="nexus_doc_page_status">Page %1$d of %2$d</string>
+    <string name="nexus_doc_reading_status">Reading</string>
+    <string name="nexus_doc_error_protected">This PDF is protected. Unsupported.</string>
+    <string name="nexus_doc_error_epub_drm">This book is DRM-protected and cannot be opened.</string>
+    <string name="nexus_doc_error_epub_fixed_layout">Fixed-layout EPUBs are not yet supported.</string>
+    <string name="nexus_doc_error_epub_invalid">This file does not appear to be a valid EPUB.</string>
+    <string name="nexus_doc_error_corrupted">Unable to open this file.</string>
+    <string name="nexus_doc_error_too_large">This file is too large to open.</string>
+    <string name="nexus_epub_toc_title">Table of Contents</string>
+    <string name="nexus_epub_toc_empty">No table of contents found</string>
+    <string name="nexus_epub_toc_description">Table of Contents</string>
+    <string name="nexus_epub_chapter_status">Chapter %1$d of %2$d</string>
+    <string name="nexus_doc_time_left_min">about %1$d min left</string>
+    <string name="nexus_doc_time_left_hr">about %1$d h left</string>
+    <string name="nexus_doc_time_left_hr_min">about %1$d h %2$d min left</string>
+    <string name="nexus_doc_finished">Finished</string>
+    <string name="nexus_doc_overflow_close">Close</string>
+    <string name="nexus_pdf_mode_title">Reading Mode</string>
+    <string name="nexus_pdf_mode_continuous">Continuous Scroll</string>
+    <string name="nexus_pdf_mode_continuous_desc">Scroll smoothly through all pages vertically</string>
+    <string name="nexus_pdf_mode_page_turn">Page Turn</string>
+    <string name="nexus_pdf_mode_page_turn_desc">Swipe left &amp; right one page at a time</string>
+    <string name="nexus_pdf_fit_title">Page Fit</string>
+    <string name="nexus_pdf_fit_smart_crop">Smart Crop (Recommended)</string>
+    <string name="nexus_pdf_fit_smart_crop_desc">Trims margins and expands text up to 1.8x</string>
+    <string name="nexus_pdf_fit_width">Fit Width</string>
+    <string name="nexus_pdf_fit_width_desc">Scales page edge-to-edge</string>
+    <string name="nexus_pdf_fit_page">Fit Page</string>
+    <string name="nexus_pdf_fit_page_desc">Preserves full page layout with margins</string>
+    <string name="nexus_pdf_theme_title">PDF Theme</string>
+    <string name="nexus_pdf_theme_original">Original</string>
+    <string name="nexus_pdf_theme_original_desc">Original white page with dark text</string>
+    <string name="nexus_pdf_theme_paper_tint">Paper Tint</string>
+    <string name="nexus_pdf_theme_paper_tint_desc">Warm sepia overlay reducing glare</string>
+    <string name="nexus_pdf_theme_invert_colors">Invert Colors</string>
+    <string name="nexus_pdf_theme_invert_colors_desc">Best for text-only PDFs. Images may look inverted.</string>
+
+    <!-- Library File Organization -->
+    <string name="nexus_doc_continue_reading">Continue Reading</string>
+    <string name="nexus_doc_all_collections">All</string>
+    <string name="nexus_doc_uncategorized">Uncategorized</string>
+    <string name="nexus_doc_create_collection">New Collection</string>
+    <string name="nexus_doc_collection_name">Collection Name</string>
+    <string name="nexus_doc_move_to_collection">Move to Collection</string>
+    <string name="nexus_doc_rename">Rename</string>
+    <string name="nexus_doc_rename_title">Rename Document</string>
+    <string name="nexus_doc_rename_reset">Reset to Original</string>
+    <string name="nexus_doc_file_info">File Info</string>
+    <string name="nexus_doc_info_name">Name</string>
+    <string name="nexus_doc_info_size">Size</string>
+    <string name="nexus_doc_info_added">Added</string>
+    <string name="nexus_doc_info_last_read">Last Read</string>
+    <string name="nexus_doc_sort_recently_added">Recently Added</string>
+    <string name="nexus_doc_sort_title_az">Title (A–Z)</string>
+    <string name="nexus_doc_sort_file_size">File Size</string>
+    <string name="nexus_doc_sort_progress">Reading Progress</string>
+    <string name="nexus_doc_filter_finished">Finished</string>
+    <string name="nexus_doc_filter_unread">Unread</string>
+    <string name="nexus_doc_action_open">Open</string>
+    <string name="nexus_doc_action_save">Save</string>
+    <string name="nexus_doc_search_library_placeholder">Search library…</string>
+    <string name="nexus_doc_chip_reading">Reading</string>
+    <string name="nexus_doc_dropdown_status">Status</string>
+    <string name="nexus_doc_dropdown_genre">Genre</string>
+    <string name="nexus_doc_dropdown_sort">Sort</string>
+    <string name="nexus_doc_status_all">All Status</string>
+    <string name="nexus_doc_genre_all">All Genres</string>
+    <string name="nexus_doc_create_genre">New Genre / Collection</string>
+    <string name="nexus_doc_sort_title_za">Title (Z–A)</string>
+    <string name="nexus_doc_sort_recent_short">Recent</string>
+    <string name="nexus_doc_sort_az_short">A–Z</string>
+    <string name="nexus_doc_sort_za_short">Z–A</string>
+    <string name="nexus_doc_sort_progress_short">Progress</string>
+    <string name="nexus_doc_sort_size_short">Size</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_health">Health</string>
+    <string name="category_news">News</string>
+    <string name="category_education">Education</string>
+    <string name="category_photography">Photography</string>
+    <string name="category_music">Music</string>
+    <string name="category_video">Video</string>
+    <string name="category_food">Food</string>
+    <string name="category_weather">Weather</string>
+    <string name="category_add_title">Add a category</string>
+    <string name="category_add_subtitle">Apps move into it right away.</string>
+    <string name="category_create_your_own">Create your own</string>
+    <string name="premium_feature_immersive">Immersive home screen</string>
+    <string name="premium_feature_immersive_desc">Hide the system bars, show your own status row, and turn the dock off.</string>
+</resources>

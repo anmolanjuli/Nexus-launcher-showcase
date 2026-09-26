@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">Toca para cambiar el nombre</string>
+    <string name="edit_sheet_app_name_hint">Nombre de la aplicación</string>
+    <string name="edit_sheet_section_appearance">APARIENCIA</string>
+    <string name="edit_sheet_icon_source">FUENTE DE ICONO</string>
+    <string name="edit_sheet_section_gestures">GESTOS</string>
+    <string name="edit_sheet_gestures">Gestos</string>
+    <string name="edit_sheet_gallery">Galería</string>
+    <string name="edit_sheet_swipe_up">Deslizar hacia arriba</string>
+    <string name="edit_sheet_swipe_down">Deslizar hacia abajo</string>
+    <string name="edit_sheet_double_tap">Doble toque</string>
+    <string name="edit_sheet_app_uninstalled">(La aplicación ya no está instalada)</string>
+    <string name="edit_sheet_unnamed_folder">Carpeta sin nombre</string>
+    <string name="edit_sheet_invalid_folder">(Carpeta no válida)</string>
+    <string name="edit_sheet_shortcut_unavailable">(El acceso directo ya no está disponible)</string>
+    <string name="edit_sheet_invalid_shortcut">(Atajo no válido)</string>
+    <string name="folder_edit_window">Ventana</string>
+    <string name="folder_edit_window_opacity">Opacidad de la ventana</string>
+    <string name="folder_edit_icon">Icono</string>
+    <string name="folder_edit_icon_opacity">Opacidad del icono</string>
+    <string name="folder_edit_name_hint">Nombre de la carpeta</string>
+    <string name="folder_edit_section_appearance">Apariencia</string>
+    <string name="folder_edit_section_layout">Disposición</string>
+    <string name="folder_edit_section_gestures">Gestos</string>
+    <string name="folder_edit_glass_refraction">Refracción del vidrio</string>
+    <string name="folder_edit_preview_style">Estilo de vista previa</string>
+    <string name="folder_edit_columns">Columnas</string>
+    <string name="folder_edit_show_labels">Mostrar etiquetas de aplicaciones</string>
+    <string name="folder_edit_expressive_gradient">Degradado expresivo</string>
+    <string name="folder_preview_style_grid">Red</string>
+    <string name="folder_preview_style_fan">Ventilador de 3</string>
+    <string name="folder_preview_style_hero_orbit">Héroe + Órbita</string>
+    <string name="folder_preview_style_custom_icon">Icono personalizado</string>
+    <string name="folder_preview_style_bento">Bento</string>
+    <string name="folder_new_title">Nueva carpeta</string>
+</resources>

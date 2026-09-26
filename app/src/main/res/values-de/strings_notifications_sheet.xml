@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Benachrichtigungen</string>
+    <string name="notification_sheet_clear">Löschen</string>
+    <string name="notification_sheet_dismiss">Schließen</string>
+    <string name="notification_sheet_empty">Keine Benachrichtigungen</string>
+    <string name="notification_history_title">Benachrichtigungen aufbewahren</string>
+    <string name="notification_history_subtitle">In der eigenen Übersicht lesen, auch nachdem sie gelöscht wurden. Der Text wird auf diesem Gerät gespeichert.</string>
+    <string name="notification_retention_title">Aufbewahren für</string>
+    <string name="notification_retention_1h">1 Stunde</string>
+    <string name="notification_retention_6h">6 Stunden</string>
+    <string name="notification_retention_1d">1 Tag</string>
+    <string name="notification_retention_3d">3 Tage</string>
+    <string name="notification_retention_7d">7 Tage</string>
+</resources>

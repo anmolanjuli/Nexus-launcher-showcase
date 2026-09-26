@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer Settings & Subtitles (Nepali) -->
+    <string name="drawer_settings_layout_title">लेआउट</string>
+    <string name="drawer_settings_layout_subtitle">मोड, ग्रिड स्तम्भ, आकार, नाम र क्रम</string>
+    <string name="drawer_settings_search_navigation_title">खोज र नेभिगेसन</string>
+    <string name="drawer_settings_hidden_apps_title">लुकाइएका एपहरू</string>
+    <string name="drawer_settings_hidden_apps_subtitle">लुकाइएका एपहरूको दृश्यता व्यवस्थापन गर्नुहोस्</string>
+
+    <string name="drawer_sort_recently_installed">भर्खरै इन्स्टल गरिएका</string>
+    <string name="drawer_sort_az">A–Z</string>
+    <string name="drawer_sort_za">Z–A</string>
+    <string name="drawer_search_pos_top">माथि</string>
+    <string name="drawer_search_pos_bottom">तल</string>
+    <string name="drawer_cat_style_in_pill">पिल भित्र</string>
+    <string name="drawer_cat_style_dropdown">ड्रपडाउन</string>
+    <string name="drawer_cat_style_strip">स्ट्रिप</string>
+    <string name="drawer_layout_list">सूची</string>
+    <string name="drawer_layout_grid">ग्रिड</string>
+    <string name="drawer_col_abbrev">%1$d स्तम्भ</string>
+    <string name="drawer_list_mode_abbrev">सूची मोड</string>
+    <string name="drawer_size_percent">%1$d%% आकार</string>
+    <string name="drawer_labels_on">नाम सक्रिय</string>
+    <string name="drawer_labels_off">नाम बन्द</string>
+    <string name="drawer_pill_off">पिल बन्द</string>
+    <string name="drawer_pill_top">पिल माथि</string>
+    <string name="drawer_pill_bottom">पिल तल</string>
+    <string name="drawer_cats_on">विधाहरू अन</string>
+    <string name="drawer_cats_off">विधाहरू बन्द</string>
+    <string name="drawer_rail_on">रेल अन</string>
+    <string name="drawer_rail_off">रेल बन्द</string>
+    <string name="drawer_sort_order_label">क्रमबद्ध गर्ने शैली</string>
+    <string name="drawer_search_pill_subtitle">एप ड्रअरमा खोज र विकल्प मेनु</string>
+    <string name="drawer_search_pos_subtitle">खोज पिललाई ड्रअरको माथि वा तल राख्नुहोस्</string>
+    <string name="drawer_categories_label">विधाहरू</string>
+    <string name="drawer_categories_subtitle">एपको विधा अनुसार ड्रअर फिल्टर गर्नुहोस्</string>
+    <string name="drawer_category_style_subtitle">खोज पिल भित्र, ड्रपडाउन वा स्क्रोल गर्न मिल्ने पट्टी</string>
+    <string name="drawer_category_pos_subtitle">विधा पट्टी खोज पिलभन्दा स्वतन्त्र रूपमा बस्छ</string>
+    <string name="drawer_side_rail_label">छेउको रेल</string>
+    <string name="drawer_side_rail_subtitle">स्क्रिनको छेउमा द्रुत A–Z वर्णमाला जम्प रेल</string>
+    <string name="theme_mode_label">मोड</string>
+    <string name="drawer_transition_label">ट्रान्जिसन</string>
+    <string name="drawer_settings_transitions_title">ट्रान्जिसनहरू</string>
+    <string name="drawer_transition_default">डिफल्ट</string>
+    <string name="drawer_transition_cube">3D क्युब</string>
+    <string name="drawer_transition_zoom">जुम</string>
+    <string name="drawer_transition_tilt">झुकाव</string>
+    <string name="drawer_transition_stack">कार्ड स्ट्याक</string>
+    <string name="drawer_transition_default_desc">होम स्क्रिन बिस्तारै धमिलो हुन्छ र एप ड्रअर देखिन्छ</string>
+    <string name="drawer_transition_cube_desc">होम स्क्रिन र एप ड्रअर क्युबका पाटाजस्तै घुम्छन्</string>
+    <string name="drawer_transition_zoom_desc">होम स्क्रिन पछाडि जान्छ र एप ड्रअर अगाडि आउँछ</string>
+    <string name="drawer_transition_tilt_desc">होम स्क्रिन पछाडितिर ढल्किन्छ</string>
+    <string name="drawer_transition_stack_desc">एप ड्रअर कार्डजस्तै होम स्क्रिनमाथि सर्छ</string>
+</resources>

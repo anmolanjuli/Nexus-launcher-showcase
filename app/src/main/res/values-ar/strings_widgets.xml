@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Weather Widget -->
+    <string name="weather_enable_location">تفعيل الموقع</string>
+    <string name="weather_no_data">لا توجد بيانات طقس</string>
+    <string name="weather_high_label">العظمى</string>
+    <string name="weather_low_label">الصغرى</string>
+    <string name="weather_today">اليوم</string>
+    <string name="weather_local_area">المنطقة المحلية</string>
+
+    <!-- Calendar Widget -->
+    <string name="calendar_enable_access">تفعيل الوصول للتقويم</string>
+    <string name="calendar_no_upcoming_events">لا توجد أحداث قادمة</string>
+    <string name="calendar_all_day">طوال اليوم</string>
+    <plurals name="calendar_events_label">
+        <item quantity="zero">أحداث</item>
+        <item quantity="one">حدث</item>
+        <item quantity="two">حدثان</item>
+        <item quantity="few">أحداث</item>
+        <item quantity="many">حدثاً</item>
+        <item quantity="other">حدث</item>
+    </plurals>
+
+    <!-- Content Descriptions & Widgets -->
+    <string name="content_desc_widget_preview">معاينة الأداة</string>
+    <string name="content_desc_switch_mosaic_mode">تبديل وضع عرض الفسيفساء</string>
+    <string name="content_desc_current_hero_widget">الأداة الرئيسية الحالية</string>
+    <string name="content_desc_make_hero_widget">تعيين كأداة رئيسية</string>
+    <string name="widget_settings_title">إعدادات الأدوات</string>
+    <string name="toast_mosaic_page_is_full">صفحة الفسيفساء ممتلئة</string>
+    <string name="toast_at_least_one_page_required">يلزم وجود صفحة واحدة على الأقل</string>
+</resources>

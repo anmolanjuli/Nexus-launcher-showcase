@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Icon Edit Sheet (Arabic) -->
+    <string name="edit_sheet_tap_to_rename">انقر لإعادة التسمية</string>
+    <string name="edit_sheet_app_name_hint">اسم التطبيق</string>
+    <string name="edit_sheet_section_appearance">المظهر</string>
+    <string name="edit_sheet_icon_source">مصدر الأيقونة</string>
+    <string name="edit_sheet_section_gestures">الإيماءات (GESTURES)</string>
+    <string name="edit_sheet_gestures">الإيماءات</string>
+    <string name="edit_sheet_gallery">المعرض</string>
+    <string name="edit_sheet_swipe_up">تمرير لأعلى</string>
+    <string name="edit_sheet_swipe_down">تمرير لأسفل</string>
+    <string name="edit_sheet_double_tap">نقر مزدوج</string>
+    <string name="edit_sheet_app_uninstalled">(لم يعد التطبيق مثبتاً)</string>
+    <string name="edit_sheet_unnamed_folder">مجلد بدون اسم</string>
+    <string name="edit_sheet_invalid_folder">(مجلد غير صالح)</string>
+    <string name="edit_sheet_shortcut_unavailable">(لم يعد الاختصار متاحاً)</string>
+    <string name="edit_sheet_invalid_shortcut">(اختصار غير صالح)</string>
+
+    <!-- Folder Edit Sheet -->
+    <string name="folder_edit_window">النافذة</string>
+    <string name="folder_edit_window_opacity">شفافية النافذة</string>
+    <string name="folder_edit_icon">الأيقونة</string>
+    <string name="folder_edit_icon_opacity">شفافية الأيقونة</string>
+    <string name="folder_edit_name_hint">اسم المجلد</string>
+    <string name="folder_edit_section_appearance">المظهر</string>
+    <string name="folder_edit_section_layout">التخطيط</string>
+    <string name="folder_edit_section_gestures">الإيماءات</string>
+    <string name="folder_edit_glass_refraction">انكسار الزجاج</string>
+    <string name="folder_edit_preview_style">نمط المعاينة</string>
+    <string name="folder_edit_columns">الأعمدة</string>
+    <string name="folder_edit_show_labels">إظهار تسميات التطبيقات</string>
+    <string name="folder_edit_expressive_gradient">تدرج تعبيري</string>
+
+    <!-- Folder Preview Styles -->
+    <string name="folder_preview_style_grid">شبكة</string>
+    <string name="folder_preview_style_fan">مروحة من 3</string>
+    <string name="folder_preview_style_hero_orbit">رئيسي + مدار</string>
+    <string name="folder_preview_style_custom_icon">أيقونة مخصصة</string>
+    <string name="folder_preview_style_bento">بنتو</string>
+    <string name="folder_new_title">مجلد جديد</string>
+</resources>

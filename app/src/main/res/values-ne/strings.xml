@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Actions -->
+    <string name="action_save">बचत गर्नुहोस्</string>
+    <string name="action_cancel">रद्द गर्नुहोस्</string>
+    <string name="action_reset">रिसेट गर्नुहोस्</string>
+    <string name="action_apply">लागू गर्नुहोस्</string>
+    <string name="action_remove">हटाउनुहोस्</string>
+    <string name="action_edit">सम्पादन</string>
+    <string name="action_select">चयन गर्नुहोस्</string>
+    <string name="action_close">बन्द गर्नुहोस्</string>
+    <string name="action_search">खोज्नुहोस्</string>
+    <string name="action_new">नयाँ</string>
+    <string name="action_recent">भर्खरैका</string>
+    <string name="action_sort">क्रमबद्ध</string>
+    <string name="action_sort_apps">एपहरू क्रमबद्ध गर्नुहोस्</string>
+    <string name="action_exit">बाहिर निस्कनुहोस्</string>
+    <string name="action_add_apps">एपहरू थप्नुहोस्</string>
+    <string name="action_add_to_home">होममा थप्नुहोस्</string>
+    <string name="action_ok">ठीक छ</string>
+    <string name="action_back">पछाडि</string>
+    <string name="action_proceed">अगाडि बढ्नुहोस्</string>
+    <string name="action_delete">मेटाउनुहोस्</string>
+    <string name="action_create_folder">फोल्डर बनाउनुहोस्</string>
+    <string name="action_uninstall">अनइन्स्टल</string>
+    <string name="action_pin">पिन गर्नुहोस्</string>
+    <string name="action_open_settings">सेटिङ्स खोल्नुहोस्</string>
+    <string name="action_resize">आकार बदल्नुहोस्</string>
+    <string name="action_set_category">विधा छान्नुहोस्</string>
+
+    <!-- Context Menus -->
+    <string name="menu_dock_settings">डक सेटिङ्स</string>
+    <string name="menu_hide_app">एप लुकाउनुहोस्</string>
+    <string name="menu_unhide_app">एप देखाउनुहोस्</string>
+    <string name="menu_widgets">विजेटहरू</string>
+    <string name="menu_change_category">विधा बदल्नुहोस्</string>
+
+    <!-- Radial Menu / Home Edit Mode -->
+    <string name="home_edit_apps">एपहरू</string>
+    <string name="home_edit_widgets">विजेटहरू</string>
+    <string name="home_edit_wallpaper">वालपेपर</string>
+    <string name="home_edit_pages">पृष्ठहरू</string>
+    <string name="home_edit_folder">फोल्डर</string>
+    <string name="home_edit_shortcut">सर्टकट</string>
+    <string name="home_edit_settings">सेटिङ्स</string>
+    <string name="home_edit_lock_layout">लेआउट लक</string>
+    <string name="home_edit_locked">🔒 लक गरिएको</string>
+
+    <!-- Selection -->
+    <plurals name="selection_count">
+        <item quantity="one">%1$d चयन गरियो</item>
+        <item quantity="other">%1$d चयन गरियो</item>
+    </plurals>
+
+    <!-- Common Dialogs & Toasts -->
+    <string name="dialog_discard_title">परिवर्तनहरू रद्द गर्ने?</string>
+    <string name="dialog_discard_message">लागू नगरिएका परिवर्तनहरू हराउनेछन्।</string>
+    <string name="toast_cannot_launch_shortcut">सर्टकट खोल्न सकिएन</string>
+    <string name="app_not_found">एप फेला परेन</string>
+    <string name="app_launch_failed">एप खोल्न असफल भयो</string>
+    <string name="toast_drop_not_allowed">यहाँ राख्न मिल्दैन</string>
+</resources>

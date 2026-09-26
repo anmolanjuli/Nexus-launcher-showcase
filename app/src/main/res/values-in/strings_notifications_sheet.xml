@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Notifikasi</string>
+    <string name="notification_sheet_clear">Hapus</string>
+    <string name="notification_sheet_dismiss">Tutup</string>
+    <string name="notification_sheet_empty">Tidak ada notifikasi</string>
+    <string name="notification_history_title">Simpan notifikasi</string>
+    <string name="notification_history_subtitle">Baca di lembar peluncur, bahkan setelah dihapus. Teksnya disimpan di ponsel ini.</string>
+    <string name="notification_retention_title">Simpan selama</string>
+    <string name="notification_retention_1h">1 jam</string>
+    <string name="notification_retention_6h">6 jam</string>
+    <string name="notification_retention_1d">1 hari</string>
+    <string name="notification_retention_3d">3 hari</string>
+    <string name="notification_retention_7d">7 hari</string>
+</resources>

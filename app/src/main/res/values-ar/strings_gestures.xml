@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gesture Settings (Arabic) -->
+    <string name="gestures_one_finger_title">تمرير بإصبع واحد</string>
+    <string name="gestures_one_finger_desc">إجراءات التمرير بإصبع واحد في المساحة الفارغة</string>
+    <string name="gestures_two_finger_title">تمرير بإصبعين</string>
+    <string name="gestures_two_finger_desc">إجراءات التمرير بإصبعين في المساحة الفارغة</string>
+    <string name="gesture_swipe_up">تمرير لأعلى</string>
+    <string name="gesture_swipe_down">تمرير لأسفل</string>
+    <string name="gesture_two_finger_swipe_up">تمرير بإصبعين لأعلى</string>
+    <string name="gesture_two_finger_swipe_down">تمرير بإصبعين لأسفل</string>
+
+    <!-- Gesture Actions -->
+    <string name="gesture_action_none">بلا</string>
+    <string name="gesture_action_open_app_info">فتح معلومات التطبيق</string>
+    <string name="gesture_action_lock_screen">قفل الشاشة</string>
+    <string name="gesture_action_toggle_flashlight">تشغيل/إيقاف المصباح</string>
+    <string name="gesture_action_open_app_drawer">فتح درج التطبيقات</string>
+    <string name="gesture_action_open_specific_app">فتح تطبيق معين</string>
+    <string name="gesture_action_open_specific_page">فتح صفحة معينة</string>
+    <string name="gesture_action_open_specific_folder">فتح مجلد معين</string>
+    <string name="gesture_action_open_specific_shortcut">فتح اختصار معين</string>
+    <string name="gesture_action_expand_notifications">توسيع الإشعارات</string>
+    <string name="gesture_action_open_quick_settings">فتح الإعدادات السريعة</string>
+    <string name="gesture_action_show_recents">عرض التطبيقات الحديثة</string>
+    <string name="gesture_action_take_screenshot">التقاط لقطة شاشة</string>
+    <string name="gesture_action_show_power_menu">عرض قائمة الطاقة</string>
+    <string name="gesture_action_open_search">فتح البحث</string>
+    <string name="gesture_action_next_page">الصفحة التالية</string>
+    <string name="gesture_action_prev_page">الصفحة السابقة</string>
+    <string name="gesture_action_toggle_labels">تبديل تسميات التطبيقات</string>
+    <string name="gesture_action_open_home_edit">وضع تعديل الرئيسية</string>
+    <string name="gesture_action_split_screen">تقسيم الشاشة</string>
+    <string name="gesture_requires_accessibility">يتطلب إمكانية الوصول</string>
+</resources>

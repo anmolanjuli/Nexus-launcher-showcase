@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_enable_location">Standort aktivieren</string>
+    <string name="weather_no_data">Keine Wetterdaten</string>
+    <string name="weather_high_label">H</string>
+    <string name="weather_low_label">L</string>
+    <string name="weather_today">Heute</string>
+    <string name="weather_local_area">Lokaler Bereich</string>
+    <string name="calendar_enable_access">Kalenderzugriff aktivieren</string>
+    <string name="calendar_no_upcoming_events">Keine bevorstehenden Veranstaltungen</string>
+    <string name="calendar_all_day">Den ganzen Tag</string>
+    <plurals name="calendar_events_label">
+        <item quantity="one">Ereignis</item>
+        <item quantity="other">Ereignisse</item>
+    </plurals>
+    <string name="content_desc_widget_preview">Widget-Vorschau</string>
+    <string name="content_desc_switch_mosaic_mode">Mosaik-Ansichtsmodus wechseln</string>
+    <string name="content_desc_current_hero_widget">Aktuelles Helden-Widget</string>
+    <string name="content_desc_make_hero_widget">Als Hero-Widget festlegen</string>
+    <string name="widget_settings_title">Widget-Einstellungen</string>
+    <string name="toast_mosaic_page_is_full">Die Mosaikseite ist voll</string>
+    <string name="toast_at_least_one_page_required">Mindestens eine Seite erforderlich</string>
+</resources>

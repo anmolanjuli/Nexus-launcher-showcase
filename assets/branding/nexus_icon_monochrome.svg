@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+    <!-- Primary Gateway Shape: #FFFFFF -->
+    <path fill="#FFFFFF" d="M35 31h11v8l6.5 7.5-6.5 6.5V77H35V31z"/>
+    <path fill="#FFFFFF" d="M73 77H62v-8l-6.5-7.5 6.5-6.5V31h11V77z"/>
+
+    <!-- Nexus Node: #FFFFFF (solid silhouette shape) -->
+    <path fill="#FFFFFF" d="M51.5 47.95l3.07 1.77v3.56l-3.07 1.77-3.07-1.77v-3.56z"/>
+</svg>

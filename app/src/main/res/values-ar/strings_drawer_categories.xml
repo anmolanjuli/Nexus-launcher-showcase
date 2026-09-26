@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">الأخيرة</string>
+    <string name="drawer_category_quick_actions">إجراءات سريعة</string>
+    <string name="drawer_category_search_hint">البحث عن التطبيقات</string>
+    <string name="drawer_category_see_all">عرض الكل</string>
+    <string name="drawer_category_see_less">عرض أقل</string>
+    <string name="drawer_category_color_title">لون الفئة</string>
+    <string name="drawer_category_color_change">تغيير لون الفئة</string>
+    <string name="drawer_category_layout_label">تخطيط الفئات</string>
+    <string name="drawer_category_layout_subtitle">طريقة ترتيب الفئات في درج التطبيقات</string>
+    <string name="drawer_category_layout_spatial">بطاقات</string>
+    <string name="drawer_category_layout_strip">شرائط</string>
+    <string name="drawer_category_layout_list">قائمة</string>
+    <string name="drawer_category_untagged_folders">المجلدات</string>
+    <string name="drawer_grid_or_list_categories">الفئات</string>
+    <string name="drawer_layout_categories">الفئات</string>
+    <string name="drawer_overflow_mode_categories">الفئات</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="zero">%1$d تطبيق</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">تطبيقان</item>
+        <item quantity="few">%1$d تطبيقات</item>
+        <item quantity="many">%1$d تطبيقًا</item>
+        <item quantity="other">%1$d تطبيق</item>
+    </plurals>
+    <string name="category_shopping">التسوق</string>
+    <string name="category_travel">السفر</string>
+    <string name="category_health">الصحة</string>
+    <string name="category_news">الأخبار</string>
+    <string name="category_education">التعليم</string>
+    <string name="category_photography">التصوير</string>
+    <string name="category_music">الموسيقى</string>
+    <string name="category_video">الفيديو</string>
+    <string name="category_food">الطعام</string>
+    <string name="category_weather">الطقس</string>
+    <string name="category_add_title">إضافة فئة</string>
+    <string name="category_add_subtitle">تنتقل التطبيقات إليها على الفور.</string>
+    <string name="category_create_your_own">إنشاء فئة خاصة بك</string>
+    <string name="premium_feature_immersive">شاشة رئيسية غامرة</string>
+    <string name="premium_feature_immersive_desc">إخفاء أشرطة النظام وعرض صف حالة خاص بك وإيقاف شريط الإرساء.</string>
+    <string name="category_sort_title">فرز التطبيقات</string>
+    <string name="category_sort_move">اختر التطبيقات المراد نقلها</string>
+    <string name="category_sort_move_count">نقل %1$d تطبيقات</string>
+    <string name="category_sort_pick">النقل إلى</string>
+    <string name="category_uncategorised">غير مصنّف</string>
+    <string name="category_personalization">التخصيص</string>
+</resources>

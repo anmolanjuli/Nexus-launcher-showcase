@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">Dossier</string>
+    <string name="folder_edit_title">Modifier le dossier</string>
+    <string name="folder_edit_name_label">Nom du dossier</string>
+    <string name="folder_edit_section_preview_style">STYLE D\'APERÇU</string>
+    <string name="folder_edit_preview_style_desc">À quoi ressemble l\'icône fermée sur l\'accueil</string>
+    <string name="folder_edit_section_background">CONTEXTE</string>
+    <string name="folder_edit_opacity_icon">Opacité - Icône</string>
+    <string name="folder_edit_opacity_open_window">Opacité de la fenêtre ouverte</string>
+    <string name="folder_context_resize">Redimensionner le dossier</string>
+    <string name="folder_context_flip">Dossier à retourner</string>
+    <string name="folder_dialog_rename_title">Renommer le dossier</string>
+    <string name="folder_dialog_remove_title">Supprimer le dossier ?</string>
+    <string name="folder_app_picker_title">Sélectionnez les applications</string>
+    <string name="folder_app_picker_search_hint">Rechercher des applications…</string>
+    <string name="folder_app_picker_include_other_folders">Inclure les applications d\'autres dossiers</string>
+    <string name="folder_app_picker_save_to_folder">Enregistrer dans un dossier</string>
+    <string name="folder_shape_row_title">Forme</string>
+    <string name="icon_shape_row_title">Forme</string>
+    <string name="folder_shape_category_basic">Classique</string>
+    <string name="folder_shape_category_special">Stylé</string>
+    <string name="toast_app_already_in_folder">Cette application est déjà dans le dossier</string>
+</resources>

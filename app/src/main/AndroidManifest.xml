@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.SET_WALLPAPER" />
+        </intent>
+        <intent>
+            <action android:name="com.novalauncher.THEME" />
+        </intent>
+        <intent>
+            <action android:name="org.adw.launcher.THEMES" />
+        </intent>
+        <intent>
+            <action android:name="com.anddoes.launcher.THEME" />
+        </intent>
+        <intent>
+            <action android:name="com.teslacoilsw.launcher.THEME" />
+        </intent>
+        <intent>
+            <action android:name="com.fede.launcher.THEME_ICONPACK" />
+        </intent>
+    </queries>
+
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION" />
+
+    <application
+        android:name=".NexusApplication"
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:localeConfig="@xml/locales_config"
+        android:theme="@style/Theme.NexusLauncher">
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.NexusLauncher"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboard|keyboardHidden|navigation|uiMode"
+            android:launchMode="singleTask"
+            android:screenOrientation="unspecified">
+            <!--
+                HOME only. The LAUNCHER category lives on LauncherEntryActivity: carrying it here
+                let the app icon start this activity as an ordinary app, and the next Home press
+                then created a second instance beside it. See HomeRoute.
+            -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--
+            The app icon. Draws nothing, sends a home intent, finishes. Its own empty affinity and
+            excludeFromRecents keep the momentary task it opens in from ever showing in Recents.
+        -->
+        <activity
+            android:name=".ui.LauncherEntryActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoDisplay"
+            android:taskAffinity=""
+            android:excludeFromRecents="true"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.settings.SettingsActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection"
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@style/Theme.NexusLauncher.Settings" />
+        <activity
+            android:name=".ui.widgets.NexusWidgetConfigActivity"
+            android:exported="false"
+            android:theme="@style/Theme.NexusLauncher">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.widgets.weather.NexusWeatherQuickSettingsActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".reader.NexusReaderActivity"
+            android:exported="false"
+            android:theme="@style/Theme.NexusLauncher"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|uiMode" />
+        <activity
+            android:name=".reader.doc.NexusDocumentReaderActivity"
+            android:exported="false"
+            android:theme="@style/Theme.NexusLauncher"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|uiMode" />
+
+        <service
+            android:name=".ui.WallpaperCaptureForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="mediaProjection" />
+
+        <service
+            android:name="androidx.appcompat.app.AppLocalesMetadataHolderService"
+            android:enabled="false"
+            android:exported="false">
+            <meta-data
+                android:name="autoStoreLocales"
+                android:value="true" />
+        </service>
+
+
+        <receiver
+            android:name=".ui.widgets.music.NexusMusicWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_music">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_music_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.weather.NexusWeatherWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_weather">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_weather_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.calendar.NexusCalendarWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_calendar">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_calendar_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.clock.NexusClockWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_clock">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIME_TICK" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_clock_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.glance.NexusGlanceWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_glance">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIME_TICK" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_glance_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.performance.NexusPerformanceWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_performance">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.BATTERY_CHANGED" />
+                <action android:name="android.intent.action.POWER_CONNECTED" />
+                <action android:name="android.intent.action.POWER_DISCONNECTED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_performance_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.battery.NexusBatteryWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_battery">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <!--
+                    No battery, power or screen actions here: Android never delivers them to a
+                    manifest receiver. NexusBatteryMonitor listens at runtime and refreshes this.
+                -->
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_battery_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.progress.NexusProgressWidgetProvider"
+            android:exported="true"
+            android:enabled="false"
+            android:label="@string/widget_name_progress">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_TICK" />
+                <action android:name="android.intent.action.DATE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_progress_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.agenda.NexusAgendaWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_agenda">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.TIME_TICK" />
+                <action android:name="android.intent.action.DATE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_agenda_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".ui.widgets.notes.NexusNotesWidgetProvider"
+            android:exported="true"
+            android:label="@string/widget_name_notes">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.nexus.launcher.ACTION_NEXUS_WIDGET_CONFIG_CHANGED" />
+                <action android:name="com.nexus.launcher.ACTION_APP_LOCALE_CHANGED" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_notes_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name=".search.ui.NexusSearchWidgetProvider"
+            android:exported="true"
+            android:label="@string/action_search">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/nexus_search_widget_info" />
+        </receiver>
+
+        <!-- Historical Icon Pack Studio apply/remove (undocumented in current IPS; cheap insurance). -->
+        <receiver
+            android:name=".integration.IconPackStudioReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.grabster.iconpackstudio.APPLY_ICON_PACK" />
+                <action android:name="com.grabster.iconpackstudio.REMOVE_ICON_PACK" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".service.NexusNotificationService"
+            android:label="@string/app_name"
+            android:exported="true"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action
+                    android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name=".service.NexusAccessibilityService"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_search_hint">Setelan penelusuran…</string>
+    <string name="settings_search_pages">Halaman</string>
+    <string name="settings_search_controls">Pengaturan</string>
+    <string name="settings_search_empty">Tidak ada pengaturan yang cocok dengan “%1$s”</string>
+    <string name="settings_jump_title">Lompat ke</string>
+    <string name="settings_jump_results">Hasil</string>
+    <string name="settings_search_no_results">Tidak ada pengaturan yang cocok dengan itu</string>
+    <string name="settings_jump_content_description">Lompat ke halaman pengaturan lain</string>
+    <string name="settings_group_layout">Tata Letak</string>
+    <string name="settings_group_appearance">Penampilan</string>
+    <string name="settings_group_behaviour">Perilaku</string>
+    <string name="settings_group_system">Sistem</string>
+    <string name="settings_hub_home_subtitle">Kisi, spasi, label, transisi</string>
+    <string name="settings_hub_drawer_subtitle">Tata letak, pencarian, kategori</string>
+    <string name="settings_hub_theme_title">Tema</string>
+    <string name="settings_hub_theme_subtitle">Mode, palet, aksen &amp; gaya UI</string>
+    <string name="settings_hub_icons_subtitle">Paket ikon, bentuk &amp; ikon bertema</string>
+    <string name="settings_hub_typography_title">Tipografi</string>
+    <string name="settings_hub_typography_subtitle">Keluarga font &amp; bahasa</string>
+    <string name="settings_hub_dock_title">Dock</string>
+    <string name="settings_hub_dock_subtitle">Latar belakang, ukuran, ikon &amp; tata letak</string>
+    <string name="settings_hub_immersive_title">Mode imersif</string>
+    <string name="settings_hub_immersive_subtitle">Baris status, pil, jam, baterai, dan sinyal</string>
+    <string name="settings_hub_gestures_subtitle">Tindakan geser, ketuk dua kali</string>
+    <string name="settings_page_gestures">Gerakan</string>
+    <string name="settings_page_search">Cari</string>
+    <string name="settings_hub_search_subtitle">Bilah pencarian, penyedia &amp; web</string>
+    <string name="settings_hub_notifications_title">Pemberitahuan &amp; Izin</string>
+    <string name="settings_hub_notifications_subtitle">Lencana dan izin</string>
+    <string name="settings_hub_backup_title">Cadangkan &amp; Pulihkan</string>
+    <string name="settings_hub_backup_subtitle">Ekspor atau impor tata letak</string>
+    <string name="settings_applying_language">Menerapkan bahasa…</string>
+    <string name="licenses_page_title">Lisensi</string>
+    <string name="licenses_page_subtitle">Lisensi sumber terbuka dan font</string>
+    <string name="licenses_section_fonts">Font</string>
+    <string name="licenses_section_libraries">Perpustakaan</string>
+</resources>

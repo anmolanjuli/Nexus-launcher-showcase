@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallpaper">Papel pintado</string>
+    <string name="settings_section_home_screen">Pantalla de inicio</string>
+    <string name="dialog_delete_page_title">¿Eliminar página %1$d?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">Esta página tiene 1 icono. Al eliminarla, se quitarán todos los iconos de esta página.</item>
+        <item quantity="other">Esta página tiene %1$d iconos. Al eliminarla, se quitarán todos los iconos de esta página.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">No se puede eliminar la última página</string>
+    <string name="manage_pages_subtitle">Páginas %1$d · Inicio es %2$d</string>
+    <string name="manage_pages_home_badge">Hogar</string>
+    <string name="backup_subtitle">Guarde la pantalla de inicio y los widgets en un archivo zip</string>
+    <string name="import_nova_title">Importar desde Nova Launcher</string>
+    <string name="import_nova_subtitle">Restaurar desde un .novabackup (reemplaza el diseño actual)</string>
+    <string name="import_nova_dialog_title">Importar copia de seguridad Nova</string>
+    <string name="import_nova_dialog_message">Esto importará el diseño de la pantalla de inicio de Nova Launcher y REEMPLAZARÁ la pantalla de inicio actual de Nexus. Nota: solo se transfieren las posiciones de aplicaciones/carpetas/widgets; NO se importarán las configuraciones de fondos de pantalla, temas, paquetes de íconos y gestos.</string>
+    <string name="toast_backup_imported">Copia de seguridad importada exitosamente</string>
+    <string name="toast_import_failed">Error de importación: %1$s</string>
+    <string name="toast_nova_backup_imported">Nova Backup se importó correctamente</string>
+    <string name="toast_nova_import_failed">Error al importar Nova: %1$s</string>
+</resources>

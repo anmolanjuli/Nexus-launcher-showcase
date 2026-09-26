@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dock_settings_title">Paramètres du dock</string>
+    <string name="dock_settings_section_layout">DISPOSITION ET DIMENSIONNEMENT</string>
+    <string name="dock_settings_section_background">CONTEXTE</string>
+    <string name="dock_settings_section_labels">ÉTIQUETTES &amp; RECHERCHE</string>
+    <string name="dock_settings_max_icons">Icônes maximales</string>
+    <string name="dock_settings_icon_size">Taille de l\'icône</string>
+    <string name="dock_settings_height">Hauteur</string>
+    <string name="dock_settings_corner_radius">Rayon de coin</string>
+    <string name="dock_settings_show_labels">Afficher les étiquettes</string>
+    <string name="dock_settings_font_size">Taille de la police</string>
+    <string name="dock_settings_show_search">Afficher la recherche</string>
+    <string name="dock_settings_opacity">Opacité</string>
+    <string name="dock_settings_zigzag_layout">Disposition en zigzag</string>
+    <string name="dock_settings_background">Contexte</string>
+    <string name="dock_settings_color">Couleur</string>
+</resources>

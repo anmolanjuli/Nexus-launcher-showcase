@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">تفعيل شارات الإشعارات</string>
+    <string name="notif_perm_body">اسمح لـ Nexus Launcher بقراءة الإشعارات لإظهار أعداد الشارات على أيقونات تطبيقاتك.\n\nيمكنك تغيير ذلك في أي وقت من الإعدادات ← التطبيقات ← وصول خاص للتطبيقات ← الوصول إلى الإشعارات.</string>
+    <string name="notif_perm_not_now">ليس الآن</string>
+    <string name="folder_default_name">مجلد</string>
+    <string name="folder_numbered_name">مجلد %1$d</string>
+    <string name="folder_remove_body_count">سيؤدي هذا إلى إزالة المجلد وجميع التطبيقات بداخله (%1$d).</string>
+    <string name="folder_discard_title">تجاهل التغييرات؟</string>
+    <string name="folder_discard_body">لن يتم حفظ تغييراتك.</string>
+    <string name="folder_keep_editing">متابعة التعديل</string>
+    <string name="folder_discard">تجاهل</string>
+    <string name="folder_background_style">نمط الخلفية</string>
+    <string name="gesture_group_navigation">التنقل</string>
+    <string name="gesture_group_system">النظام</string>
+    <string name="gesture_group_launcher">المشغّل</string>
+    <string name="gesture_group_shortcuts">الاختصارات</string>
+    <string name="icon_edit_unsaved_title">تغييرات غير محفوظة</string>
+    <string name="icon_edit_unsaved_message">لديك تغييرات غير محفوظة. هل تريد الخروج بالتأكيد؟</string>
+    <string name="icon_edit_continue">متابعة التعديل</string>
+    <string name="icon_edit_reset_title">إعادة التعيين إلى الافتراضي</string>
+    <string name="icon_edit_reset_message">هل تريد بالتأكيد إعادة كل التعديلات المخصصة لهذا التطبيق إلى قيمها الافتراضية؟</string>
+    <string name="icon_edit_title">تعديل التطبيق</string>
+    <string name="menu_move">نقل</string>
+    <string name="menu_elevation">الارتفاع</string>
+    <string name="menu_replace">استبدال</string>
+    <string name="menu_padding">الحشو</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="mosaic_add_widget">إضافة أداة</string>
+    <string name="mosaic_add_widget_full">إضافة أداة (ممتلئ)</string>
+    <string name="mosaic_remove_widget_title">إزالة الأداة</string>
+    <string name="mosaic_remove_restore_desc">أعد هذه الأداة إلى الشاشة الرئيسية، أو احذفها نهائيًا.</string>
+    <string name="mosaic_remove_no_space_desc">لا توجد مساحة فارغة في الشاشة الرئيسية لاستعادة هذه الأداة. يمكنك حذفها نهائيًا.</string>
+    <string name="mosaic_remove_restore_action">استعادة إلى الشاشة الرئيسية</string>
+    <string name="progress_preset_label">إعداد مسبق</string>
+    <string name="progress_track_name_hint">اسم المسار</string>
+    <string name="progress_badge_mode">وضع الشارة</string>
+    <string name="progress_track_default">مسار</string>
+</resources>

@@ -1,0 +1,30 @@
+*.iml
+.gradle/
+build/
+**/build/
+.idea/
+.kotlin/
+.worktrees/
+.artifacts/
+.claude/
+
+# Local & machine configuration
+local.properties
+/local.properties
+
+# Signing & secrets
+*.jks
+*.keystore
+google-services.json
+
+# System & caches
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+__pycache__/
+*.pyc
+
+# Temporary scratch archives
+nova.zip
+nova_extracted/

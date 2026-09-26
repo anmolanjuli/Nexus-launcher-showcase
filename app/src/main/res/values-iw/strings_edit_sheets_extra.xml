@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">הפעל תגי התראות</string>
+    <string name="notif_perm_body">אפשר ל-Nexus Launcher לקרוא התראות כדי להציג מוני תגים על סמלי האפליקציות.\n\nאפשר לשנות זאת בכל עת בהגדרות ← אפליקציות ← גישה מיוחדת לאפליקציות ← גישה להתראות.</string>
+    <string name="notif_perm_not_now">לא עכשיו</string>
+    <string name="folder_default_name">תיקייה</string>
+    <string name="folder_numbered_name">תיקייה %1$d</string>
+    <string name="folder_remove_body_count">פעולה זו תסיר את התיקייה ואת כל %1$d האפליקציות שבתוכה.</string>
+    <string name="folder_discard_title">לבטל את השינויים?</string>
+    <string name="folder_discard_body">השינויים שלך לא יישמרו.</string>
+    <string name="folder_keep_editing">המשך לערוך</string>
+    <string name="folder_discard">בטל שינויים</string>
+    <string name="folder_background_style">סגנון רקע</string>
+    <string name="gesture_group_navigation">ניווט</string>
+    <string name="gesture_group_system">מערכת</string>
+    <string name="gesture_group_launcher">משגר</string>
+    <string name="gesture_group_shortcuts">קיצורי דרך</string>
+    <string name="icon_edit_unsaved_title">שינויים שלא נשמרו</string>
+    <string name="icon_edit_unsaved_message">יש לך שינויים שלא נשמרו. האם אתה בטוח שברצונך לצאת?</string>
+    <string name="icon_edit_continue">המשך לערוך</string>
+    <string name="icon_edit_reset_title">איפוס לברירת המחדל</string>
+    <string name="icon_edit_reset_message">האם אתה בטוח שברצונך לאפס את כל ההתאמות של אפליקציה זו לערכי ברירת המחדל?</string>
+    <string name="icon_edit_title">עריכת אפליקציה</string>
+    <string name="menu_move">הזז</string>
+    <string name="menu_elevation">גובה</string>
+    <string name="menu_replace">החלף</string>
+    <string name="menu_padding">ריפוד</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="mosaic_add_widget">הוסף ווידג\'ט</string>
+    <string name="mosaic_add_widget_full">הוסף ווידג\'ט (מלא)</string>
+    <string name="mosaic_remove_widget_title">הסרת ווידג\'ט</string>
+    <string name="mosaic_remove_restore_desc">שחזר ווידג\'ט זה למסך הבית, או מחק אותו לצמיתות.</string>
+    <string name="mosaic_remove_no_space_desc">אין מקום פנוי במסך הבית לשחזור הווידג\'ט. אפשר למחוק אותו לצמיתות.</string>
+    <string name="mosaic_remove_restore_action">שחזר למסך הבית</string>
+    <string name="progress_preset_label">הגדרה מוכנה</string>
+    <string name="progress_track_name_hint">שם המעקב</string>
+    <string name="progress_badge_mode">מצב תג</string>
+    <string name="progress_track_default">מעקב</string>
+</resources>

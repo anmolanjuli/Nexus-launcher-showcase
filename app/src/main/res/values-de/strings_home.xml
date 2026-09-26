@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallpaper">Tapete</string>
+    <string name="settings_section_home_screen">Startbildschirm</string>
+    <string name="dialog_delete_page_title">Seite %1$d löschen?</string>
+    <plurals name="dialog_delete_page_message">
+        <item quantity="one">Diese Seite enthält 1 Symbol. Durch das Löschen werden alle Symbole auf dieser Seite entfernt.</item>
+        <item quantity="other">Diese Seite enthält %1$d Symbole. Durch das Löschen werden alle Symbole auf dieser Seite entfernt.</item>
+    </plurals>
+    <string name="toast_cant_delete_last_page">Letzte Seite kann nicht gelöscht werden</string>
+    <string name="manage_pages_subtitle">%1$d Seiten · Zuhause ist %2$d</string>
+    <string name="manage_pages_home_badge">Zuhause</string>
+    <string name="backup_subtitle">Startbildschirm und Widgets in einer ZIP-Datei speichern</string>
+    <string name="import_nova_title">Import aus Nova Launcher</string>
+    <string name="import_nova_subtitle">Wiederherstellung aus einem .novabackup (ersetzt das aktuelle Layout)</string>
+    <string name="import_nova_dialog_title">Nova Backup importieren</string>
+    <string name="import_nova_dialog_message">Dadurch wird das Layout deines Nova Launcher-Startbildschirms importiert und dein aktueller Nexus-Startbildschirm ERSETZT. Hinweis: Es werden nur App-/Ordner-/Widget-Positionen übertragen – Hintergrundbild, Design, Symbolpaket und Gesteneinstellungen werden NICHT importiert.</string>
+    <string name="toast_backup_imported">Backup erfolgreich importiert</string>
+    <string name="toast_import_failed">Import fehlgeschlagen: %1$s</string>
+    <string name="toast_nova_backup_imported">Nova Backup erfolgreich importiert</string>
+    <string name="toast_nova_import_failed">Nova-Import fehlgeschlagen: %1$s</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_sheet_title">Notificaciones</string>
+    <string name="notification_sheet_clear">Borrar</string>
+    <string name="notification_sheet_dismiss">Descartar</string>
+    <string name="notification_sheet_empty">No hay notificaciones</string>
+    <string name="notification_history_title">Guardar las notificaciones</string>
+    <string name="notification_history_subtitle">Léelas en el panel del launcher, incluso después de borrarlas. Su texto se guarda en este teléfono.</string>
+    <string name="notification_retention_title">Guardar durante</string>
+    <string name="notification_retention_1h">1 hora</string>
+    <string name="notification_retention_6h">6 horas</string>
+    <string name="notification_retention_1d">1 día</string>
+    <string name="notification_retention_3d">3 días</string>
+    <string name="notification_retention_7d">7 días</string>
+</resources>

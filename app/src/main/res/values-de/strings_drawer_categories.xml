@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_category_recent">Zuletzt</string>
+    <string name="drawer_category_quick_actions">Schnellaktionen</string>
+    <string name="drawer_category_search_hint">Apps suchen</string>
+    <string name="drawer_category_see_all">Alle ansehen</string>
+    <string name="drawer_category_see_less">Weniger ansehen</string>
+    <string name="drawer_category_color_title">Kategoriefarbe</string>
+    <string name="drawer_category_color_change">Kategoriefarbe ändern</string>
+    <string name="drawer_category_layout_label">Kategorie-Layout</string>
+    <string name="drawer_category_layout_subtitle">Wie die Kategorien in der App-Liste angeordnet sind</string>
+    <string name="drawer_category_layout_spatial">Karten</string>
+    <string name="drawer_category_layout_strip">Streifen</string>
+    <string name="drawer_category_layout_list">Liste</string>
+    <string name="drawer_category_untagged_folders">Ordner</string>
+    <string name="drawer_grid_or_list_categories">Kategorien</string>
+    <string name="drawer_layout_categories">Kategorien</string>
+    <string name="drawer_overflow_mode_categories">Kategorien</string>
+    <plurals name="drawer_category_app_count">
+        <item quantity="one">%1$d App</item>
+        <item quantity="other">%1$d Apps</item>
+    </plurals>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_travel">Reisen</string>
+    <string name="category_health">Gesundheit</string>
+    <string name="category_news">Nachrichten</string>
+    <string name="category_education">Bildung</string>
+    <string name="category_photography">Fotografie</string>
+    <string name="category_music">Musik</string>
+    <string name="category_video">Video</string>
+    <string name="category_food">Essen</string>
+    <string name="category_weather">Wetter</string>
+    <string name="category_add_title">Kategorie hinzufügen</string>
+    <string name="category_add_subtitle">Die passenden Apps wandern sofort hinein.</string>
+    <string name="category_create_your_own">Eigene erstellen</string>
+    <string name="premium_feature_immersive">Immersiver Startbildschirm</string>
+    <string name="premium_feature_immersive_desc">Systemleisten ausblenden, eigene Statuszeile anzeigen und das Dock abschalten.</string>
+    <string name="category_sort_title">Apps einsortieren</string>
+    <string name="category_sort_move">Apps zum Verschieben auswählen</string>
+    <string name="category_sort_move_count">%1$d Apps verschieben</string>
+    <string name="category_sort_pick">Verschieben nach</string>
+    <string name="category_uncategorised">Nicht einsortiert</string>
+    <string name="category_personalization">Personalisierung</string>
+</resources>

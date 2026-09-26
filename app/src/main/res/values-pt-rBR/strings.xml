@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_save">Salvar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_reset">Redefinir</string>
+    <string name="action_apply">Aplicar</string>
+    <string name="action_remove">Remover</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_select">Selecionar</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_search">Procurar</string>
+    <string name="action_new">Novo</string>
+    <string name="action_recent">Recente</string>
+    <string name="action_sort">Organizar</string>
+    <string name="action_sort_apps">Classificar aplicativos</string>
+    <string name="action_exit">Sair</string>
+    <string name="action_add_apps">Adicionar aplicativos</string>
+    <string name="action_add_to_home">Adicionar à página inicial</string>
+    <string name="action_ok">OK</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_proceed">Prosseguir</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_create_folder">Criar pasta</string>
+    <string name="action_uninstall">Desinstalar</string>
+    <string name="action_pin">Fixar</string>
+    <string name="action_open_settings">Abrir configurações</string>
+    <string name="action_resize">Redimensionar</string>
+    <string name="action_set_category">Definir categoria</string>
+    <string name="menu_dock_settings">Configurações do Dock</string>
+    <string name="menu_hide_app">Ocultar aplicativo</string>
+    <string name="menu_unhide_app">Mostrar aplicativo</string>
+    <string name="menu_widgets">Widgets</string>
+    <string name="menu_change_category">Alterar categoria</string>
+    <string name="home_edit_apps">Aplicativos</string>
+    <string name="home_edit_widgets">Widgets</string>
+    <string name="home_edit_wallpaper">Papel de parede</string>
+    <string name="home_edit_pages">Páginas</string>
+    <string name="home_edit_folder">Pasta</string>
+    <string name="home_edit_shortcut">Atalho</string>
+    <string name="home_edit_settings">Configurações</string>
+    <string name="home_edit_lock_layout">Layout de bloqueio</string>
+    <string name="home_edit_locked">🔒 Bloqueado</string>
+    <plurals name="selection_count">
+        <item quantity="one">%1$d selecionado</item>
+        <item quantity="other">%1$d selecionados</item>
+    </plurals>
+    <string name="dialog_discard_title">Descartar alterações?</string>
+    <string name="dialog_discard_message">Suas alterações não serão salvas.</string>
+    <string name="toast_cannot_launch_shortcut">Não é possível iniciar o atalho</string>
+    <string name="app_not_found">Aplicativo não encontrado</string>
+    <string name="app_launch_failed">Não é possível iniciar o aplicativo</string>
+    <string name="toast_drop_not_allowed">Drop não permitido</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">Ordner</string>
+    <string name="folder_edit_title">Ordner bearbeiten</string>
+    <string name="folder_edit_name_label">Ordnername</string>
+    <string name="folder_edit_section_preview_style">VORSCHAU-STIL</string>
+    <string name="folder_edit_preview_style_desc">So sieht das geschlossene Symbol auf der Startseite aus</string>
+    <string name="folder_edit_section_background">HINTERGRUND</string>
+    <string name="folder_edit_opacity_icon">Deckkraft – Symbol</string>
+    <string name="folder_edit_opacity_open_window">Deckkraft bei geöffnetem Fenster</string>
+    <string name="folder_context_resize">Ordnergröße ändern</string>
+    <string name="folder_context_flip">Ordner umdrehen</string>
+    <string name="folder_dialog_rename_title">Ordner umbenennen</string>
+    <string name="folder_dialog_remove_title">Ordner entfernen?</string>
+    <string name="folder_app_picker_title">Apps auswählen</string>
+    <string name="folder_app_picker_search_hint">Apps finden…</string>
+    <string name="folder_app_picker_include_other_folders">Apps aus anderen Ordnern einbeziehen</string>
+    <string name="folder_app_picker_save_to_folder">Im Ordner speichern</string>
+    <string name="folder_shape_row_title">Form</string>
+    <string name="icon_shape_row_title">Form</string>
+    <string name="folder_shape_category_basic">Klassisch</string>
+    <string name="folder_shape_category_special">Gestylt</string>
+    <string name="toast_app_already_in_folder">Diese App befindet sich bereits im Ordner</string>
+</resources>

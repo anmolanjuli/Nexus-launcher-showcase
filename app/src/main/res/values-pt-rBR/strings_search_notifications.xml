@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_access_title">Acesso à notificação</string>
+    <string name="notification_access_desc">Obrigatório para contagens de emblemas e widget de música</string>
+    <string name="storage_access_title">Armazenamento e acesso à mídia</string>
+    <string name="storage_access_desc">Necessário para desfoque em papéis de parede de terceiros</string>
+    <string name="accessibility_service_title">Serviço de acessibilidade</string>
+    <string name="accessibility_service_desc">Obrigatório para ações de gestos globais</string>
+    <string name="app_usage_title">Acesso de uso de aplicativos</string>
+    <string name="app_usage_desc">Obrigatório para gesto recente e brilho de estrela</string>
+    <string name="location_access_title">Acesso à localização</string>
+    <string name="location_access_desc">Obrigatório para o widget Clima</string>
+    <string name="system_permissions_title">Sistema e permissões</string>
+    <string name="permissions_granted_format">%1$d de %2$d permissões concedidas</string>
+    <string name="permission_status_granted">Concedido</string>
+    <string name="permission_status_tap_to_enable">Toque para ativar</string>
+    <string name="permission_status_enabled">Habilitado</string>
+    <string name="badge_header_title">Selos de notificação</string>
+    <string name="badge_app_icon_title">Emblemas de ícones de aplicativos</string>
+    <string name="badge_app_icon_subtitle">Contagem numérica ou ponto de notificação no ícone do aplicativo</string>
+    <string name="badge_folder_title">Emblemas de pasta</string>
+    <string name="badge_folder_subtitle">Contagem total de todos os aplicativos dentro da pasta</string>
+    <string name="badge_opt_off">Desligado</string>
+    <string name="badge_opt_dot">Ponto</string>
+    <string name="badge_opt_count">Contar</string>
+    <string name="badge_color_custom_hint">%1$s • Toque no círculo para personalizar</string>
+    <string name="badge_color_red">Vermelho</string>
+    <string name="badge_color_green">Verde</string>
+    <string name="badge_color_blue">Azul</string>
+    <string name="badge_color_red_default">Vermelho (padrão)</string>
+    <string name="badge_summary_format">Aplicativo: %1$s • Pasta: %2$s</string>
+    <string name="search_micro_actions_title">Microações</string>
+    <string name="search_micro_actions_desc">Cálculos instantâneos e conversões de unidades diretamente na pesquisa</string>
+    <string name="search_sources_title">Fontes de pesquisa</string>
+    <string name="search_sources_desc">Itens de dispositivos e provedores de pesquisa externos</string>
+    <string name="search_calc_title">Calculadora</string>
+    <string name="search_calc_desc">Resolva equações matemáticas diretamente na pesquisa</string>
+    <string name="search_conv_title">Conversão de unidades</string>
+    <string name="search_conv_desc">Converta moeda, métricas e unidades de medida</string>
+    <string name="search_contacts_title">Contatos</string>
+    <string name="search_contacts_desc">Mostrar contatos de dispositivos correspondentes nos resultados da pesquisa</string>
+    <string name="search_web_title">Pesquisa na Web</string>
+    <string name="search_web_desc">Mostrar sugestões da web e atalho padrão do mecanismo de pesquisa</string>
+    <string name="search_maps_title">Pesquisa de mapas</string>
+    <string name="search_maps_desc">Mostrar opção de mapas quando a consulta não tiver correspondência de aplicativo ou contato</string>
+</resources>

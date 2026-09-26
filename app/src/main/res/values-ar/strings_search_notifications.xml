@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notifications & Permissions (Arabic) -->
+    <string name="notification_access_title">الوصول إلى الإشعارات</string>
+    <string name="notification_access_desc">مطلوب لعداد الشارات وأداة الموسيقى</string>
+    <string name="storage_access_title">الوصول إلى التخزين والوسائط</string>
+    <string name="storage_access_desc">مطلوب للتأثير الضبابي على خلفيات الشاشة الخارجية</string>
+    <string name="accessibility_service_title">خدمة إمكانية الوصول</string>
+    <string name="accessibility_service_desc">مطلوب لإجراءات الإيماءات العامة</string>
+    <string name="app_usage_title">الوصول إلى بيانات الاستخدام</string>
+    <string name="app_usage_desc">مطلوب لإيماءة التطبيقات الحديثة والتوهج النجمي</string>
+    <string name="location_access_title">الوصول إلى الموقع الجغرافي</string>
+    <string name="location_access_desc">مطلوب لويدجت الطقس</string>
+    <string name="system_permissions_title">النظام والأذونات</string>
+    <string name="permissions_granted_format">تم منح %1$d من أصل %2$d أذونات</string>
+    <string name="permission_status_granted">تم المنح</string>
+    <string name="permission_status_tap_to_enable">انقر للتفعيل</string>
+    <string name="permission_status_enabled">مفعل</string>
+
+    <string name="badge_header_title">شارات الإشعارات</string>
+    <string name="badge_app_icon_title">شارات أيقونات التطبيقات</string>
+    <string name="badge_app_icon_subtitle">رقم عددي أو نقطة إشعار على أيقونة التطبيق</string>
+    <string name="badge_folder_title">شارات المجلدات</string>
+    <string name="badge_folder_subtitle">العدد الإجمالي من جميع التطبيقات داخل المجلد</string>
+    <string name="badge_opt_off">إيقاف</string>
+    <string name="badge_opt_dot">نقطة</string>
+    <string name="badge_opt_count">عدد</string>
+    <string name="badge_color_custom_hint">%1$s • انقر على الدائرة للتخصيص</string>
+    <string name="badge_color_red">أحمر</string>
+    <string name="badge_color_green">أخضر</string>
+    <string name="badge_color_blue">أزرق</string>
+    <string name="badge_color_red_default">أحمر (افتراضي)</string>
+    <string name="badge_summary_format">تطبيق: %1$s • مجلد: %2$s</string>
+
+    <!-- Search Settings -->
+    <string name="search_micro_actions_title">إجراءات مصغرة</string>
+    <string name="search_micro_actions_desc">حسابات فورية وتحويل وحدات مباشرة في البحث</string>
+    <string name="search_sources_title">مصادر البحث</string>
+    <string name="search_sources_desc">عناصر الجهاز ومزودو البحث الخارجيون</string>
+    <string name="search_calc_title">الحاسبة</string>
+    <string name="search_calc_desc">حل المعادلات الرياضية مباشرة داخل البحث</string>
+    <string name="search_conv_title">تحويل الوحدات</string>
+    <string name="search_conv_desc">تحويل العملات والمقاييس ووحدات القياس</string>
+    <string name="search_contacts_title">جهات الاتصال</string>
+    <string name="search_contacts_desc">إظهار جهات الاتصال المطابقة في نتائج البحث</string>
+    <string name="search_web_title">البحث في الويب</string>
+    <string name="search_web_desc">إظهار اقتراحات الويب واختصار محرك البحث الافتراضي</string>
+    <string name="search_maps_title">بحث الخرائط</string>
+    <string name="search_maps_desc">إظهار خيار الخرائط عندما لا يتطابق البحث مع تطبيق أو جهة اتصال</string>
+</resources>

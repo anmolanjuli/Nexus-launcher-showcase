@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gesture Settings (Hebrew) -->
+    <string name="gestures_one_finger_title">החלקה באצבע אחת</string>
+    <string name="gestures_one_finger_desc">פעולות החלקה באצבע אחת בשטח ריק במסך הבית</string>
+    <string name="gestures_two_finger_title">החלקה בשתי אצבעות</string>
+    <string name="gestures_two_finger_desc">פעולות החלקה בשתי אצבעות בשטח ריק במסך הבית</string>
+    <string name="gesture_swipe_up">החלקה למעלה</string>
+    <string name="gesture_swipe_down">החלקה למטה</string>
+    <string name="gesture_two_finger_swipe_up">החלקה למעלה בשתי אצבעות</string>
+    <string name="gesture_two_finger_swipe_down">החלקה למטה בשתי אצבעות</string>
+
+    <!-- Gesture Actions -->
+    <string name="gesture_action_none">ללא</string>
+    <string name="gesture_action_open_app_info">פתח פרטי אפליקציה</string>
+    <string name="gesture_action_lock_screen">נעל מסך</string>
+    <string name="gesture_action_toggle_flashlight">הפעל/כבה פנס</string>
+    <string name="gesture_action_open_app_drawer">פתח מגירת אפליקציות</string>
+    <string name="gesture_action_open_specific_app">פתח אפליקציה מסוימת</string>
+    <string name="gesture_action_open_specific_page">פתח דף מסוים</string>
+    <string name="gesture_action_open_specific_folder">פתח תיקייה מסוימת</string>
+    <string name="gesture_action_open_specific_shortcut">פתח קיצור דרך מסוים</string>
+    <string name="gesture_action_expand_notifications">הרחב התראות</string>
+    <string name="gesture_action_open_quick_settings">פתח הגדרות מהירות</string>
+    <string name="gesture_action_show_recents">הצג יישומים אחרונים</string>
+    <string name="gesture_action_take_screenshot">צלם מסך</string>
+    <string name="gesture_action_show_power_menu">הצג תפריט הפעלה</string>
+    <string name="gesture_action_open_search">פתח חיפוש</string>
+    <string name="gesture_action_next_page">דף הבא</string>
+    <string name="gesture_action_prev_page">דף קודם</string>
+    <string name="gesture_action_toggle_labels">הצג/הסתר תוויות</string>
+    <string name="gesture_action_open_home_edit">מצב עריכת מסך הבית</string>
+    <string name="gesture_action_split_screen">מסך מפוצל</string>
+    <string name="gesture_requires_accessibility">דורש נגישות</string>
+</resources>

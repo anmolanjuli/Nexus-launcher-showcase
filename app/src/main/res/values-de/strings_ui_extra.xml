@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_pages_title">Seiten verwalten</string>
+    <string name="manage_pages_subtitle_one">1 Seite · Zuhause ist %1$d</string>
+    <string name="hidden_apps_empty">Keine versteckten Apps</string>
+    <string name="hidden_apps_unhide">Einblenden</string>
+    <string name="folder_cover_icon_title">Cover-Symbol wählen</string>
+    <string name="folder_menu_remove_from_folder">Aus Ordner entfernen</string>
+    <string name="folder_sort_custom">Benutzerdefiniert</string>
+    <string name="folder_picker_add_remove">%1$d hinzufügen, %2$d entfernen</string>
+    <string name="folder_picker_no_changes">Keine Änderungen</string>
+    <string name="toast_app_already_exists">App existiert bereits</string>
+    <string name="picker_add_apps_to_folder">Apps zum Ordner hinzufügen</string>
+    <string name="picker_add_apps_to_home">Apps zum Startbildschirm hinzufügen</string>
+    <string name="picker_show_other_folder_apps">Apps in anderen Ordnern anzeigen</string>
+    <string name="picker_no_apps_found">Keine Apps gefunden</string>
+    <string name="picker_no_apps_match">Keine Apps stimmen mit „%1$s“ überein</string>
+    <string name="picker_save_changes_counts">Änderungen speichern (+ %1$d , − %2$d )</string>
+    <string name="picker_remove_all_apps">Alle Apps entfernen</string>
+    <string name="action_done">Fertig</string>
+    <string name="picker_select_shortcut">Verknüpfung auswählen</string>
+    <string name="picker_search_shortcuts">Suchverknüpfungen…</string>
+    <string name="picker_no_shortcuts_title">Keine Verknüpfungen verfügbar</string>
+    <string name="picker_no_shortcuts_desc">Muss als Standard-Launcher festgelegt werden, um auf Verknüpfungen zugreifen zu können.</string>
+    <string name="picker_no_results">Keine Ergebnisse gefunden</string>
+    <string name="picker_no_shortcuts_match">Keine Verknüpfungen stimmen mit „%1$s“ überein</string>
+    <string name="gesture_pick_folder_title">Ordner auswählen</string>
+    <string name="gesture_no_folders">Keine Ordner verfügbar</string>
+    <string name="gesture_pick_page_title">Seite auswählen</string>
+    <string name="wallpaper_set_title">Hintergrundbild festlegen</string>
+    <string name="wallpaper_select_tint">Tönungsfarbe wählen</string>
+    <string name="wallpaper_more">Mehr</string>
+    <string name="wallpaper_no_other_apps">Keine anderen Wallpaper-Apps gefunden</string>
+    <string name="wallpaper_type_system">System</string>
+    <string name="wallpaper_type_gradient">Farbverlauf</string>
+    <string name="wallpaper_type_others">Andere</string>
+    <string name="wallpaper_dim">Schwach</string>
+    <string name="wallpaper_tint_strength">Stärke</string>
+    <string name="frost_capture_channel">Hintergrundbilderfassung</string>
+    <string name="frost_capture_notification">Tapeten für Frost einfangen</string>
+    <string name="frost_tab_explainer">Dein aktuelles Hintergrundbild wird außerhalb von Nexus verwaltet, deshalb muss Milchglas es einmalig erfassen, um es hinter Widgets und Ordnern weichzuzeichnen. Android bittet dich, eine kurze Bildschirmaufnahme zu bestätigen. Die App blendet zuerst ihre eigenen Symbole und Widgets aus, nimmt ein einziges Bild auf und stoppt sofort, sodass nur das Hintergrundbild gespeichert wird.</string>
+    <string name="frost_tab_theme_color_warning">Die Hintergrundebene ist in den Designeinstellungen auf „Themenfarbe“ gestellt. Dadurch wird das Hintergrundbild überall durch eine einfarbige Fläche ersetzt – auch beim Milchglas. Dein erfasstes Hintergrundbild erscheint erst, wenn du auf „Hintergrund“ umstellst.</string>
+    <string name="frost_tab_switch_layer">Hintergrundebene auf „Hintergrund“ umstellen</string>
+    <string name="frost_tab_disabled_warning">„Milchglas“ ist unter „Nexus-Einstellungen“ &gt; „Darstellung“ deaktiviert – Frost wird nirgendwo, auch nicht hier, angezeigt, bis es wieder aktiviert wird.</string>
+    <string name="frost_capture_status_set">Frosteinfang: eingestellt</string>
+    <string name="frost_capture_status_unset">Frost-Erfassung: nicht eingerichtet – Milchglasflächen wirken flach, bis du eine Aufnahme machst</string>
+    <string name="frost_capturing">Erfassen…</string>
+    <string name="frost_capture_failed">Aufnahme fehlgeschlagen – versuch es noch einmal</string>
+    <string name="frost_capture_clear">Erfasstes Hintergrundbild löschen</string>
+    <string name="widget_picker_search">Such-Widgets…</string>
+    <string name="widget_picker_system_only">Nur System-Widgets – wähle einen Anbieter für dieses Mosaik</string>
+    <string name="widget_picker_empty">Keine Widgets gefunden</string>
+    <string name="mosaic_empty_swipe_or_add">Wischen oder Widgets hinzufügen</string>
+    <string name="mosaic_empty_long_press">Lange drücken, um Widgets hinzuzufügen</string>
+    <string name="mosaic_focus_title">Widget-Fokus</string>
+    <string name="mosaic_open_app">App öffnen</string>
+    <string name="mosaic_manager_hint">Zieh am Griff, um die Reihenfolge zu ändern. Der Stern markiert das Hero-Widget.</string>
+    <string name="mosaic_empty_slot">Leerer Steckplatz</string>
+    <string name="mosaic_widget_number">Widget # %1$d</string>
+    <string name="calendar_event_no_title">(Kein Titel)</string>
+    <string name="widget_preview_note_title">Ideen und Gedanken</string>
+    <string name="widget_preview_note_body">Eisenhower-Matrix prüfen, Widget-Themes aktualisieren und neue Layout-Raster ausprobieren.</string>
+    <string name="reader_empty_file">Leere Datei.</string>
+    <string name="reader_chapter_fallback">Kapitel %1$d</string>
+    <string name="feed_empty_search">Keine Artikel gefunden, die mit „%1$s“ übereinstimmen</string>
+    <string name="feed_empty_saved">Noch keine gespeicherten Artikel. Halte eine Karte gedrückt, um sie zu speichern.</string>
+    <string name="feed_empty_category">Keine Quellen in dieser Kategorie – füge in den Einstellungen eine hinzu.</string>
+    <string name="feed_empty_recent">Keine Neuigkeiten aus den letzten 24 Stunden. Zum Aktualisieren nach unten ziehen oder „Erkunden“ aktivieren.</string>
+    <string name="feed_empty_default">Noch keine Artikel. Prüfe die Quellen oder zieh nach unten, um zu aktualisieren.</string>
+    <string name="feed_load_failed">Der Feed konnte nicht geladen werden</string>
+    <string name="feed_fetching">Abrufen…</string>
+    <string name="feed_time_just_now">gerade jetzt</string>
+    <string name="feed_time_minutes">Vor %1$d m</string>
+    <string name="feed_time_hours">Vor %1$d h</string>
+    <string name="feed_time_days">%1$d vor</string>
+    <string name="feed_time_weeks">%1$d vor</string>
+    <plurals name="folder_picker_add_to_folder">
+        <item quantity="one">%d App zum Ordner hinzufügen</item>
+        <item quantity="other">%d Apps zum Ordner hinzufügen</item>
+    </plurals>
+    <plurals name="folder_picker_remove_from_folder">
+        <item quantity="one">%d App aus dem Ordner entfernen</item>
+        <item quantity="other">%d Apps aus dem Ordner entfernen</item>
+    </plurals>
+    <plurals name="folder_app_count">
+        <item quantity="one">%d App</item>
+        <item quantity="other">%d Apps</item>
+    </plurals>
+    <plurals name="picker_add_count">
+        <item quantity="one">%d App hinzufügen</item>
+        <item quantity="other">%d Apps hinzufügen</item>
+    </plurals>
+    <plurals name="picker_remove_count">
+        <item quantity="one">%d App entfernen</item>
+        <item quantity="other">%d Apps entfernen</item>
+    </plurals>
+    <plurals name="picker_add_count_to_home">
+        <item quantity="one">%d App zum Startbildschirm hinzufügen</item>
+        <item quantity="other">%d Apps zum Startbildschirm hinzufügen</item>
+    </plurals>
+    <plurals name="feed_article_count">
+        <item quantity="one">%d Artikel</item>
+        <item quantity="other">%d Artikel</item>
+    </plurals>
+    <string name="category_new">Neue Kategorie</string>
+    <string name="category_name_hint">Kategoriename</string>
+    <string name="category_edit">Kategorien bearbeiten</string>
+    <string name="category_delete_title">„%1$s“ löschen?</string>
+    <string name="category_delete_body">Die Apps bleiben im App-Drawer und werden weiterhin unter „Alle“ angezeigt.</string>
+    <string name="category_restore_defaults">Standardkategorien wiederherstellen</string>
+    <string name="category_icon_title">Wähle ein Symbol</string>
+    <string name="category_icon_default">Standard verwenden</string>
+    <string name="category_rename_title">Kategorie umbenennen</string>
+    <string name="category_edit_hint">Tippe auf ein Symbol oder einen Namen, um es zu ändern</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_default_title">Folder</string>
+    <string name="folder_edit_title">Sunting map</string>
+    <string name="folder_edit_name_label">Nama folder</string>
+    <string name="folder_edit_section_preview_style">GAYA PRATINJAU</string>
+    <string name="folder_edit_preview_style_desc">Tampilan ikon tertutup di Beranda</string>
+    <string name="folder_edit_section_background">LATAR BELAKANG</string>
+    <string name="folder_edit_opacity_icon">Opasitas - Ikon</string>
+    <string name="folder_edit_opacity_open_window">Opasitas jendela terbuka</string>
+    <string name="folder_context_resize">Ubah Ukuran Folder</string>
+    <string name="folder_context_flip">Balik Folder</string>
+    <string name="folder_dialog_rename_title">Ganti Nama Folder</string>
+    <string name="folder_dialog_remove_title">Hapus Folder?</string>
+    <string name="folder_app_picker_title">Pilih Aplikasi</string>
+    <string name="folder_app_picker_search_hint">Temukan aplikasi…</string>
+    <string name="folder_app_picker_include_other_folders">Sertakan aplikasi di folder lain</string>
+    <string name="folder_app_picker_save_to_folder">Simpan ke Folder</string>
+    <string name="folder_shape_row_title">Bentuk</string>
+    <string name="icon_shape_row_title">Bentuk</string>
+    <string name="folder_shape_category_basic">Klasik</string>
+    <string name="folder_shape_category_special">Bergaya</string>
+    <string name="toast_app_already_in_folder">Aplikasi ini sudah ada di dalam folder</string>
+</resources>

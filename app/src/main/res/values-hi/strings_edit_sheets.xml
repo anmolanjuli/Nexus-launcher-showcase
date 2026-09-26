@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_sheet_tap_to_rename">नाम बदलने के लिए टैप करें</string>
+    <string name="edit_sheet_app_name_hint">ऐप का नाम</string>
+    <string name="edit_sheet_section_appearance">उपस्थिति</string>
+    <string name="edit_sheet_icon_source">चिह्न स्रोत</string>
+    <string name="edit_sheet_section_gestures">इशारे</string>
+    <string name="edit_sheet_gestures">इशारे</string>
+    <string name="edit_sheet_gallery">गैलरी</string>
+    <string name="edit_sheet_swipe_up">ऊपर की ओर स्वाइप करें</string>
+    <string name="edit_sheet_swipe_down">नीचे स्वाइप करें</string>
+    <string name="edit_sheet_double_tap">दो बार टैप करें</string>
+    <string name="edit_sheet_app_uninstalled">(ऐप अब इंस्टॉल नहीं है)</string>
+    <string name="edit_sheet_unnamed_folder">अनाम फ़ोल्डर</string>
+    <string name="edit_sheet_invalid_folder">(अमान्य फ़ोल्डर)</string>
+    <string name="edit_sheet_shortcut_unavailable">(शॉर्टकट अब उपलब्ध नहीं है)</string>
+    <string name="edit_sheet_invalid_shortcut">(अमान्य शॉर्टकट)</string>
+    <string name="folder_edit_window">खिड़की</string>
+    <string name="folder_edit_window_opacity">विंडो अपारदर्शिता</string>
+    <string name="folder_edit_icon">चिह्न</string>
+    <string name="folder_edit_icon_opacity">चिह्न अपारदर्शिता</string>
+    <string name="folder_edit_name_hint">फ़ोल्डर का नाम</string>
+    <string name="folder_edit_section_appearance">दिखावट</string>
+    <string name="folder_edit_section_layout">लेआउट</string>
+    <string name="folder_edit_section_gestures">इशारे</string>
+    <string name="folder_edit_glass_refraction">कांच का अपवर्तन</string>
+    <string name="folder_edit_preview_style">पूर्वावलोकन शैली</string>
+    <string name="folder_edit_columns">कॉलम</string>
+    <string name="folder_edit_show_labels">ऐप लेबल दिखाएँ</string>
+    <string name="folder_edit_expressive_gradient">अभिव्यंजक ढाल</string>
+    <string name="folder_preview_style_grid">ग्रिड</string>
+    <string name="folder_preview_style_fan">3 का प्रशंसक</string>
+    <string name="folder_preview_style_hero_orbit">हीरो + ऑर्बिट</string>
+    <string name="folder_preview_style_custom_icon">कस्टम चिह्न</string>
+    <string name="folder_preview_style_bento">बेंटो</string>
+    <string name="folder_new_title">नया फ़ोल्डर</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_perm_title">सूचना ब्याजहरू सक्षम गर्नुहोस्</string>
+    <string name="notif_perm_body">एप आइकनमा ब्याज संख्या देखाउन Nexus Launcher लाई सूचनाहरू पढ्न दिनुहोस्।\n\nतपाईं यसलाई जुनसुकै बेला सेटिङ → एप → विशेष एप पहुँच → सूचना पहुँचमा बदल्न सक्नुहुन्छ।</string>
+    <string name="notif_perm_not_now">अहिले होइन</string>
+    <string name="folder_default_name">फोल्डर</string>
+    <string name="folder_numbered_name">फोल्डर %1$d</string>
+    <string name="folder_remove_body_count">यसले फोल्डर र भित्रका सबै %1$d एप हटाउनेछ।</string>
+    <string name="folder_discard_title">परिवर्तनहरू खारेज गर्ने?</string>
+    <string name="folder_discard_body">तपाईंका परिवर्तनहरू सेभ हुने छैनन्।</string>
+    <string name="folder_keep_editing">सम्पादन जारी राख्नुहोस्</string>
+    <string name="folder_discard">खारेज गर्नुहोस्</string>
+    <string name="folder_background_style">पृष्ठभूमि शैली</string>
+    <string name="gesture_group_navigation">नेभिगेसन</string>
+    <string name="gesture_group_system">प्रणाली</string>
+    <string name="gesture_group_launcher">लन्चर</string>
+    <string name="gesture_group_shortcuts">सर्टकटहरू</string>
+    <string name="icon_edit_unsaved_title">सेभ नगरिएका परिवर्तन</string>
+    <string name="icon_edit_unsaved_message">तपाईंका सेभ नगरिएका परिवर्तन छन्। पक्का बाहिर निस्कने?</string>
+    <string name="icon_edit_continue">सम्पादन जारी राख्नुहोस्</string>
+    <string name="icon_edit_reset_title">पूर्वनिर्धारितमा रिसेट गर्नुहोस्</string>
+    <string name="icon_edit_reset_message">यो एपका सबै अनुकूल सम्पादन पूर्वनिर्धारित मानमा रिसेट गर्न निश्चित हुनुहुन्छ?</string>
+    <string name="icon_edit_title">एप सम्पादन गर्नुहोस्</string>
+    <string name="menu_move">सार्नुहोस्</string>
+    <string name="menu_elevation">उचाइ</string>
+    <string name="menu_replace">बदल्नुहोस्</string>
+    <string name="menu_padding">प्याडिङ</string>
+    <string name="menu_settings">सेटिङ</string>
+    <string name="mosaic_add_widget">विजेट थप्नुहोस्</string>
+    <string name="mosaic_add_widget_full">विजेट थप्नुहोस् (भरिएको)</string>
+    <string name="mosaic_remove_widget_title">विजेट हटाउनुहोस्</string>
+    <string name="mosaic_remove_restore_desc">यो विजेट गृह स्क्रिनमा फर्काउनुहोस्, वा स्थायी रूपमा मेटाउनुहोस्।</string>
+    <string name="mosaic_remove_no_space_desc">यो विजेट फर्काउन गृह स्क्रिनमा खाली ठाउँ छैन। तपाईं यसलाई स्थायी रूपमा मेटाउन सक्नुहुन्छ।</string>
+    <string name="mosaic_remove_restore_action">गृह स्क्रिनमा फर्काउनुहोस्</string>
+    <string name="progress_preset_label">प्रिसेट</string>
+    <string name="progress_track_name_hint">ट्र्याकको नाम</string>
+    <string name="progress_badge_mode">ब्याज मोड</string>
+    <string name="progress_track_default">ट्र्याक</string>
+</resources>

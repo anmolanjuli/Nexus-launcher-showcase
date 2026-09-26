@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Screen Settings Page (Hebrew) -->
+    <string name="home_settings_grid_layout_title">פריסת רשת</string>
+    <string name="home_settings_grid_layout_subtitle">עמודות, שורות, גודל סמל, תוויות ומחוון</string>
+    <string name="home_settings_columns">עמודות</string>
+    <string name="home_settings_columns_subtitle">משנה את מספר העמודות</string>
+    <string name="home_settings_rows">שורות</string>
+    <string name="home_settings_rows_subtitle">משנה את מספר השורות</string>
+    <string name="home_settings_icon_size">גודל סמל</string>
+    <string name="home_settings_icon_size_subtitle">משנה את ממדי סמלי האפליקציות</string>
+    <string name="home_settings_app_label">תווית אפליקציה</string>
+    <string name="home_settings_app_label_subtitle">הצג שמות אפליקציות מתחת לסמלים</string>
+    <string name="home_settings_page_indicator">מחוון דפים</string>
+    <string name="home_settings_page_indicator_subtitle">נקודות המציינות את הדף הנוכחי</string>
+
+    <string name="home_settings_screen_spacing_title">ריווח מסך</string>
+    <string name="home_settings_screen_spacing_subtitle">שוליים ורווחים בין אפליקציות</string>
+    <string name="home_settings_padding_horizontal">ריפוד אופקי</string>
+    <string name="home_settings_padding_horizontal_subtitle">שולי מסך ימניים ושמאליים</string>
+    <string name="home_settings_padding_vertical">ריפוד אנכי</string>
+    <string name="home_settings_padding_vertical_subtitle">שולי מסך עליונים ותחתונים</string>
+    <string name="home_settings_gap_horizontal">מרווח אופקי</string>
+    <string name="home_settings_gap_horizontal_subtitle">מרווח אופקי בין סמלים</string>
+    <string name="home_settings_gap_vertical">מרווח אנכי</string>
+    <string name="home_settings_gap_vertical_subtitle">מרווח אנכי בין סמלים</string>
+
+    <string name="home_settings_transitions_title">אפקטי מעבר</string>
+    <string name="home_settings_page_transition">מעבר בין דפים</string>
+    <string name="home_settings_transition_none">ללא</string>
+    <string name="home_settings_transition_slide">החלקה</string>
+    <string name="home_settings_transition_fade">עמעום</string>
+    <string name="home_settings_transition_cube">קובייה</string>
+    <string name="home_settings_transition_zoom">תקריב</string>
+    <string name="home_settings_transition_flip">היפוך</string>
+    <string name="home_settings_transition_gravity_fold">קיפול כבידה</string>
+    <string name="home_settings_reduce_motion">הפחתת תנועה</string>
+    <string name="home_settings_reduce_motion_subtitle">צמצום אנימציות בממשק</string>
+    <string name="home_settings_transition_speed">מהירות מעבר</string>
+    <string name="home_settings_transition_speed_subtitle">מהירות החלקה בין דפים</string>
+
+    <string name="home_settings_news_feed_title">הזנת חדשות</string>
+    <string name="home_settings_news_feed_subtitle">הזנות RSS</string>
+    <string name="home_settings_show_feed">החלק ימינה להזנת חדשות</string>
+    <string name="home_settings_show_feed_subtitle">הצג חדשות במסך השמאלי ביותר</string>
+    <string name="home_settings_immersive">מצב סוחף</string>
+    <string name="home_settings_immersive_subtitle">הסתרה של שורת הסטטוס וסרגל הניווט. כדי להציג אותם, מחליקים מקצה המסך.</string>
+    <string name="home_settings_status_info">שורת סטטוס סוחפת</string>
+    <string name="home_settings_status_info_subtitle">מוצגים ליד המצלמה במצב סוחף</string>
+    <string name="status_item_clock">שעון</string>
+    <string name="status_item_notifications">התראות</string>
+    <string name="status_item_wifi">Wi-Fi</string>
+    <string name="status_item_signal">קליטה סלולרית</string>
+    <string name="status_item_battery">סוללה</string>
+    <string name="home_settings_show_dock">הצגת המעגן</string>
+    <string name="home_settings_show_dock_subtitle">כשהאפשרות כבויה, הרשת משתמשת במקום של המעגן.</string>
+</resources>
