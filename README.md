@@ -4,7 +4,14 @@ Nexus Launcher is a high-performance, single-Activity Android launcher engineere
 
 > **Note:** Showcase snapshot of a launcher in active private development; some features are omitted.
 
-[SCREENSHOT]
+<p align="center">
+  <img src="docs/screenshots/home_screen_1.jpg" width="31%" alt="Home Screen & Living Mosaic" />
+  <img src="docs/screenshots/radial_menu.jpg" width="31%" alt="Radial Menu & Blur" />
+  <img src="docs/screenshots/app_drawer.jpg" width="31%" alt="App Drawer" />
+</p>
+<p align="center">
+  <em>Left: Home Screen & Living Mosaic &nbsp;&bull;&nbsp; Center: Radial Edit Menu & Workspace Blur &nbsp;&bull;&nbsp; Right: 5-Column Fast App Drawer</em>
+</p>
 
 ---
 
@@ -48,6 +55,15 @@ See the complete guidelines and prompt architecture:
 
 ---
 
-[SCREENSHOT]
+<p align="center">
+  <img src="docs/screenshots/home_screen_2.jpg" width="31%" alt="Home Screen Widgets" />
+  <img src="docs/screenshots/rss_feed.jpg" width="31%" alt="RSS Feed Pipeline" />
+  <img src="docs/screenshots/settings_page.jpg" width="31%" alt="Settings Architecture" />
+</p>
+<p align="center">
+  <em>Left: Custom Widgets & Dock &nbsp;&bull;&nbsp; Center: Dispatchers.IO RSS Feed Pipeline &nbsp;&bull;&nbsp; Right: Reactive DataStore Settings Hub</em>
+</p>
+
+---
 
 Proprietary Source Showcase. All rights reserved. This repository is made publicly available solely for portfolio review and technical evaluation.
